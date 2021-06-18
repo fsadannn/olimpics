@@ -58,6 +58,10 @@ class Tournament:
         self._semifinals()
         self._finals()
 
+    @property
+    def winners(self) -> List[Cyclist]:
+        return self._final + self._bronze + self._win58
+
     def _qualifying_round(self):
         results: List[Cyclist] = list(sorted(self._cyclists))
         self._accepted = results[:24]
