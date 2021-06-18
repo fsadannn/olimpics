@@ -46,6 +46,18 @@ class Tournament:
         self._bronze: List[Cyclist] = []
         self._win58: List[Cyclist] = []
 
+    def run(self):
+        self._qualifying_round()
+        self._round1()
+        self._repechage1()
+        self._round2()
+        self._repechage2()
+        self._round3()
+        self._repechage3()
+        self._quarterfinals()
+        self._semifinals()
+        self._finals()
+
     def _qualifying_round(self):
         results: List[Cyclist] = list(sorted(self._cyclists))
         self._accepted = results[:24]
@@ -174,7 +186,7 @@ class Tournament:
         self._semifinal_win = winners
         self._bronze_list = louse
 
-    def final(self):
+    def _finals(self):
         self._final = list(sorted(self._semifinal_win))
         cyclist1: Cyclist = self._bronze_list[0]
         cyclist2: Cyclist = self._bronze_list[1]
