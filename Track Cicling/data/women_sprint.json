@@ -13,7 +13,8 @@
                 Heat: 3,
                 Nation: "Canada",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 24.703
             }
         }
     },
@@ -24,7 +25,8 @@
                 Heat: 8,
                 Nation: "Russia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 15.975
             },
             qualifying: {
                 Behind: 0.251,
@@ -40,14 +42,16 @@
                 Notes: null,
                 "Race 1": "+0.033",
                 "Race 2": "+0.002",
-                Rank: 2
+                Rank: 2,
+                Time: 16.4925
             },
             sixteenth: {
                 Gap: null,
                 Heat: 5,
                 Nation: "Russia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 15.475
             }
         },
         "2018": {
@@ -56,7 +60,8 @@
                 Heat: 4,
                 Nation: "Russia",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 18.056
             },
             qualifying: {
                 Behind: 0.409,
@@ -70,7 +75,8 @@
                 Heat: 9,
                 Nation: "Russia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 17.554000000000002
             }
         },
         "2019": {
@@ -79,7 +85,8 @@
                 Heat: 7,
                 Nation: "Russia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 16.369999999999997
             },
             qualifying: {
                 Behind: 0.324,
@@ -95,14 +102,16 @@
                 Notes: null,
                 "Race 1": "+0.184",
                 "Race 2": "+0.405",
-                Rank: 2
+                Rank: 2,
+                Time: 17.164499999999997
             },
             sixteenth: {
                 Gap: null,
                 Heat: 6,
                 Nation: "Russia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 15.87
             }
         },
         "2020": {
@@ -111,14 +120,16 @@
                 Heat: 3,
                 Nation: "Russia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 18.122
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "Russia",
                 "Race 1": "+0.187",
                 "Race 2": "+0.138",
-                Rank: null
+                Rank: null,
+                Time: 19.799833333333336
             },
             qualifying: {
                 Behind: 0.258,
@@ -134,7 +145,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 18.622
             },
             semi: {
                 "Decider (i.r.)": "X",
@@ -143,14 +155,16 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "+0.046",
-                Rank: 1
+                Rank: 1,
+                Time: 19.137333333333334
             },
             sixteenth: {
                 Gap: null,
                 Heat: 10,
                 Nation: "Russia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 17.622
             }
         }
     },
@@ -228,7 +242,8 @@
                 Heat: 4,
                 Nation: "Mexico",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 23.924999999999997
             }
         },
         "2019": {
@@ -237,7 +252,8 @@
                 Heat: 2,
                 Nation: "Mexico",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 19.19
             },
             qualifying: {
                 Behind: 0.423,
@@ -251,7 +267,8 @@
                 Heat: 11,
                 Nation: "Mexico",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 18.469
             }
         },
         "2020": {
@@ -260,7 +277,8 @@
                 Heat: 5,
                 Nation: "Mexico",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 17.083
             },
             qualifying: {
                 Behind: 0.21899999999999997,
@@ -276,14 +294,16 @@
                 Notes: null,
                 "Race 1": "+0.062",
                 "Race 2": "+0.246",
-                Rank: 2
+                Rank: 2,
+                Time: 17.737
             },
             sixteenth: {
                 Gap: null,
                 Heat: 8,
                 Nation: "Mexico",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 16.583
             }
         }
     },
@@ -294,7 +314,8 @@
                 Heat: 7,
                 Nation: "Russia",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 16.562
             },
             qualifying: {
                 Behind: 0.28800000000000003,
@@ -308,7 +329,8 @@
                 Heat: 6,
                 Nation: "Russia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 16.012
             }
         },
         "2018": {
@@ -317,7 +339,8 @@
                 Heat: 4,
                 Nation: "Russia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 12.898
             },
             qualifying: {
                 Behind: 0.253,
@@ -333,7 +356,8 @@
                 Notes: null,
                 "Race 1": "+0.084",
                 "Race 2": "+0.251",
-                Rank: 2
+                Rank: 2,
+                Time: 13.5655
             }
         },
         "2019": {
@@ -342,7 +366,8 @@
                 Heat: 5,
                 Nation: "Russia",
                 Notes: "Relegated",
-                Rank: 2
+                Rank: 2,
+                Time: null
             },
             qualifying: {
                 Behind: 0.182,
@@ -356,7 +381,8 @@
                 Heat: 1,
                 Nation: "Russia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 13.228
             }
         },
         "2020": {
@@ -372,7 +398,8 @@
                 Heat: 6,
                 Nation: "Russia",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 22.53
             }
         }
     },
@@ -390,7 +417,8 @@
                 Heat: 1,
                 Nation: "India",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 25.941000000000003
             }
         }
     },
@@ -419,7 +447,8 @@
                 Heat: 6,
                 Nation: "New Zealand",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 22.874
             }
         }
     },
@@ -437,7 +466,8 @@
                 Heat: 6,
                 Nation: "Germany",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 22.953000000000003
             }
         },
         "2019": {
@@ -446,7 +476,8 @@
                 Heat: 7,
                 Nation: "Germany",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 14.780999999999999
             },
             qualifying: {
                 Behind: 0.22,
@@ -460,7 +491,8 @@
                 Heat: 3,
                 Nation: "Germany",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 14.265999999999998
             }
         },
         "2020": {
@@ -469,14 +501,16 @@
                 Heat: 1,
                 Nation: "Germany",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 10.864
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "Germany",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                Rank: null,
+                Time: 12.364
             },
             qualifying: {
                 Behind: null,
@@ -492,7 +526,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 11.364
             },
             semi: {
                 "Decider (i.r.)": null,
@@ -501,7 +536,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 11.864
             }
         }
     },
@@ -559,7 +595,8 @@
                 Heat: 2,
                 Nation: "China",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 25.240000000000002
             }
         }
     },
@@ -577,7 +614,8 @@
                 Heat: 2,
                 Nation: "Spain",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 25.341
             }
         }
     },
@@ -595,7 +633,8 @@
                 Heat: 11,
                 Nation: "Netherlands",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 20.182000000000002
             }
         }
     },
@@ -613,7 +652,8 @@
                 Heat: 9,
                 Nation: "Australia",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 17.588
             }
         }
     },
@@ -631,7 +671,8 @@
                 Heat: 12,
                 Nation: "Hong Kong",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 18.992
             }
         },
         "2020": {
@@ -658,7 +699,8 @@
                 Heat: 8,
                 Nation: "Mexico",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 21.288000000000004
             }
         }
     },
@@ -676,7 +718,8 @@
                 Heat: 3,
                 Nation: "Colombia",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 24.927
             }
         }
     },
@@ -698,7 +741,8 @@
                 Heat: 7,
                 Nation: "Australia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 14.962
             },
             qualifying: {
                 Behind: 0.23800000000000002,
@@ -714,14 +758,16 @@
                 Notes: null,
                 "Race 1": "+0.213",
                 "Race 2": "+0.068",
-                Rank: 2
+                Rank: 2,
+                Time: 15.6025
             },
             sixteenth: {
                 Gap: null,
                 Heat: 3,
                 Nation: "Australia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 14.462
             }
         },
         "2019": {
@@ -730,7 +776,8 @@
                 Heat: 6,
                 Nation: "Australia",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 14.291
             },
             qualifying: {
                 Behind: 0.196,
@@ -744,7 +791,8 @@
                 Heat: 2,
                 Nation: "Australia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 13.742
             }
         },
         "2020": {
@@ -760,7 +808,8 @@
                 Heat: 10,
                 Nation: "Australia",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 20.551000000000002
             }
         }
     },
@@ -771,7 +820,8 @@
                 Heat: 3,
                 Nation: "Canada",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 18.958000000000002
             },
             qualifying: {
                 Behind: 0.382,
@@ -785,7 +835,8 @@
                 Heat: 10,
                 Nation: "Canada",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 18.106
             }
         }
     },
@@ -803,7 +854,8 @@
                 Heat: 12,
                 Nation: "Great Britain",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 19.179000000000002
             }
         },
         "2018": {
@@ -819,7 +871,8 @@
                 Heat: 11,
                 Nation: "Great Britain",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 18.622
             }
         },
         "2019": {
@@ -828,7 +881,8 @@
                 Heat: 4,
                 Nation: "Great Britain",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 18.063999999999997
             },
             qualifying: {
                 Behind: 0.385,
@@ -842,7 +896,8 @@
                 Heat: 9,
                 Nation: "Great Britain",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 17.430999999999997
             }
         },
         "2020": {
@@ -851,7 +906,8 @@
                 Heat: 7,
                 Nation: "Great Britain",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 16.096000000000004
             },
             qualifying: {
                 Behind: 0.195,
@@ -865,7 +921,8 @@
                 Heat: 6,
                 Nation: "Great Britain",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 15.559000000000001
             }
         }
     },
@@ -883,7 +940,8 @@
                 Heat: 1,
                 Nation: "Japan",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 26.137
             }
         }
     },
@@ -894,14 +952,16 @@
                 Heat: 7,
                 Nation: "Canada",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 14.504000000000001
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "Canada",
                 "Race 1": "+0.113",
                 "Race 2": "+0.107",
-                Rank: "4"
+                Rank: "4",
+                Time: 16.657333333333334
             },
             qualifying: {
                 Behind: 0.14,
@@ -917,7 +977,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 15.004000000000001
             },
             semi: {
                 "Decider (i.r.)": "+0.066",
@@ -926,14 +987,16 @@
                 Notes: null,
                 "Race 1": "+0.064",
                 "Race 2": "X",
-                Rank: 2
+                Rank: 2,
+                Time: 15.547333333333334
             },
             sixteenth: {
                 Gap: null,
                 Heat: 3,
                 Nation: "Canada",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 14.004000000000001
             }
         }
     },
@@ -951,7 +1014,8 @@
                 Heat: 7,
                 Nation: "South Korea",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 22.396
             }
         },
         "2018": {
@@ -971,14 +1035,16 @@
                 Heat: 3,
                 Nation: "Germany",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 12.315999999999999
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "Germany",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                Rank: null,
+                Time: 13.815999999999999
             },
             qualifying: {
                 Behind: 0.092,
@@ -994,7 +1060,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 12.815999999999999
             },
             semi: {
                 "Decider (i.r.)": null,
@@ -1003,7 +1070,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 13.315999999999999
             }
         },
         "2018": {
@@ -1012,14 +1080,16 @@
                 Heat: 3,
                 Nation: "Germany",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 12.31
             },
             final: {
                 "Decider (i.r.)": "X",
                 Nation: "Germany",
                 "Race 1": "X",
                 "Race 2": "+0.161",
-                Rank: null
+                Rank: null,
+                Time: 13.863666666666667
             },
             qualifying: {
                 Behind: 0.165,
@@ -1035,7 +1105,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 12.81
             },
             semi: {
                 "Decider (i.r.)": null,
@@ -1044,7 +1115,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 13.31
             }
         }
     },
@@ -1062,7 +1134,8 @@
                 Heat: 8,
                 Nation: "Canada",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 16.963
             }
         },
         "2020": {
@@ -1071,7 +1144,8 @@
                 Heat: 6,
                 Nation: "Canada",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 14.028
             },
             qualifying: {
                 Behind: 0.12300000000000001,
@@ -1085,7 +1159,8 @@
                 Heat: 2,
                 Nation: "Canada",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 13.487
             }
         }
     },
@@ -1096,7 +1171,8 @@
                 Heat: 2,
                 Nation: "Netherlands",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 20.767
             },
             qualifying: {
                 Behind: 0.452,
@@ -1110,7 +1186,8 @@
                 Heat: 11,
                 Nation: "Netherlands",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 20.176
             }
         },
         "2018": {
@@ -1119,7 +1196,8 @@
                 Heat: 6,
                 Nation: "Netherlands",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 17.012999999999998
             },
             qualifying: {
                 Behind: 0.368,
@@ -1135,14 +1213,16 @@
                 Notes: null,
                 "Race 1": "+0.128",
                 "Race 2": "+0.096",
-                Rank: 2
+                Rank: 2,
+                Time: 17.625
             },
             sixteenth: {
                 Gap: null,
                 Heat: 7,
                 Nation: "Netherlands",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 16.512999999999998
             }
         },
         "2019": {
@@ -1151,7 +1231,8 @@
                 Heat: 6,
                 Nation: "Netherlands",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 16.886
             },
             qualifying: {
                 Behind: 0.34,
@@ -1167,14 +1248,16 @@
                 Notes: null,
                 "Race 1": "+0.011",
                 "Race 2": "+0.345",
-                Rank: 2
+                Rank: 2,
+                Time: 17.564
             },
             sixteenth: {
                 Gap: null,
                 Heat: 7,
                 Nation: "Netherlands",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 16.386
             }
         },
         "2020": {
@@ -1183,7 +1266,8 @@
                 Heat: 8,
                 Nation: "Netherlands",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 15.013
             },
             qualifying: {
                 Behind: 0.149,
@@ -1199,14 +1283,16 @@
                 Notes: null,
                 "Race 1": "+0.016",
                 "Race 2": "+0.141",
-                Rank: 2
+                Rank: 2,
+                Time: 15.5915
             },
             sixteenth: {
                 Gap: null,
                 Heat: 4,
                 Nation: "Netherlands",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 14.513
             }
         }
     },
@@ -1217,14 +1303,16 @@
                 Heat: 4,
                 Nation: "Germany",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 12.712
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "Germany",
                 "Race 1": "+0.091",
                 "Race 2": "+0.164",
-                Rank: "4"
+                Rank: "4",
+                Time: 14.9945
             },
             qualifying: {
                 Behind: 0.166,
@@ -1240,7 +1328,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 13.212
             },
             semi: {
                 "Decider (i.r.)": null,
@@ -1249,7 +1338,8 @@
                 Notes: null,
                 "Race 1": "+0.156",
                 "Race 2": "+0.154",
-                Rank: 2
+                Rank: 2,
+                Time: 13.867
             }
         },
         "2020": {
@@ -1258,7 +1348,8 @@
                 Heat: 2,
                 Nation: "Germany",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 11.460999999999999
             },
             qualifying: {
                 Behind: 0.09699999999999999,
@@ -1274,7 +1365,8 @@
                 Notes: null,
                 "Race 1": "+0.007",
                 "Race 2": "+0.010",
-                Rank: 2
+                Rank: 2,
+                Time: 11.969499999999998
             }
         }
     },
@@ -1285,7 +1377,8 @@
                 Heat: 4,
                 Nation: "South Korea",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 21.831
             },
             qualifying: {
                 Behind: 0.515,
@@ -1299,7 +1392,8 @@
                 Heat: 9,
                 Nation: "South Korea",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 21.239
             }
         },
         "2018": {
@@ -1315,7 +1409,8 @@
                 Heat: 10,
                 Nation: "South Korea",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 20.689
             }
         },
         "2019": {
@@ -1331,7 +1426,8 @@
                 Heat: 7,
                 Nation: "South Korea",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 22.149
             }
         }
     },
@@ -1342,14 +1438,16 @@
                 Heat: 2,
                 Nation: "Hong Kong",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 11.764000000000001
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "Hong Kong",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                Rank: null,
+                Time: 13.8155
             },
             qualifying: {
                 Behind: 0.04,
@@ -1365,7 +1463,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 12.264000000000001
             },
             semi: {
                 "Decider (i.r.)": null,
@@ -1374,7 +1473,8 @@
                 Notes: null,
                 "Race 1": "+0.038",
                 "Race 2": "+0.065",
-                Rank: 2
+                Rank: 2,
+                Time: 12.8155
             }
         },
         "2018": {
@@ -1383,14 +1483,16 @@
                 Heat: 5,
                 Nation: "Hong Kong",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 13.909
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "Hong Kong",
                 "Race 1": "+0.026",
                 "Race 2": "+0.067",
-                Rank: "4"
+                Rank: "4",
+                Time: 15.9785
             },
             qualifying: {
                 Behind: 0.264,
@@ -1406,7 +1508,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 14.409
             },
             semi: {
                 "Decider (i.r.)": null,
@@ -1415,14 +1518,16 @@
                 Notes: null,
                 "Race 1": "+0.000",
                 "Race 2": "+0.046",
-                Rank: 2
+                Rank: 2,
+                Time: 14.932
             },
             sixteenth: {
                 Gap: null,
                 Heat: 1,
                 Nation: "Hong Kong",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 13.409
             }
         },
         "2019": {
@@ -1431,14 +1536,16 @@
                 Heat: 2,
                 Nation: "Hong Kong",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 11.662
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "Hong Kong",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                Rank: null,
+                Time: 13.162
             },
             qualifying: {
                 Behind: 0.11599999999999999,
@@ -1454,7 +1561,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 12.162
             },
             semi: {
                 "Decider (i.r.)": null,
@@ -1463,7 +1571,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 12.662
             }
         },
         "2020": {
@@ -1472,14 +1581,16 @@
                 Heat: 4,
                 Nation: "Hong Kong",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 12.478
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "Hong Kong",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                Rank: null,
+                Time: 14.6015
             },
             qualifying: {
                 Behind: 0.114,
@@ -1495,7 +1606,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 12.978
             },
             semi: {
                 "Decider (i.r.)": null,
@@ -1504,7 +1616,8 @@
                 Notes: null,
                 "Race 1": "+0.108",
                 "Race 2": "+0.139",
-                Rank: 2
+                Rank: 2,
+                Time: 13.6015
             }
         }
     },
@@ -1526,7 +1639,8 @@
                 Heat: 1,
                 Nation: "China",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 20.272000000000002
             },
             qualifying: {
                 Behind: 0.445,
@@ -1540,7 +1654,8 @@
                 Heat: 12,
                 Nation: "China",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 19.669
             }
         },
         "2019": {
@@ -1556,7 +1671,8 @@
                 Heat: 10,
                 Nation: "China",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 20.634
             }
         }
     },
@@ -1567,7 +1683,8 @@
                 Heat: 6,
                 Nation: "Ukraine",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 17.044
             },
             qualifying: {
                 Behind: 0.32,
@@ -1583,14 +1700,16 @@
                 Notes: null,
                 "Race 1": "+0.140",
                 "Race 2": "+0.015",
-                Rank: 2
+                Rank: 2,
+                Time: 17.6215
             },
             sixteenth: {
                 Gap: null,
                 Heat: 7,
                 Nation: "Ukraine",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 16.544
             }
         },
         "2018": {
@@ -1599,7 +1718,8 @@
                 Heat: 1,
                 Nation: "Ukraine",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 19.761
             },
             qualifying: {
                 Behind: 0.456,
@@ -1613,7 +1733,8 @@
                 Heat: 12,
                 Nation: "Ukraine",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 19.101
             }
         },
         "2019": {
@@ -1653,7 +1774,8 @@
                 Heat: 5,
                 Nation: "United States",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 22.395
             },
             qualifying: {
                 Behind: 0.602,
@@ -1667,7 +1789,8 @@
                 Heat: 8,
                 Nation: "United States",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 21.747
             }
         },
         "2019": {
@@ -1676,7 +1799,8 @@
                 Heat: 1,
                 Nation: "United States",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 20.248
             },
             qualifying: {
                 Behind: 0.523,
@@ -1690,7 +1814,8 @@
                 Heat: 12,
                 Nation: "United States",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 19.569000000000003
             }
         },
         "2020": {
@@ -1706,7 +1831,8 @@
                 Heat: 4,
                 Nation: "United States",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 23.598
             }
         }
     },
@@ -1733,7 +1859,8 @@
                 Heat: 2,
                 Nation: "United States",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 24.904
             }
         },
         "2020": {
@@ -1764,7 +1891,8 @@
                 Heat: 5,
                 Nation: "Colombia",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 17.583000000000002
             },
             qualifying: {
                 Behind: 0.33799999999999997,
@@ -1778,7 +1906,8 @@
                 Heat: 8,
                 Nation: "Colombia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 17.062
             }
         },
         "2018": {
@@ -1794,7 +1923,8 @@
                 Heat: 9,
                 Nation: "Colombia",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 21.369
             }
         },
         "2019": {
@@ -1810,7 +1940,8 @@
                 Heat: 4,
                 Nation: "Colombia",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 23.814
             }
         },
         "2020": {
@@ -1826,7 +1957,8 @@
                 Heat: 5,
                 Nation: "Colombia",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 22.907
             }
         }
     },
@@ -1837,7 +1969,8 @@
                 Heat: 4,
                 Nation: "France",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 12.825999999999999
             },
             qualifying: {
                 Behind: 0.102,
@@ -1853,7 +1986,8 @@
                 Notes: null,
                 "Race 1": "+0.001",
                 "Race 2": "+0.116",
-                Rank: 2
+                Rank: 2,
+                Time: 13.3845
             }
         },
         "2018": {
@@ -1862,7 +1996,8 @@
                 Heat: 6,
                 Nation: "France",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 14.447999999999999
             },
             qualifying: {
                 Behind: 0.293,
@@ -1876,7 +2011,8 @@
                 Heat: 2,
                 Nation: "France",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 13.937999999999999
             }
         },
         "2019": {
@@ -1885,14 +2021,16 @@
                 Heat: 3,
                 Nation: "France",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 12.185
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "France",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                Rank: null,
+                Time: 14.2345
             },
             qualifying: {
                 Behind: 0.139,
@@ -1908,7 +2046,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 12.685
             },
             semi: {
                 "Decider (i.r.)": null,
@@ -1917,7 +2056,8 @@
                 Notes: null,
                 "Race 1": "+0.047",
                 "Race 2": "+0.052",
-                Rank: 2
+                Rank: 2,
+                Time: 13.2345
             }
         },
         "2020": {
@@ -1926,7 +2066,8 @@
                 Heat: 8,
                 Nation: "France",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 15.581999999999999
             },
             qualifying: {
                 Behind: 0.16899999999999998,
@@ -1940,7 +2081,8 @@
                 Heat: 5,
                 Nation: "France",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 15.033
             }
         }
     },
@@ -1958,7 +2100,8 @@
                 Heat: 11,
                 Nation: "Lithuania",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 18.736
             }
         },
         "2018": {
@@ -1974,7 +2117,8 @@
                 Heat: 8,
                 Nation: "Lithuania",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 17.053
             }
         },
         "2019": {
@@ -1990,7 +2134,8 @@
                 Heat: 9,
                 Nation: "Lithuania",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 21.191000000000003
             }
         },
         "2020": {
@@ -2006,7 +2151,8 @@
                 Heat: 1,
                 Nation: "Lithuania",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 25.061
             }
         }
     },
@@ -2024,7 +2170,8 @@
                 Heat: 7,
                 Nation: "Italy",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 16.096
             }
         }
     },
@@ -2035,7 +2182,8 @@
                 Heat: 7,
                 Nation: "Germany",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 16.554999999999996
             },
             qualifying: {
                 Behind: 0.35600000000000004,
@@ -2049,7 +2197,8 @@
                 Heat: 6,
                 Nation: "Germany",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 16.000999999999998
             }
         }
     },
@@ -2067,7 +2216,8 @@
                 Heat: 1,
                 Nation: "Russia",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 25.265
             }
         }
     },
@@ -2078,7 +2228,8 @@
                 Heat: 6,
                 Nation: "New Zealand",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 14.544
             },
             qualifying: {
                 Behind: 0.221,
@@ -2092,7 +2243,8 @@
                 Heat: 2,
                 Nation: "New Zealand",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 13.945
             }
         },
         "2018": {
@@ -2101,7 +2253,8 @@
                 Heat: 3,
                 Nation: "New Zealand",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 18.674
             },
             qualifying: {
                 Behind: 0.44299999999999995,
@@ -2115,7 +2268,8 @@
                 Heat: 10,
                 Nation: "New Zealand",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 18.088
             }
         },
         "2019": {
@@ -2124,7 +2278,8 @@
                 Heat: 8,
                 Nation: "New Zealand",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 15.945
             },
             qualifying: {
                 Behind: 0.319,
@@ -2138,7 +2293,8 @@
                 Heat: 5,
                 Nation: "New Zealand",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 15.365
             }
         },
         "2020": {
@@ -2154,7 +2310,8 @@
                 Heat: 12,
                 Nation: "New Zealand",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 19.195999999999998
             }
         }
     },
@@ -2172,7 +2329,8 @@
                 Heat: 8,
                 Nation: "Belgium",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 21.762999999999998
             }
         },
         "2018": {
@@ -2181,7 +2339,8 @@
                 Heat: 2,
                 Nation: "Belgium",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 20.698
             },
             qualifying: {
                 Behind: 0.517,
@@ -2195,7 +2354,8 @@
                 Heat: 11,
                 Nation: "Belgium",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 20.162
             }
         },
         "2019": {
@@ -2211,7 +2371,8 @@
                 Heat: 3,
                 Nation: "Belgium",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 24.781
             }
         }
     },
@@ -2229,7 +2390,8 @@
                 Heat: 4,
                 Nation: "Ukraine",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 23.96
             }
         },
         "2018": {
@@ -2238,7 +2400,8 @@
                 Heat: 8,
                 Nation: "Ukraine",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 16.097
             },
             qualifying: {
                 Behind: 0.35200000000000004,
@@ -2252,7 +2415,8 @@
                 Heat: 5,
                 Nation: "Ukraine",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 15.497
             }
         },
         "2019": {
@@ -2261,7 +2425,8 @@
                 Heat: 8,
                 Nation: "Ukraine",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 15.283
             },
             qualifying: {
                 Behind: 0.237,
@@ -2277,14 +2442,16 @@
                 Notes: null,
                 "Race 1": "+0.080",
                 "Race 2": "+0.040",
-                Rank: 2
+                Rank: 2,
+                Time: 15.843
             },
             sixteenth: {
                 Gap: null,
                 Heat: 4,
                 Nation: "Ukraine",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 14.783
             }
         },
         "2020": {
@@ -2293,7 +2460,8 @@
                 Heat: 1,
                 Nation: "Ukraine",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 19.266000000000002
             },
             qualifying: {
                 Behind: 0.27,
@@ -2307,7 +2475,8 @@
                 Heat: 12,
                 Nation: "Ukraine",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 18.634
             }
         }
     },
@@ -2325,7 +2494,8 @@
                 Heat: 6,
                 Nation: "New Zealand",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 22.93
             }
         },
         "2020": {
@@ -2341,7 +2511,8 @@
                 Heat: 9,
                 Nation: "New Zealand",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 20.777
             }
         }
     },
@@ -2352,7 +2523,8 @@
                 Heat: 8,
                 Nation: "Germany",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 15.488000000000001
             },
             qualifying: {
                 Behind: 0.243,
@@ -2366,7 +2538,8 @@
                 Heat: 4,
                 Nation: "Germany",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 14.967
             }
         },
         "2018": {
@@ -2375,14 +2548,16 @@
                 Heat: 2,
                 Nation: "Germany",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 11.713
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "Germany",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                Rank: null,
+                Time: 13.9165
             },
             qualifying: {
                 Behind: 0.068,
@@ -2398,7 +2573,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 12.213
             },
             semi: {
                 "Decider (i.r.)": null,
@@ -2407,7 +2583,8 @@
                 Notes: null,
                 "Race 1": "+0.249",
                 "Race 2": "+0.158",
-                Rank: 2
+                Rank: 2,
+                Time: 12.9165
             }
         }
     },
@@ -2425,7 +2602,8 @@
                 Heat: 3,
                 Nation: "Japan",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 23.999000000000002
             }
         }
     },
@@ -2443,7 +2621,8 @@
                 Heat: 5,
                 Nation: "Ireland",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 23.494999999999997
             }
         },
         "2019": {
@@ -2470,7 +2649,8 @@
                 Heat: 2,
                 Nation: "Canada",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 24.705
             }
         }
     },
@@ -2488,7 +2668,8 @@
                 Heat: 10,
                 Nation: "Netherlands",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 20.757
             }
         },
         "2018": {
@@ -2497,7 +2678,8 @@
                 Heat: 7,
                 Nation: "Netherlands",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 14.949000000000002
             },
             qualifying: {
                 Behind: 0.304,
@@ -2513,14 +2695,16 @@
                 Notes: null,
                 "Race 1": "+0.002",
                 "Race 2": "+0.084",
-                Rank: 2
+                Rank: 2,
+                Time: 15.492
             },
             sixteenth: {
                 Gap: null,
                 Heat: 3,
                 Nation: "Netherlands",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 14.449000000000002
             }
         },
         "2020": {
@@ -2529,7 +2713,8 @@
                 Heat: 3,
                 Nation: "Netherlands",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 12.007
             },
             qualifying: {
                 Behind: 0.114,
@@ -2547,14 +2732,16 @@
                 Heat: 5,
                 Nation: "Lithuania",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 13.937000000000001
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "Lithuania",
                 "Race 1": "+0.054",
                 "Race 2": "+0.039",
-                Rank: "4"
+                Rank: "4",
+                Time: 16.0985
             },
             qualifying: {
                 Behind: 0.213,
@@ -2570,7 +2757,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 14.437000000000001
             },
             semi: {
                 "Decider (i.r.)": "+0.174",
@@ -2579,14 +2767,16 @@
                 Notes: null,
                 "Race 1": "X",
                 "Race 2": "+0.171",
-                Rank: 2
+                Rank: 2,
+                Time: 15.052000000000001
             },
             sixteenth: {
                 Gap: null,
                 Heat: 1,
                 Nation: "Lithuania",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 13.437000000000001
             }
         },
         "2018": {
@@ -2595,7 +2785,8 @@
                 Heat: 8,
                 Nation: "Lithuania",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 15.475
             },
             qualifying: {
                 Behind: 0.33,
@@ -2611,14 +2802,16 @@
                 Notes: null,
                 "Race 1": "+0.644",
                 "Race 2": "+0.064",
-                Rank: 2
+                Rank: 2,
+                Time: 16.329
             },
             sixteenth: {
                 Gap: null,
                 Heat: 4,
                 Nation: "Lithuania",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 14.975
             }
         },
         "2019": {
@@ -2627,7 +2820,8 @@
                 Heat: 3,
                 Nation: "Lithuania",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 18.671
             },
             qualifying: {
                 Behind: 0.39899999999999997,
@@ -2641,7 +2835,8 @@
                 Heat: 10,
                 Nation: "Lithuania",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 17.945
             }
         },
         "2020": {
@@ -2650,7 +2845,8 @@
                 Heat: 6,
                 Nation: "Lithuania",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 22.276
             },
             qualifying: {
                 Behind: 0.41200000000000003,
@@ -2666,14 +2862,16 @@
                 Notes: null,
                 "Race 1": "+0.120",
                 "Race 2": "+0.139",
-                Rank: 2
+                Rank: 2,
+                Time: 22.9055
             },
             sixteenth: {
                 Gap: null,
                 Heat: 7,
                 Nation: "Lithuania",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 21.776
             }
         }
     },
@@ -2691,7 +2889,8 @@
                 Heat: 11,
                 Nation: "Great Britain",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 18.16
             }
         }
     },
@@ -2702,14 +2901,16 @@
                 Heat: 1,
                 Nation: "Australia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 11.224
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "Australia",
                 "Race 1": "+0.149",
                 "Race 2": "+0.147",
-                Rank: null
+                Rank: null,
+                Time: 12.879666666666667
             },
             qualifying: {
                 Behind: null,
@@ -2725,7 +2926,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 11.724
             },
             semi: {
                 "Decider (i.r.)": "X",
@@ -2734,7 +2936,8 @@
                 Notes: "Q",
                 "Race 1": "+0.023",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 12.231666666666667
             }
         },
         "2018": {
@@ -2743,14 +2946,16 @@
                 Heat: 1,
                 Nation: "Australia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 11.145
             },
             final: {
                 "Decider (i.r.)": "+0.105",
                 Nation: "Australia",
                 "Race 1": "+0.059",
                 "Race 2": "X",
-                Rank: null
+                Rank: null,
+                Time: 12.699666666666666
             },
             qualifying: {
                 Behind: null,
@@ -2766,7 +2971,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 11.645
             },
             semi: {
                 "Decider (i.r.)": null,
@@ -2775,7 +2981,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 12.145
             }
         },
         "2019": {
@@ -2784,14 +2991,16 @@
                 Heat: 1,
                 Nation: "Australia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 11.046
             },
             final: {
                 "Decider (i.r.)": null,
                 Nation: "Australia",
                 "Race 1": "+0.054",
                 "Race 2": "+0.135",
-                Rank: null
+                Rank: null,
+                Time: 12.6405
             },
             qualifying: {
                 Behind: null,
@@ -2807,7 +3016,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 11.546
             },
             semi: {
                 "Decider (i.r.)": null,
@@ -2816,7 +3026,8 @@
                 Notes: "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                Rank: 1,
+                Time: 12.046
             }
         },
         "2020": {
@@ -2825,7 +3036,8 @@
                 Heat: 5,
                 Nation: "Australia",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 13.486999999999998
             },
             qualifying: {
                 Behind: 0.11900000000000001,
@@ -2839,7 +3051,8 @@
                 Heat: 1,
                 Nation: "Australia",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 12.982999999999999
             }
         }
     },
@@ -2857,7 +3070,8 @@
                 Heat: 5,
                 Nation: "Spain",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 24.828
             }
         },
         "2018": {
@@ -2873,7 +3087,8 @@
                 Heat: 12,
                 Nation: "Spain",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 19.744
             }
         },
         "2019": {
@@ -2882,7 +3097,8 @@
                 Heat: 5,
                 Nation: "Spain",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 22.097
             },
             qualifying: {
                 Behind: 0.551,
@@ -2898,14 +3114,16 @@
                 Notes: null,
                 "Race 1": "+0.064",
                 "Race 2": "+0.046",
-                Rank: 2
+                Rank: 2,
+                Time: 22.652
             },
             sixteenth: {
                 Gap: null,
                 Heat: 8,
                 Nation: "Spain",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 21.597
             }
         },
         "2020": {
@@ -2932,7 +3150,8 @@
                 Heat: 7,
                 Nation: "Japan",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 22.332
             }
         },
         "2019": {
@@ -2948,7 +3167,8 @@
                 Heat: 5,
                 Nation: "Japan",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 23.74
             }
         },
         "2020": {
@@ -2957,7 +3177,8 @@
                 Heat: 2,
                 Nation: "Japan",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 20.599
             },
             qualifying: {
                 Behind: 0.348,
@@ -2971,7 +3192,8 @@
                 Heat: 11,
                 Nation: "Japan",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 19.712
             }
         }
     },
@@ -2993,7 +3215,8 @@
                 Heat: 4,
                 Nation: "China",
                 Notes: null,
-                Rank: 2
+                Rank: 2,
+                Time: 17.713
             },
             qualifying: {
                 Behind: 0.22399999999999998,
@@ -3007,7 +3230,8 @@
                 Heat: 9,
                 Nation: "China",
                 Notes: "Q",
-                Rank: 1
+                Rank: 1,
+                Time: 17.088
             }
         }
     }
