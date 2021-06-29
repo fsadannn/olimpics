@@ -1,362 +1,362 @@
 {
-  "Mateusz Rudyk": {
+  "Jeffrey Hoogland": {
     "rank": 1,
-    "gap": 0.9732886818481816,
+    "gap": 0.30782654908576745,
     "sorted_rank": 0
   },
-  "Jeffrey Hoogland": {
+  "Mateusz Rudyk": {
     "rank": 2,
-    "gap": 0.9796005359945283,
+    "gap": 0.3121398484056108,
     "sorted_rank": 1
   },
   "Sebastien Vigier": {
     "rank": 3,
-    "gap": 0.831412012637788,
+    "gap": 0.2611439386176002,
     "sorted_rank": 2
   },
-  "Denis Dmitriev": {
-    "rank": 3,
-    "gap": 1.0144518328416936,
+  "Harrie Lavreysen": {
+    "rank": 4,
+    "gap": 0.3308812349847301,
     "sorted_rank": 3
   },
-  "Harrie Lavreysen": {
-    "rank": 3,
-    "gap": 1.026535942422825,
+  "Denis Dmitriev": {
+    "rank": 4,
+    "gap": 0.3148850226222173,
     "sorted_rank": 4
+  },
+  "Nathan Hart": {
+    "rank": 4,
+    "gap": 0.318257742724402,
+    "sorted_rank": 5
   },
   "Jason Kenny": {
     "rank": 5,
-    "gap": 1.150750355781966,
-    "sorted_rank": 5
-  },
-  "Nathan Hart": {
-    "rank": 5,
-    "gap": 1.0076400159105212,
+    "gap": 0.37175941453405414,
     "sorted_rank": 6
   },
-  "Jack Carlin": {
-    "rank": 6,
-    "gap": 0.9601108485864174,
+  "Yudai Nitta": {
+    "rank": 5,
+    "gap": 0.3737586985153243,
     "sorted_rank": 7
   },
   "Nicholas Paul": {
     "rank": 6,
-    "gap": 1.1291561104906336,
+    "gap": 0.35014140375962555,
     "sorted_rank": 8
   },
   "Max Niederlag": {
     "rank": 6,
-    "gap": 1.100760396211811,
+    "gap": 0.3543423453919239,
     "sorted_rank": 9
-  },
-  "Yudai Nitta": {
-    "rank": 6,
-    "gap": 1.198608692874295,
-    "sorted_rank": 10
   },
   "Matthew Glaetzer": {
     "rank": 6,
-    "gap": 1.0031928289238436,
+    "gap": 0.3101326647081635,
+    "sorted_rank": 10
+  },
+  "Jack Carlin": {
+    "rank": 6,
+    "gap": 0.31350338055489146,
     "sorted_rank": 11
   },
-  "Matthew Richardson": {
+  "Stefan B\u00f6tticher": {
     "rank": 6,
-    "gap": 1.2611909465501157,
+    "gap": 0.353434375768618,
     "sorted_rank": 12
   },
-  "Stefan B\u00f6tticher": {
+  "Matthew Richardson": {
     "rank": 7,
-    "gap": 1.1071089062085768,
+    "gap": 0.397740325254869,
     "sorted_rank": 13
   },
   "Quentin Caleyron": {
-    "rank": 7,
-    "gap": 1.220635308680798,
+    "rank": 9,
+    "gap": 0.3892860487851806,
     "sorted_rank": 14
   },
   "Zhou Yu": {
-    "rank": 7,
-    "gap": 1.2875756122146917,
+    "rank": 9,
+    "gap": 0.4129857660711096,
     "sorted_rank": 15
   },
   "Matthijs B\u00fcchli": {
-    "rank": 8,
-    "gap": 1.2310237279077612,
+    "rank": 9,
+    "gap": 0.388209191254127,
     "sorted_rank": 16
   },
   "Sam Ligtlee": {
-    "rank": 9,
-    "gap": 1.3198637331492016,
+    "rank": 10,
+    "gap": 0.42107470901146726,
     "sorted_rank": 17
   },
   "S\u00e1ndor Szalontay": {
     "rank": 10,
-    "gap": 1.1983330127699041,
+    "gap": 0.37713330970831294,
     "sorted_rank": 18
   },
   "Ethan Mitchell": {
-    "rank": 11,
-    "gap": 1.0460608850253017,
+    "rank": 10,
+    "gap": 0.3292163847775562,
     "sorted_rank": 19
+  },
+  "Ryan Owens": {
+    "rank": 10,
+    "gap": 0.33588123794291036,
+    "sorted_rank": 20
   },
   "Joseph Truman": {
     "rank": 11,
-    "gap": 1.2674839037550392,
-    "sorted_rank": 20
+    "gap": 0.4037188703899588,
+    "sorted_rank": 21
   },
   "Tomohiro Fukaya": {
     "rank": 11,
-    "gap": 1.280838626974969,
-    "sorted_rank": 21
+    "gap": 0.4060995975685948,
+    "sorted_rank": 22
   },
   "Melvin Landerneau": {
     "rank": 11,
-    "gap": 1.236753350501889,
-    "sorted_rank": 22
-  },
-  "Ryan Owens": {
-    "rank": 11,
-    "gap": 1.0530690784981793,
+    "gap": 0.39049400044783056,
     "sorted_rank": 23
   },
   "Hsieh Nien-hsing": {
     "rank": 12,
-    "gap": 1.3569214546785382,
+    "gap": 0.4350520722303841,
     "sorted_rank": 24
   },
   "Stefan Ritter": {
-    "rank": 12,
-    "gap": 1.268309593245231,
+    "rank": 13,
+    "gap": 0.40092001785111364,
     "sorted_rank": 25
   },
   "Sam Webster": {
-    "rank": 12,
-    "gap": 1.2195602113086217,
+    "rank": 13,
+    "gap": 0.38072790511288446,
     "sorted_rank": 26
-  },
-  "Vasilijus Lendel": {
-    "rank": 13,
-    "gap": 1.235591445046083,
-    "sorted_rank": 27
-  },
-  "Kevin Quintero": {
-    "rank": 13,
-    "gap": 1.304987089740603,
-    "sorted_rank": 28
   },
   "Njisane Phillip": {
     "rank": 13,
-    "gap": 1.2994561970204401,
+    "gap": 0.41598967858315916,
+    "sorted_rank": 27
+  },
+  "Law Tsz Chun": {
+    "rank": 13,
+    "gap": 0.4406485895240877,
+    "sorted_rank": 28
+  },
+  "Kevin Quintero": {
+    "rank": 13,
+    "gap": 0.41402583194953735,
     "sorted_rank": 29
+  },
+  "Vasilijus Lendel": {
+    "rank": 14,
+    "gap": 0.3854027098758479,
+    "sorted_rank": 30
   },
   "Xu Chao": {
     "rank": 14,
-    "gap": 1.1675051915723245,
-    "sorted_rank": 30
-  },
-  "Hugo Barrette": {
-    "rank": 14,
-    "gap": 0.8852309402213976,
+    "gap": 0.3665018626086791,
     "sorted_rank": 31
-  },
-  "Martin \u010cechman": {
-    "rank": 14,
-    "gap": 1.138364619490254,
-    "sorted_rank": 32
   },
   "Pavel Kelemen": {
     "rank": 14,
-    "gap": 1.0865857830366181,
-    "sorted_rank": 33
+    "gap": 0.34162858638590876,
+    "sorted_rank": 32
   },
-  "Law Tsz Chun": {
+  "Martin \u010cechman": {
     "rank": 15,
-    "gap": 1.409223125132506,
-    "sorted_rank": 34
+    "gap": 0.35420391956809993,
+    "sorted_rank": 33
   },
   "Rayan Helal": {
     "rank": 15,
-    "gap": 1.3173898689800438,
-    "sorted_rank": 35
+    "gap": 0.41756249093209163,
+    "sorted_rank": 34
   },
   "Muhammad Shah Firdaus Sahrom": {
     "rank": 15,
-    "gap": 1.4116711433496008,
-    "sorted_rank": 36
+    "gap": 0.4411566604580912,
+    "sorted_rank": 35
   },
   "Kamil Kuczy\u0144ski": {
     "rank": 15,
-    "gap": 1.3267773134374252,
+    "gap": 0.4191347581280098,
+    "sorted_rank": 36
+  },
+  "Hugo Barrette": {
+    "rank": 15,
+    "gap": 0.27085858558100284,
     "sorted_rank": 37
   },
-  "Maximilian Levy": {
-    "rank": 16,
-    "gap": 1.333357984445577,
+  "Eddie Dawkins": {
+    "rank": 15,
+    "gap": 0.37369539847689737,
     "sorted_rank": 38
   },
-  "Maximilian D\u00f6rnbach": {
-    "rank": 16,
-    "gap": 1.3740364061053967,
-    "sorted_rank": 39
-  },
   "Fabi\u00e1n Puerta": {
-    "rank": 16,
-    "gap": 1.1086168827242773,
-    "sorted_rank": 40
-  },
-  "Eddie Dawkins": {
-    "rank": 16,
-    "gap": 1.1684785474099826,
-    "sorted_rank": 41
+    "rank": 15,
+    "gap": 0.3621720629711973,
+    "sorted_rank": 39
   },
   "Jair Tjon En Fa": {
     "rank": 16,
-    "gap": 1.2127637069483086,
+    "gap": 0.38469338774515194,
+    "sorted_rank": 40
+  },
+  "Azizulhasni Awang": {
+    "rank": 16,
+    "gap": 0.3802336325507838,
+    "sorted_rank": 41
+  },
+  "Maximilian Levy": {
+    "rank": 16,
+    "gap": 0.4183504893215684,
     "sorted_rank": 42
   },
   "Pavel Yakushevskiy": {
     "rank": 17,
-    "gap": 0.3745843172184422,
+    "gap": 0.11215546972378121,
     "sorted_rank": 43
   },
-  "Azizulhasni Awang": {
+  "Maximilian D\u00f6rnbach": {
     "rank": 17,
-    "gap": 1.2239006260771603,
+    "gap": 0.42863014251716436,
     "sorted_rank": 44
   },
-  "Callum Skinner": {
+  "Fran\u00e7ois Pervis": {
     "rank": 17,
-    "gap": 1.3649105616949981,
+    "gap": 0.42872382638134354,
     "sorted_rank": 45
+  },
+  "Kazunari Watanabe": {
+    "rank": 17,
+    "gap": 0.42541311119334324,
+    "sorted_rank": 46
   },
   "Juan Peralta": {
     "rank": 17,
-    "gap": 1.2054283878713505,
-    "sorted_rank": 46
-  },
-  "Fran\u00e7ois Pervis": {
-    "rank": 18,
-    "gap": 1.3730250737125473,
+    "gap": 0.3738118703010329,
     "sorted_rank": 47
   },
   "Damian Zieli\u0144ski": {
     "rank": 18,
-    "gap": 1.3569590042624284,
+    "gap": 0.42406147333673516,
     "sorted_rank": 48
   },
-  "Andriy Vynokurov": {
+  "Patrick Constable": {
     "rank": 18,
-    "gap": 1.2154376011259984,
+    "gap": 0.4296590541028138,
     "sorted_rank": 49
+  },
+  "Callum Skinner": {
+    "rank": 18,
+    "gap": 0.42651570121688565,
+    "sorted_rank": 50
+  },
+  "Andriy Vynokurov": {
+    "rank": 19,
+    "gap": 0.4003045106200105,
+    "sorted_rank": 51
   },
   "Yuta Wakimoto": {
     "rank": 19,
-    "gap": 0.4520916033890785,
-    "sorted_rank": 50
-  },
-  "Kazunari Watanabe": {
-    "rank": 19,
-    "gap": 1.3191098508880756,
-    "sorted_rank": 51
+    "gap": 0.14207855629345545,
+    "sorted_rank": 52
   },
   "Rafa\u0142 Sarnecki": {
     "rank": 19,
-    "gap": 1.3618051547905452,
-    "sorted_rank": 52
-  },
-  "Patrick Constable": {
-    "rank": 20,
-    "gap": 1.3623750135371324,
+    "gap": 0.42928127639486036,
     "sorted_rank": 53
-  },
-  "Im Chae-bin": {
-    "rank": 20,
-    "gap": 1.3722403086433062,
-    "sorted_rank": 54
   },
   "Joel Archambault": {
     "rank": 20,
-    "gap": 1.403544577516719,
+    "gap": 0.4389217051716372,
+    "sorted_rank": 54
+  },
+  "Im Chae-bin": {
+    "rank": 20,
+    "gap": 0.4305736510100715,
     "sorted_rank": 55
   },
   "Santiago Ram\u00edrez": {
-    "rank": 21,
-    "gap": 1.1799393100898712,
+    "rank": 20,
+    "gap": 0.37636651156270773,
     "sorted_rank": 56
   },
-  "Theo Bos": {
-    "rank": 22,
-    "gap": 1.374978137440415,
+  "Nikita Shurshin": {
+    "rank": 21,
+    "gap": 0.42973618558500704,
     "sorted_rank": 57
+  },
+  "Theo Bos": {
+    "rank": 21,
+    "gap": 0.42984420404280144,
+    "sorted_rank": 58
+  },
+  "Sandor Szalontay": {
+    "rank": 22,
+    "gap": 0.4398026307301137,
+    "sorted_rank": 59
   },
   "Tomoyuki Kawabata": {
     "rank": 22,
-    "gap": 1.1980844029302133,
-    "sorted_rank": 58
+    "gap": 0.37865232845806673,
+    "sorted_rank": 60
   },
   "Muhammad Fadhil Mohd Zonis": {
     "rank": 22,
-    "gap": 1.2997195938493604,
-    "sorted_rank": 59
-  },
-  "Nikita Shurshin": {
-    "rank": 22,
-    "gap": 1.3405334319564233,
-    "sorted_rank": 60
-  },
-  "Sandor Szalontay": {
-    "rank": 23,
-    "gap": 1.337783232106844,
+    "gap": 0.4149288719149169,
     "sorted_rank": 61
   },
   "Kirill Samusenko": {
     "rank": 24,
-    "gap": 1.3582980201395927,
+    "gap": 0.43614046616777813,
     "sorted_rank": 62
   },
   "Maxim Nalyotov": {
-    "rank": 24,
-    "gap": 1.4558785272288688,
+    "rank": 25,
+    "gap": 0.43853054760219123,
     "sorted_rank": 63
   },
   "Eric Engler": {
-    "rank": 24,
-    "gap": 0.6261457037684437,
+    "rank": 25,
+    "gap": 0.18734720547570305,
     "sorted_rank": 64
-  },
-  "Muhammad Sahrom": {
-    "rank": 26,
-    "gap": 1.4188748970885143,
-    "sorted_rank": 65
   },
   "Svaj\u016bnas Jonauskas": {
     "rank": 27,
-    "gap": 1.3350993166090106,
+    "gap": 0.42633691601028545,
+    "sorted_rank": 65
+  },
+  "Muhammad Sahrom": {
+    "rank": 28,
+    "gap": 0.4242919791840336,
     "sorted_rank": 66
   },
   "David Sojka": {
-    "rank": 29,
-    "gap": 0.7018217764201893,
+    "rank": 30,
+    "gap": 0.21106956199760418,
     "sorted_rank": 67
   },
   "Diego Pe\u00f1a": {
     "rank": 31,
-    "gap": 1.344025726534845,
+    "gap": 0.4177496746420317,
     "sorted_rank": 68
   },
   "Kwesi Browne": {
     "rank": 31,
-    "gap": 1.3348682563676633,
+    "gap": 0.42483208247492854,
     "sorted_rank": 69
   },
   "Jean Spies": {
     "rank": 32,
-    "gap": 0.23768430897450799,
+    "gap": 0.07239575642998375,
     "sorted_rank": 70
   },
   "Sotirios Bretas": {
     "rank": 32,
-    "gap": 1.291941331282544,
+    "gap": 0.41001051648184017,
     "sorted_rank": 71
   }
 }
