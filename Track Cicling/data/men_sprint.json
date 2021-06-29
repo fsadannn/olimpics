@@ -1,3122 +1,3122 @@
 {
     "Andriy Vynokurov": {
         "2017": {
-            eighth: {
-                Gap: 0.07400000000000001,
-                Heat: 8,
-                Nation: "Ukraine",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.07400000000000001,
+                "Heat": 8,
+                "Nation": "Ukraine",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.225,
-                Nation: "Ukraine",
-                Notes: "q",
-                Rank: 8,
-                Time: 9.87
+            "qualifying": {
+                "Behind": 0.225,
+                "Nation": "Ukraine",
+                "Notes": "q",
+                "Rank": 8,
+                "Time": 9.87
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 4,
-                Nation: "Ukraine",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 4,
+                "Nation": "Ukraine",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2018": {
-            qualifying: {
-                Behind: 0.429,
-                Nation: "Ukraine",
-                Notes: null,
-                Rank: 29,
-                Time: 10.103
+            "qualifying": {
+                "Behind": 0.429,
+                "Nation": "Ukraine",
+                "Notes": null,
+                "Rank": 29,
+                "Time": 10.103
             }
         }
     },
     "Azizulhasni Awang": {
         "2017": {
-            qualifying: {
-                Behind: 0.41200000000000003,
-                Nation: "Malaysia",
-                Notes: "q",
-                Rank: 23,
-                Time: 10.057
+            "qualifying": {
+                "Behind": 0.41200000000000003,
+                "Nation": "Malaysia",
+                "Notes": "q",
+                "Rank": 23,
+                "Time": 10.057
             },
-            sixteenth: {
-                Gap: 0.18,
-                Heat: 6,
-                Nation: "Malaysia",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": 0.18,
+                "Heat": 6,
+                "Nation": "Malaysia",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2018": {
-            qualifying: {
-                Behind: 0.39799999999999996,
-                Nation: "Malaysia",
-                Notes: "q",
-                Rank: 28,
-                Time: 10.072000000000001
+            "qualifying": {
+                "Behind": 0.39799999999999996,
+                "Nation": "Malaysia",
+                "Notes": "q",
+                "Rank": 28,
+                "Time": 10.072000000000001
             },
-            sixteenth: {
-                Gap: "+0.052",
-                Heat: 1,
-                Nation: "Malaysia",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.052",
+                "Heat": 1,
+                "Nation": "Malaysia",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2019": {
-            qualifying: {
-                Behind: 0.45,
-                Nation: "Malaysia",
-                Notes: null,
-                Rank: 30,
-                Time: 10.022
+            "qualifying": {
+                "Behind": 0.45,
+                "Nation": "Malaysia",
+                "Notes": null,
+                "Rank": 30,
+                "Time": 10.022
             }
         },
         "2020": {
-            eighth: {
-                Gap: "X",
-                Heat: 5,
-                Nation: "Malaysia",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": "X",
+                "Heat": 5,
+                "Nation": "Malaysia",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Malaysia",
+                "Nation": "Malaysia",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                "Rank": null
             },
-            qualifying: {
-                Behind: "+0.295",
-                Nation: "Malaysia",
-                Notes: "q",
-                Rank: 5,
-                Time: "9.548"
+            "qualifying": {
+                "Behind": "+0.295",
+                "Nation": "Malaysia",
+                "Notes": "q",
+                "Rank": 5,
+                "Time": "9.548"
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 4,
-                Nation: "Malaysia",
-                Notes: "Q",
+                "Heat": 4,
+                "Nation": "Malaysia",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Malaysia",
-                Notes: null,
+                "Heat": 1,
+                "Nation": "Malaysia",
+                "Notes": null,
                 "Race 1": "+0.475",
                 "Race 2": "+0.330",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: "X",
-                Heat: 1,
-                Nation: "Malaysia",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": "X",
+                "Heat": 1,
+                "Nation": "Malaysia",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Bronze medal final": {
         "2017": {
-            final: {
+            "final": {
                 "Decider (i.r.)": "Bronze medal final",
-                Nation: "Bronze medal final",
+                "Nation": "Bronze medal final",
                 "Race 1": "Bronze medal final",
                 "Race 2": "Bronze medal final",
-                Rank: "Bronze medal final"
+                "Rank": "Bronze medal final"
             }
         }
     },
     "Bronze medal race": {
         "2018": {
-            final: {
+            "final": {
                 "Decider (i.r.)": "Bronze medal race",
-                Nation: "Bronze medal race",
+                "Nation": "Bronze medal race",
                 "Race 1": "Bronze medal race",
                 "Race 2": "Bronze medal race",
-                Rank: "Bronze medal race"
+                "Rank": "Bronze medal race"
             }
         },
         "2019": {
-            final: {
+            "final": {
                 "Decider (i.r.)": "Bronze medal race",
-                Nation: "Bronze medal race",
+                "Nation": "Bronze medal race",
                 "Race 1": "Bronze medal race",
                 "Race 2": "Bronze medal race",
-                Rank: "Bronze medal race"
+                "Rank": "Bronze medal race"
             }
         },
         "2020": {
-            final: {
+            "final": {
                 "Decider (i.r.)": "Bronze medal race",
-                Nation: "Bronze medal race",
+                "Nation": "Bronze medal race",
                 "Race 1": "Bronze medal race",
                 "Race 2": "Bronze medal race",
-                Rank: "Bronze medal race"
+                "Rank": "Bronze medal race"
             }
         }
     },
     "Callum Skinner": {
         "2017": {
-            eighth: {
-                Gap: 0.07,
-                Heat: 2,
-                Nation: "Great Britain",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.07,
+                "Heat": 2,
+                "Nation": "Great Britain",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.324,
-                Nation: "Great Britain",
-                Notes: "q",
-                Rank: 15,
-                Time: 9.969
+            "qualifying": {
+                "Behind": 0.324,
+                "Nation": "Great Britain",
+                "Notes": "q",
+                "Rank": 15,
+                "Time": 9.969
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 11,
-                Nation: "Great Britain",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 11,
+                "Nation": "Great Britain",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Damian Zieliński": {
         "2018": {
-            qualifying: {
-                Behind: 0.294,
-                Nation: "Poland",
-                Notes: "q",
-                Rank: 22,
-                Time: 9.968
+            "qualifying": {
+                "Behind": 0.294,
+                "Nation": "Poland",
+                "Notes": "q",
+                "Rank": 22,
+                "Time": 9.968
             },
-            sixteenth: {
-                Gap: "+0.057",
-                Heat: 7,
-                Nation: "Poland",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.057",
+                "Heat": 7,
+                "Nation": "Poland",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "David Sojka": {
         "2017": {
-            qualifying: {
-                Behind: 0.511,
-                Nation: "Czech Republic",
-                Notes: null,
-                Rank: 30,
-                Time: 10.156
+            "qualifying": {
+                "Behind": 0.511,
+                "Nation": "Czech Republic",
+                "Notes": null,
+                "Rank": 30,
+                "Time": 10.156
             }
         },
         "2018": {
-            qualifying: {
-                Behind: 0.529,
-                Nation: "Czech Republic",
-                Notes: null,
-                Rank: 32,
-                Time: 10.203
+            "qualifying": {
+                "Behind": 0.529,
+                "Nation": "Czech Republic",
+                "Notes": null,
+                "Rank": 32,
+                "Time": 10.203
             }
         }
     },
     "Denis Dmitriev": {
         "2017": {
-            eighth: {
-                Gap: null,
-                Heat: 1,
-                Nation: "Russia",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 1,
+                "Nation": "Russia",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Russia",
+                "Nation": "Russia",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                "Rank": null
             },
-            qualifying: {
-                Behind: null,
-                Nation: "Russia",
-                Notes: "Q",
-                Rank: 1,
-                Time: 9.645
+            "qualifying": {
+                "Behind": null,
+                "Nation": "Russia",
+                "Notes": "Q",
+                "Rank": 1,
+                "Time": 9.645
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Russia",
-                Notes: "Q",
+                "Heat": 1,
+                "Nation": "Russia",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Russia",
-                Notes: "Q",
+                "Heat": 1,
+                "Nation": "Russia",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             }
         },
         "2018": {
-            eighth: {
-                Gap: null,
-                Heat: 7,
-                Nation: "Russia",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 7,
+                "Nation": "Russia",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: 0.08,
-                Nation: "Russia",
-                Notes: "q",
-                Rank: 7,
-                Time: 9.754
+            "qualifying": {
+                "Behind": 0.08,
+                "Nation": "Russia",
+                "Notes": "q",
+                "Rank": 7,
+                "Time": 9.754
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 2,
-                Nation: "Russia",
-                Notes: null,
+                "Heat": 2,
+                "Nation": "Russia",
+                "Notes": null,
                 "Race 1": "+0.192",
                 "Race 2": "+0.092",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 3,
-                Nation: "Russia",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 3,
+                "Nation": "Russia",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2019": {
-            eighth: {
-                Gap: null,
-                Heat: 6,
-                Nation: "Russia",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 6,
+                "Nation": "Russia",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: 0.158,
-                Nation: "Russia",
-                Notes: "q",
-                Rank: 6,
-                Time: 9.73
+            "qualifying": {
+                "Behind": 0.158,
+                "Nation": "Russia",
+                "Notes": "q",
+                "Rank": 6,
+                "Time": 9.73
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 3,
-                Nation: "Russia",
-                Notes: null,
+                "Heat": 3,
+                "Nation": "Russia",
+                "Notes": null,
                 "Race 1": "+0.260",
                 "Race 2": "+1.168",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 2,
-                Nation: "Russia",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 2,
+                "Nation": "Russia",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2020": {
-            eighth: {
-                Gap: "+0.396",
-                Heat: 4,
-                Nation: "Russia",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.396",
+                "Heat": 4,
+                "Nation": "Russia",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: "+0.269",
-                Nation: "Russia",
-                Notes: "Q",
-                Rank: 4,
-                Time: "9.522"
+            "qualifying": {
+                "Behind": "+0.269",
+                "Nation": "Russia",
+                "Notes": "Q",
+                "Rank": 4,
+                "Time": "9.522"
             }
         }
     },
     "Diego Peña": {
         "2017": {
-            qualifying: {
-                Behind: 0.782,
-                Nation: "Colombia",
-                Notes: null,
-                Rank: 32,
-                Time: 10.427
+            "qualifying": {
+                "Behind": 0.782,
+                "Nation": "Colombia",
+                "Notes": null,
+                "Rank": 32,
+                "Time": 10.427
             }
         }
     },
     "Eddie Dawkins": {
         "2017": {
-            eighth: {
-                Gap: null,
-                Heat: 3,
-                Nation: "New Zealand",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 3,
+                "Nation": "New Zealand",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: 0.35100000000000003,
-                Nation: "New Zealand",
-                Notes: "q",
-                Rank: 19,
-                Time: 9.996
+            "qualifying": {
+                "Behind": 0.35100000000000003,
+                "Nation": "New Zealand",
+                "Notes": "q",
+                "Rank": 19,
+                "Time": 9.996
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 3,
-                Nation: "New Zealand",
-                Notes: null,
+                "Heat": 3,
+                "Nation": "New Zealand",
+                "Notes": null,
                 "Race 1": "+0.677",
                 "Race 2": "+0.004",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 10,
-                Nation: "New Zealand",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 10,
+                "Nation": "New Zealand",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2018": {
-            eighth: {
-                Gap: null,
-                Heat: 4,
-                Nation: "New Zealand",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 4,
+                "Nation": "New Zealand",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: 0.16899999999999998,
-                Nation: "New Zealand",
-                Notes: "q",
-                Rank: 13,
-                Time: 9.843
+            "qualifying": {
+                "Behind": 0.16899999999999998,
+                "Nation": "New Zealand",
+                "Notes": "q",
+                "Rank": 13,
+                "Time": 9.843
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 4,
-                Nation: "New Zealand",
-                Notes: null,
+                "Heat": 4,
+                "Nation": "New Zealand",
+                "Notes": null,
                 "Race 1": "+0.001",
                 "Race 2": "+0.561",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 9,
-                Nation: "New Zealand",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 9,
+                "Nation": "New Zealand",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Eric Engler": {
         "2017": {
-            qualifying: {
-                Behind: 0.43799999999999994,
-                Nation: "Germany",
-                Notes: "q",
-                Rank: 26,
-                Time: 10.083
+            "qualifying": {
+                "Behind": 0.43799999999999994,
+                "Nation": "Germany",
+                "Notes": "q",
+                "Rank": 26,
+                "Time": 10.083
             },
-            sixteenth: {
-                Gap: 0.17800000000000002,
-                Heat: 3,
-                Nation: "Germany",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": 0.17800000000000002,
+                "Heat": 3,
+                "Nation": "Germany",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2018": {
-            qualifying: {
-                Behind: 0.382,
-                Nation: "Germany",
-                Notes: "q",
-                Rank: 26,
-                Time: 10.056000000000001
+            "qualifying": {
+                "Behind": 0.382,
+                "Nation": "Germany",
+                "Notes": "q",
+                "Rank": 26,
+                "Time": 10.056000000000001
             },
-            sixteenth: {
-                Gap: "+0.290",
-                Heat: 3,
-                Nation: "Germany",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.290",
+                "Heat": 3,
+                "Nation": "Germany",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Ethan Mitchell": {
         "2017": {
-            eighth: {
-                Gap: null,
-                Heat: 4,
-                Nation: "New Zealand",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 4,
+                "Nation": "New Zealand",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "New Zealand",
+                "Nation": "New Zealand",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                "Rank": null
             },
-            qualifying: {
-                Behind: 0.122,
-                Nation: "New Zealand",
-                Notes: "Q",
-                Rank: 4,
-                Time: 9.767000000000001
+            "qualifying": {
+                "Behind": 0.122,
+                "Nation": "New Zealand",
+                "Notes": "Q",
+                "Rank": 4,
+                "Time": 9.767000000000001
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": "X",
-                Heat: 4,
-                Nation: "New Zealand",
-                Notes: "Q",
+                "Heat": 4,
+                "Nation": "New Zealand",
+                "Notes": "Q",
                 "Race 1": "+0.049",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "New Zealand",
-                Notes: null,
+                "Heat": 1,
+                "Nation": "New Zealand",
+                "Notes": null,
                 "Race 1": "+0.197",
                 "Race 2": "+0.154",
-                Rank: 2
+                "Rank": 2
             }
         },
         "2018": {
-            eighth: {
-                Gap: 0.214,
-                Heat: 6,
-                Nation: "New Zealand",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.214,
+                "Heat": 6,
+                "Nation": "New Zealand",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.131,
-                Nation: "New Zealand",
-                Notes: "q",
-                Rank: 11,
-                Time: 9.805
+            "qualifying": {
+                "Behind": 0.131,
+                "Nation": "New Zealand",
+                "Notes": "q",
+                "Rank": 11,
+                "Time": 9.805
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 7,
-                Nation: "New Zealand",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 7,
+                "Nation": "New Zealand",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2019": {
-            eighth: {
-                Gap: null,
-                Heat: 4,
-                Nation: "New Zealand",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 4,
+                "Nation": "New Zealand",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: 0.33,
-                Nation: "New Zealand",
-                Notes: "q",
-                Rank: 20,
-                Time: 9.902000000000001
+            "qualifying": {
+                "Behind": 0.33,
+                "Nation": "New Zealand",
+                "Notes": "q",
+                "Rank": 20,
+                "Time": 9.902000000000001
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 4,
-                Nation: "New Zealand",
-                Notes: null,
+                "Heat": 4,
+                "Nation": "New Zealand",
+                "Notes": null,
                 "Race 1": "+0.024",
                 "Race 2": "+0.068",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 9,
-                Nation: "New Zealand",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 9,
+                "Nation": "New Zealand",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "+0.500",
-                Nation: "New Zealand",
-                Notes: "q",
-                Rank: 26,
-                Time: "9.753"
+            "qualifying": {
+                "Behind": "+0.500",
+                "Nation": "New Zealand",
+                "Notes": "q",
+                "Rank": 26,
+                "Time": "9.753"
             },
-            sixteenth: {
-                Gap: "+1.259",
-                Heat: 3,
-                Nation: "New Zealand",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+1.259",
+                "Heat": 3,
+                "Nation": "New Zealand",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Fabián Puerta": {
         "2017": {
-            qualifying: {
-                Behind: 0.337,
-                Nation: "Colombia",
-                Notes: "q",
-                Rank: 17,
-                Time: 9.982000000000001
+            "qualifying": {
+                "Behind": 0.337,
+                "Nation": "Colombia",
+                "Notes": "q",
+                "Rank": 17,
+                "Time": 9.982000000000001
             },
-            sixteenth: {
-                Gap: 0.205,
-                Heat: 12,
-                Nation: "Colombia",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": 0.205,
+                "Heat": 12,
+                "Nation": "Colombia",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2018": {
-            qualifying: {
-                Behind: 0.17800000000000002,
-                Nation: "Colombia",
-                Notes: "q",
-                Rank: 14,
-                Time: 9.852
+            "qualifying": {
+                "Behind": 0.17800000000000002,
+                "Nation": "Colombia",
+                "Notes": "q",
+                "Rank": 14,
+                "Time": 9.852
             },
-            sixteenth: {
-                Gap: "REL",
-                Heat: 10,
-                Nation: "Colombia",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "REL",
+                "Heat": 10,
+                "Nation": "Colombia",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "François Pervis": {
         "2017": {
-            eighth: {
-                Gap: 1.89,
-                Heat: 4,
-                Nation: "France",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 1.89,
+                "Heat": 4,
+                "Nation": "France",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.303,
-                Nation: "France",
-                Notes: "q",
-                Rank: 13,
-                Time: 9.948
+            "qualifying": {
+                "Behind": 0.303,
+                "Nation": "France",
+                "Notes": "q",
+                "Rank": 13,
+                "Time": 9.948
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 9,
-                Nation: "France",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 9,
+                "Nation": "France",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Gold medal final": {
         "2017": {
-            final: {
+            "final": {
                 "Decider (i.r.)": "Gold medal final",
-                Nation: "Gold medal final",
+                "Nation": "Gold medal final",
                 "Race 1": "Gold medal final",
                 "Race 2": "Gold medal final",
-                Rank: "Gold medal final"
+                "Rank": "Gold medal final"
             }
         }
     },
     "Gold medal race": {
         "2018": {
-            final: {
+            "final": {
                 "Decider (i.r.)": "Gold medal race",
-                Nation: "Gold medal race",
+                "Nation": "Gold medal race",
                 "Race 1": "Gold medal race",
                 "Race 2": "Gold medal race",
-                Rank: "Gold medal race"
+                "Rank": "Gold medal race"
             }
         },
         "2019": {
-            final: {
+            "final": {
                 "Decider (i.r.)": "Gold medal race",
-                Nation: "Gold medal race",
+                "Nation": "Gold medal race",
                 "Race 1": "Gold medal race",
                 "Race 2": "Gold medal race",
-                Rank: "Gold medal race"
+                "Rank": "Gold medal race"
             }
         },
         "2020": {
-            final: {
+            "final": {
                 "Decider (i.r.)": "Gold medal race",
-                Nation: "Gold medal race",
+                "Nation": "Gold medal race",
                 "Race 1": "Gold medal race",
                 "Race 2": "Gold medal race",
-                Rank: "Gold medal race"
+                "Rank": "Gold medal race"
             }
         }
     },
     "Harrie Lavreysen": {
         "2017": {
-            eighth: {
-                Gap: null,
-                Heat: 6,
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 6,
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Netherlands",
+                "Nation": "Netherlands",
                 "Race 1": "+0.201",
                 "Race 2": "+0.179",
-                Rank: null
+                "Rank": null
             },
-            qualifying: {
-                Behind: 0.187,
-                Nation: "Netherlands",
-                Notes: "q",
-                Rank: 6,
-                Time: 9.832
+            "qualifying": {
+                "Behind": 0.187,
+                "Nation": "Netherlands",
+                "Notes": "q",
+                "Rank": 6,
+                "Time": 9.832
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 3,
-                Nation: "Netherlands",
-                Notes: "Q",
+                "Heat": 3,
+                "Nation": "Netherlands",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 2,
-                Nation: "Netherlands",
-                Notes: "Q",
+                "Heat": 2,
+                "Nation": "Netherlands",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 2,
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 2,
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2018": {
-            eighth: {
-                Gap: 0.022000000000000002,
-                Heat: 4,
-                Nation: "Netherlands",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.022000000000000002,
+                "Heat": 4,
+                "Nation": "Netherlands",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.035,
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 4,
-                Time: 9.709
+            "qualifying": {
+                "Behind": 0.035,
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 4,
+                "Time": 9.709
             }
         },
         "2019": {
-            eighth: {
-                Gap: null,
-                Heat: 2,
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 2,
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Netherlands",
+                "Nation": "Netherlands",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                "Rank": null
             },
-            qualifying: {
-                Behind: 0.012,
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 2,
-                Time: 9.584
+            "qualifying": {
+                "Behind": 0.012,
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 2,
+                "Time": 9.584
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 2,
-                Nation: "Netherlands",
-                Notes: "Q",
+                "Heat": 2,
+                "Nation": "Netherlands",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": "X",
-                Heat: 2,
-                Nation: "Netherlands",
-                Notes: "Q",
+                "Heat": 2,
+                "Nation": "Netherlands",
+                "Notes": "Q",
                 "Race 1": "+0.006",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             }
         },
         "2020": {
-            eighth: {
-                Gap: "X",
-                Heat: 1,
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": "X",
+                "Heat": 1,
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Netherlands",
+                "Nation": "Netherlands",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                "Rank": null
             },
-            qualifying: {
-                Behind: null,
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 1,
-                Time: "9.253"
+            "qualifying": {
+                "Behind": null,
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 1,
+                "Time": "9.253"
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Netherlands",
-                Notes: "Q",
+                "Heat": 1,
+                "Nation": "Netherlands",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Netherlands",
-                Notes: "Q",
+                "Heat": 1,
+                "Nation": "Netherlands",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             }
         }
     },
     "Hsieh Nien-hsing": {
         "2020": {
-            qualifying: {
-                Behind: "+0.511",
-                Nation: "Chinese Taipei",
-                Notes: "q",
-                Rank: 27,
-                Time: "9.764"
+            "qualifying": {
+                "Behind": "+0.511",
+                "Nation": "Chinese Taipei",
+                "Notes": "q",
+                "Rank": 27,
+                "Time": "9.764"
             },
-            sixteenth: {
-                Gap: "+0.093",
-                Heat: 2,
-                Nation: "Chinese Taipei",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.093",
+                "Heat": 2,
+                "Nation": "Chinese Taipei",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Hugo Barrette": {
         "2017": {
-            eighth: {
-                Gap: 0.062,
-                Heat: 7,
-                Nation: "Canada",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.062,
+                "Heat": 7,
+                "Nation": "Canada",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.247,
-                Nation: "Canada",
-                Notes: "q",
-                Rank: 10,
-                Time: 9.892000000000001
+            "qualifying": {
+                "Behind": 0.247,
+                "Nation": "Canada",
+                "Notes": "q",
+                "Rank": 10,
+                "Time": 9.892000000000001
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 6,
-                Nation: "Canada",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 6,
+                "Nation": "Canada",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2018": {
-            qualifying: {
-                Behind: 0.26,
-                Nation: "Canada",
-                Notes: "q",
-                Rank: 18,
-                Time: 9.934
+            "qualifying": {
+                "Behind": 0.26,
+                "Nation": "Canada",
+                "Notes": "q",
+                "Rank": 18,
+                "Time": 9.934
             },
-            sixteenth: {
-                Gap: "+0.299",
-                Heat: 11,
-                Nation: "Canada",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.299",
+                "Heat": 11,
+                "Nation": "Canada",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2019": {
-            eighth: {
-                Gap: "+0.099",
-                Heat: 3,
-                Nation: "Canada",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.099",
+                "Heat": 3,
+                "Nation": "Canada",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.312,
-                Nation: "Canada",
-                Notes: "q",
-                Rank: 19,
-                Time: 9.884
+            "qualifying": {
+                "Behind": 0.312,
+                "Nation": "Canada",
+                "Notes": "q",
+                "Rank": 19,
+                "Time": 9.884
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 10,
-                Nation: "Canada",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 10,
+                "Nation": "Canada",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Im Chae-bin": {
         "2018": {
-            qualifying: {
-                Behind: 0.35600000000000004,
-                Nation: "South Korea",
-                Notes: "q",
-                Rank: 25,
-                Time: 10.03
+            "qualifying": {
+                "Behind": 0.35600000000000004,
+                "Nation": "South Korea",
+                "Notes": "q",
+                "Rank": 25,
+                "Time": 10.03
             },
-            sixteenth: {
-                Gap: "+0.071",
-                Heat: 4,
-                Nation: "South Korea",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.071",
+                "Heat": 4,
+                "Nation": "South Korea",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Jack Carlin": {
         "2018": {
-            eighth: {
-                Gap: null,
-                Heat: 5,
-                Nation: "Great Britain",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 5,
+                "Nation": "Great Britain",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Great Britain",
+                "Nation": "Great Britain",
                 "Race 1": "+0.045",
                 "Race 2": "+0.098",
-                Rank: null
+                "Rank": null
             },
-            qualifying: {
-                Behind: 0.040999999999999995,
-                Nation: "Great Britain",
-                Notes: "q",
-                Rank: 5,
-                Time: 9.715
+            "qualifying": {
+                "Behind": 0.040999999999999995,
+                "Nation": "Great Britain",
+                "Notes": "q",
+                "Rank": 5,
+                "Time": 9.715
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 4,
-                Nation: "Great Britain",
-                Notes: "Q",
+                "Heat": 4,
+                "Nation": "Great Britain",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Great Britain",
-                Notes: "Q",
+                "Heat": 1,
+                "Nation": "Great Britain",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 1,
-                Nation: "Great Britain",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 1,
+                "Nation": "Great Britain",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2019": {
-            eighth: {
-                Gap: "+0.018",
-                Heat: 6,
-                Nation: "Great Britain",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.018",
+                "Heat": 6,
+                "Nation": "Great Britain",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.21100000000000002,
-                Nation: "Great Britain",
-                Notes: "q",
-                Rank: 11,
-                Time: 9.783
+            "qualifying": {
+                "Behind": 0.21100000000000002,
+                "Nation": "Great Britain",
+                "Notes": "q",
+                "Rank": 11,
+                "Time": 9.783
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 7,
-                Nation: "Great Britain",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 7,
+                "Nation": "Great Britain",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "+0.406",
-                Nation: "Great Britain",
-                Notes: "q",
-                Rank: 19,
-                Time: "9.659"
+            "qualifying": {
+                "Behind": "+0.406",
+                "Nation": "Great Britain",
+                "Notes": "q",
+                "Rank": 19,
+                "Time": "9.659"
             },
-            sixteenth: {
-                Gap: "+0.032",
-                Heat: 10,
-                Nation: "Great Britain",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.032",
+                "Heat": 10,
+                "Nation": "Great Britain",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Jair Tjon En Fa": {
         "2017": {
-            eighth: {
-                Gap: 0.109,
-                Heat: 6,
-                Nation: "Suriname",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.109,
+                "Heat": 6,
+                "Nation": "Suriname",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.39299999999999996,
-                Nation: "Suriname",
-                Notes: "q",
-                Rank: 22,
-                Time: 10.038
+            "qualifying": {
+                "Behind": 0.39299999999999996,
+                "Nation": "Suriname",
+                "Notes": "q",
+                "Rank": 22,
+                "Time": 10.038
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 7,
-                Nation: "Suriname",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 7,
+                "Nation": "Suriname",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2018": {
-            qualifying: {
-                Behind: 0.46299999999999997,
-                Nation: "Suriname",
-                Notes: null,
-                Rank: 31,
-                Time: 10.137
+            "qualifying": {
+                "Behind": 0.46299999999999997,
+                "Nation": "Suriname",
+                "Notes": null,
+                "Rank": 31,
+                "Time": 10.137
             }
         },
         "2019": {
-            qualifying: {
-                Behind: 0.233,
-                Nation: "Suriname",
-                Notes: "q",
-                Rank: 12,
-                Time: 9.805
+            "qualifying": {
+                "Behind": 0.233,
+                "Nation": "Suriname",
+                "Notes": "q",
+                "Rank": 12,
+                "Time": 9.805
             },
-            sixteenth: {
-                Gap: "+0.034",
-                Heat: 8,
-                Nation: "Suriname",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.034",
+                "Heat": 8,
+                "Nation": "Suriname",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2020": {
-            eighth: {
-                Gap: "+0.120",
-                Heat: 5,
-                Nation: "Suriname",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.120",
+                "Heat": 5,
+                "Nation": "Suriname",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: "+0.415",
-                Nation: "Suriname",
-                Notes: "q",
-                Rank: 21,
-                Time: "9.668"
+            "qualifying": {
+                "Behind": "+0.415",
+                "Nation": "Suriname",
+                "Notes": "q",
+                "Rank": 21,
+                "Time": "9.668"
             },
-            sixteenth: {
-                Gap: "X",
-                Heat: 8,
-                Nation: "Suriname",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": "X",
+                "Heat": 8,
+                "Nation": "Suriname",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Jason Kenny": {
         "2020": {
-            eighth: {
-                Gap: "+0.047",
-                Heat: 7,
-                Nation: "Great Britain",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.047",
+                "Heat": 7,
+                "Nation": "Great Britain",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: "+0.308",
-                Nation: "Great Britain",
-                Notes: "q",
-                Rank: 7,
-                Time: "9.561"
+            "qualifying": {
+                "Behind": "+0.308",
+                "Nation": "Great Britain",
+                "Notes": "q",
+                "Rank": 7,
+                "Time": "9.561"
             },
-            sixteenth: {
-                Gap: "X",
-                Heat: 3,
-                Nation: "Great Britain",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": "X",
+                "Heat": 3,
+                "Nation": "Great Britain",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Jean Spies": {
         "2019": {
-            qualifying: {
-                Behind: 0.611,
-                Nation: "South Africa",
-                Notes: null,
-                Rank: 32,
-                Time: 10.183
+            "qualifying": {
+                "Behind": 0.611,
+                "Nation": "South Africa",
+                "Notes": null,
+                "Rank": 32,
+                "Time": 10.183
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "+0.931",
-                Nation: "South Africa",
-                Notes: null,
-                Rank: 34,
-                Time: "10.184"
+            "qualifying": {
+                "Behind": "+0.931",
+                "Nation": "South Africa",
+                "Notes": null,
+                "Rank": 34,
+                "Time": "10.184"
             }
         }
     },
     "Jeffrey Hoogland": {
         "2018": {
-            eighth: {
-                Gap: 0.019,
-                Heat: 1,
-                Nation: "Netherlands",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.019,
+                "Heat": 1,
+                "Nation": "Netherlands",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: null,
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 1,
-                Time: 9.674
+            "qualifying": {
+                "Behind": null,
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 1,
+                "Time": 9.674
             }
         },
         "2019": {
-            eighth: {
-                Gap: null,
-                Heat: 1,
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 1,
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Netherlands",
+                "Nation": "Netherlands",
                 "Race 1": "+0.166",
                 "Race 2": "+0.032",
-                Rank: null
+                "Rank": null
             },
-            qualifying: {
-                Behind: null,
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 1,
-                Time: 9.572000000000001
+            "qualifying": {
+                "Behind": null,
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 1,
+                "Time": 9.572000000000001
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Netherlands",
-                Notes: "Q",
+                "Heat": 1,
+                "Nation": "Netherlands",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Netherlands",
-                Notes: "Q",
+                "Heat": 1,
+                "Nation": "Netherlands",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             }
         },
         "2020": {
-            eighth: {
-                Gap: "X",
-                Heat: 2,
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": "X",
+                "Heat": 2,
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Netherlands",
+                "Nation": "Netherlands",
                 "Race 1": "+0.064",
                 "Race 2": "+0.195",
-                Rank: null
+                "Rank": null
             },
-            qualifying: {
-                Behind: "+0.069",
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 2,
-                Time: "9.322"
+            "qualifying": {
+                "Behind": "+0.069",
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 2,
+                "Time": "9.322"
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 2,
-                Nation: "Netherlands",
-                Notes: "Q",
+                "Heat": 2,
+                "Nation": "Netherlands",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 2,
-                Nation: "Netherlands",
-                Notes: "Q",
+                "Heat": 2,
+                "Nation": "Netherlands",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             }
         }
     },
     "Joel Archambault": {
         "2019": {
-            qualifying: {
-                Behind: 0.44799999999999995,
-                Nation: "Canada",
-                Notes: null,
-                Rank: 29,
-                Time: 10.02
+            "qualifying": {
+                "Behind": 0.44799999999999995,
+                "Nation": "Canada",
+                "Notes": null,
+                "Rank": 29,
+                "Time": 10.02
             }
         }
     },
     "Joseph Truman": {
         "2019": {
-            eighth: {
-                Gap: "Relegated",
-                Heat: 7,
-                Nation: "Great Britain",
-                Notes: "Relegated",
-                Rank: 2
+            "eighth": {
+                "Gap": "Relegated",
+                "Heat": 7,
+                "Nation": "Great Britain",
+                "Notes": "Relegated",
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.195,
-                Nation: "Great Britain",
-                Notes: "q",
-                Rank: 10,
-                Time: 9.767000000000001
+            "qualifying": {
+                "Behind": 0.195,
+                "Nation": "Great Britain",
+                "Notes": "q",
+                "Rank": 10,
+                "Time": 9.767000000000001
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 6,
-                Nation: "Great Britain",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 6,
+                "Nation": "Great Britain",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Juan Peralta": {
         "2017": {
-            qualifying: {
-                Behind: 0.43799999999999994,
-                Nation: "Spain",
-                Notes: "q",
-                Rank: 25,
-                Time: 10.083
+            "qualifying": {
+                "Behind": 0.43799999999999994,
+                "Nation": "Spain",
+                "Notes": "q",
+                "Rank": 25,
+                "Time": 10.083
             },
-            sixteenth: {
-                Gap: 0.038,
-                Heat: 4,
-                Nation: "Spain",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": 0.038,
+                "Heat": 4,
+                "Nation": "Spain",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2018": {
-            qualifying: {
-                Behind: 0.43799999999999994,
-                Nation: "Spain",
-                Notes: null,
-                Rank: 30,
-                Time: 10.112
+            "qualifying": {
+                "Behind": 0.43799999999999994,
+                "Nation": "Spain",
+                "Notes": null,
+                "Rank": 30,
+                "Time": 10.112
             }
         },
         "2019": {
-            qualifying: {
-                Behind: 0.39799999999999996,
-                Nation: "Spain",
-                Notes: "q",
-                Rank: 26,
-                Time: 9.97
+            "qualifying": {
+                "Behind": 0.39799999999999996,
+                "Nation": "Spain",
+                "Notes": "q",
+                "Rank": 26,
+                "Time": 9.97
             },
-            sixteenth: {
-                Gap: "+0.237",
-                Heat: 3,
-                Nation: "Spain",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.237",
+                "Heat": 3,
+                "Nation": "Spain",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "+0.415",
-                Nation: "Spain",
-                Notes: "q",
-                Rank: 20,
-                Time: "9.668"
+            "qualifying": {
+                "Behind": "+0.415",
+                "Nation": "Spain",
+                "Notes": "q",
+                "Rank": 20,
+                "Time": "9.668"
             },
-            sixteenth: {
-                Gap: "+0.094",
-                Heat: 9,
-                Nation: "Spain",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.094",
+                "Heat": 9,
+                "Nation": "Spain",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Kamil Kuczyński": {
         "2017": {
-            qualifying: {
-                Behind: 0.25,
-                Nation: "Poland",
-                Notes: "q",
-                Rank: 11,
-                Time: 9.895
+            "qualifying": {
+                "Behind": 0.25,
+                "Nation": "Poland",
+                "Notes": "q",
+                "Rank": 11,
+                "Time": 9.895
             },
-            sixteenth: {
-                Gap: 0.264,
-                Heat: 7,
-                Nation: "Poland",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": 0.264,
+                "Heat": 7,
+                "Nation": "Poland",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Kazunari Watanabe": {
         "2018": {
-            eighth: {
-                Gap: 0.146,
-                Heat: 3,
-                Nation: "Japan",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.146,
+                "Heat": 3,
+                "Nation": "Japan",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.27,
-                Nation: "Japan",
-                Notes: "q",
-                Rank: 19,
-                Time: 9.943999999999999
+            "qualifying": {
+                "Behind": 0.27,
+                "Nation": "Japan",
+                "Notes": "q",
+                "Rank": 19,
+                "Time": 9.943999999999999
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 10,
-                Nation: "Japan",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 10,
+                "Nation": "Japan",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Kevin Quintero": {
         "2019": {
-            qualifying: {
-                Behind: 0.418,
-                Nation: "Colombia",
-                Notes: "q",
-                Rank: 28,
-                Time: 9.99
+            "qualifying": {
+                "Behind": 0.418,
+                "Nation": "Colombia",
+                "Notes": "q",
+                "Rank": 28,
+                "Time": 9.99
             },
-            sixteenth: {
-                Gap: "+0.091",
-                Heat: 1,
-                Nation: "Colombia",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.091",
+                "Heat": 1,
+                "Nation": "Colombia",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "+0.429",
-                Nation: "Colombia",
-                Notes: "q",
-                Rank: 23,
-                Time: "9.682"
+            "qualifying": {
+                "Behind": "+0.429",
+                "Nation": "Colombia",
+                "Notes": "q",
+                "Rank": 23,
+                "Time": "9.682"
             },
-            sixteenth: {
-                Gap: "+0.035",
-                Heat: 6,
-                Nation: "Colombia",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.035",
+                "Heat": 6,
+                "Nation": "Colombia",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Kirill Samusenko": {
         "2017": {
-            qualifying: {
-                Behind: 0.499,
-                Nation: "Russia",
-                Notes: null,
-                Rank: 29,
-                Time: 10.144
+            "qualifying": {
+                "Behind": 0.499,
+                "Nation": "Russia",
+                "Notes": null,
+                "Rank": 29,
+                "Time": 10.144
             }
         }
     },
     "Kwesi Browne": {
         "2017": {
-            qualifying: {
-                Behind: 0.807,
-                Nation: "Trinidad and Tobago",
-                Notes: null,
-                Rank: 33,
-                Time: 10.452
+            "qualifying": {
+                "Behind": 0.807,
+                "Nation": "Trinidad and Tobago",
+                "Notes": null,
+                "Rank": 33,
+                "Time": 10.452
             }
         }
     },
     "Law Tsz Chun": {
         "2020": {
-            qualifying: {
-                Behind: "+0.554",
-                Nation: "Hong Kong",
-                Notes: null,
-                Rank: 30,
-                Time: "9.807"
+            "qualifying": {
+                "Behind": "+0.554",
+                "Nation": "Hong Kong",
+                "Notes": null,
+                "Rank": 30,
+                "Time": "9.807"
             }
         }
     },
     "Martin Čechman": {
         "2018": {
-            qualifying: {
-                Behind: 0.285,
-                Nation: "Czech Republic",
-                Notes: "q",
-                Rank: 20,
-                Time: 9.959
+            "qualifying": {
+                "Behind": 0.285,
+                "Nation": "Czech Republic",
+                "Notes": "q",
+                "Rank": 20,
+                "Time": 9.959
             },
-            sixteenth: {
-                Gap: "+0.037",
-                Heat: 9,
-                Nation: "Czech Republic",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.037",
+                "Heat": 9,
+                "Nation": "Czech Republic",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "+0.582",
-                Nation: "Czech Republic",
-                Notes: null,
-                Rank: 31,
-                Time: "9.835"
+            "qualifying": {
+                "Behind": "+0.582",
+                "Nation": "Czech Republic",
+                "Notes": null,
+                "Rank": 31,
+                "Time": "9.835"
             }
         }
     },
     "Mateusz Rudyk": {
         "2018": {
-            eighth: {
-                Gap: null,
-                Heat: 6,
-                Nation: "Poland",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 6,
+                "Nation": "Poland",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: 0.068,
-                Nation: "Poland",
-                Notes: "q",
-                Rank: 6,
-                Time: 9.728
+            "qualifying": {
+                "Behind": 0.068,
+                "Nation": "Poland",
+                "Notes": "q",
+                "Rank": 6,
+                "Time": 9.728
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 3,
-                Nation: "Poland",
-                Notes: null,
+                "Heat": 3,
+                "Nation": "Poland",
+                "Notes": null,
                 "Race 1": "+0.102",
                 "Race 2": "+0.024",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 2,
-                Nation: "Poland",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 2,
+                "Nation": "Poland",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2019": {
-            eighth: {
-                Gap: null,
-                Heat: 3,
-                Nation: "Poland",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 3,
+                "Nation": "Poland",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Poland",
+                "Nation": "Poland",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                "Rank": null
             },
-            qualifying: {
-                Behind: 0.012,
-                Nation: "Poland",
-                Notes: "Q",
-                Rank: 3,
-                Time: 9.584
+            "qualifying": {
+                "Behind": 0.012,
+                "Nation": "Poland",
+                "Notes": "Q",
+                "Rank": 3,
+                "Time": 9.584
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 3,
-                Nation: "Poland",
-                Notes: "Q",
+                "Heat": 3,
+                "Nation": "Poland",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": "+0.552",
-                Heat: 2,
-                Nation: "Poland",
-                Notes: null,
+                "Heat": 2,
+                "Nation": "Poland",
+                "Notes": null,
                 "Race 1": "X",
                 "Race 2": "+0.041",
-                Rank: 2
+                "Rank": 2
             }
         },
         "2020": {
-            eighth: {
-                Gap: "X",
-                Heat: 3,
-                Nation: "Poland",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": "X",
+                "Heat": 3,
+                "Nation": "Poland",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Poland",
+                "Nation": "Poland",
                 "Race 1": "+0.000",
                 "Race 2": "+0.853",
-                Rank: "4"
+                "Rank": "4"
             },
-            qualifying: {
-                Behind: "+0.181",
-                Nation: "Poland",
-                Notes: "Q",
-                Rank: 3,
-                Time: "9.434"
+            "qualifying": {
+                "Behind": "+0.181",
+                "Nation": "Poland",
+                "Notes": "Q",
+                "Rank": 3,
+                "Time": "9.434"
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 3,
-                Nation: "Poland",
-                Notes: "Q",
+                "Heat": 3,
+                "Nation": "Poland",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 2,
-                Nation: "Poland",
-                Notes: null,
+                "Heat": 2,
+                "Nation": "Poland",
+                "Notes": null,
                 "Race 1": "+0.663",
                 "Race 2": "+0.113",
-                Rank: 2
+                "Rank": 2
             }
         }
     },
     "Matthew Glaetzer": {
         "2017": {
-            eighth: {
-                Gap: null,
-                Heat: 5,
-                Nation: "Australia",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 5,
+                "Nation": "Australia",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: 0.17,
-                Nation: "Australia",
-                Notes: "q",
-                Rank: 5,
-                Time: 9.815
+            "qualifying": {
+                "Behind": 0.17,
+                "Nation": "Australia",
+                "Notes": "q",
+                "Rank": 5,
+                "Time": 9.815
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": "REL[A]",
-                Heat: 4,
-                Nation: "Australia",
-                Notes: null,
+                "Heat": 4,
+                "Nation": "Australia",
+                "Notes": null,
                 "Race 1": "X",
                 "Race 2": "+0.062",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 1,
-                Nation: "Australia",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 1,
+                "Nation": "Australia",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2018": {
-            eighth: {
-                Gap: null,
-                Heat: 2,
-                Nation: "Australia",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 2,
+                "Nation": "Australia",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Australia",
+                "Nation": "Australia",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                "Rank": null
             },
-            qualifying: {
-                Behind: 0.003,
-                Nation: "Australia",
-                Notes: "Q",
-                Rank: 2,
-                Time: 9.677
+            "qualifying": {
+                "Behind": 0.003,
+                "Nation": "Australia",
+                "Notes": "Q",
+                "Rank": 2,
+                "Time": 9.677
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 2,
-                Nation: "Australia",
-                Notes: "Q",
+                "Heat": 2,
+                "Nation": "Australia",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 2,
-                Nation: "Australia",
-                Notes: "Q",
+                "Heat": 2,
+                "Nation": "Australia",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             }
         },
         "2019": {
-            eighth: {
-                Gap: null,
-                Heat: 5,
-                Nation: "Australia",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 5,
+                "Nation": "Australia",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Australia",
+                "Nation": "Australia",
                 "Race 1": "REL",
                 "Race 2": "+0.041",
-                Rank: "4"
+                "Rank": "4"
             },
-            qualifying: {
-                Behind: 0.134,
-                Nation: "Australia",
-                Notes: "q",
-                Rank: 5,
-                Time: 9.706
+            "qualifying": {
+                "Behind": 0.134,
+                "Nation": "Australia",
+                "Notes": "q",
+                "Rank": 5,
+                "Time": 9.706
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 4,
-                Nation: "Australia",
-                Notes: "Q",
+                "Heat": 4,
+                "Nation": "Australia",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Australia",
-                Notes: null,
+                "Heat": 1,
+                "Nation": "Australia",
+                "Notes": null,
                 "Race 1": "+0.016",
                 "Race 2": "+0.126",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 1,
-                Nation: "Australia",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 1,
+                "Nation": "Australia",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Matthew Richardson": {
         "2020": {
-            qualifying: {
-                Behind: "+0.375",
-                Nation: "Australia",
-                Notes: "q",
-                Rank: 17,
-                Time: "9.628"
+            "qualifying": {
+                "Behind": "+0.375",
+                "Nation": "Australia",
+                "Notes": "q",
+                "Rank": 17,
+                "Time": "9.628"
             },
-            sixteenth: {
-                Gap: "+0.072",
-                Heat: 12,
-                Nation: "Australia",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.072",
+                "Heat": 12,
+                "Nation": "Australia",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Matthijs Büchli": {
         "2019": {
-            qualifying: {
-                Behind: 0.28,
-                Nation: "Netherlands",
-                Notes: "q",
-                Rank: 15,
-                Time: 9.852
+            "qualifying": {
+                "Behind": 0.28,
+                "Nation": "Netherlands",
+                "Notes": "q",
+                "Rank": 15,
+                "Time": 9.852
             },
-            sixteenth: {
-                Gap: "+0.053",
-                Heat: 11,
-                Nation: "Netherlands",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.053",
+                "Heat": 11,
+                "Nation": "Netherlands",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2020": {
-            eighth: {
-                Gap: "X",
-                Heat: 6,
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": "X",
+                "Heat": 6,
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: "+0.322",
-                Nation: "Netherlands",
-                Notes: "q",
-                Rank: 11,
-                Time: "9.575"
+            "qualifying": {
+                "Behind": "+0.322",
+                "Nation": "Netherlands",
+                "Notes": "q",
+                "Rank": 11,
+                "Time": "9.575"
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 3,
-                Nation: "Netherlands",
-                Notes: null,
+                "Heat": 3,
+                "Nation": "Netherlands",
+                "Notes": null,
                 "Race 1": "+0.131",
                 "Race 2": "+0.185",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: "X",
-                Heat: 7,
-                Nation: "Netherlands",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": "X",
+                "Heat": 7,
+                "Nation": "Netherlands",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Max Niederlag": {
         "2017": {
-            eighth: {
-                Gap: null,
-                Heat: 2,
-                Nation: "Germany",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 2,
+                "Nation": "Germany",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: 0.02,
-                Nation: "Germany",
-                Notes: "Q",
-                Rank: 2,
-                Time: 9.665
+            "qualifying": {
+                "Behind": 0.02,
+                "Nation": "Germany",
+                "Notes": "Q",
+                "Rank": 2,
+                "Time": 9.665
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": "REL[A]",
-                Heat: 2,
-                Nation: "Germany",
-                Notes: null,
+                "Heat": 2,
+                "Nation": "Germany",
+                "Notes": null,
                 "Race 1": "+0.096",
                 "Race 2": "X",
-                Rank: 2
+                "Rank": 2
             }
         }
     },
     "Maxim Nalyotov": {
         "2019": {
-            qualifying: {
-                Behind: 0.615,
-                Nation: "Kazakhstan",
-                Notes: null,
-                Rank: 33,
-                Time: 10.187000000000001
+            "qualifying": {
+                "Behind": 0.615,
+                "Nation": "Kazakhstan",
+                "Notes": null,
+                "Rank": 33,
+                "Time": 10.187000000000001
             }
         }
     },
     "Maximilian Dörnbach": {
         "2019": {
-            qualifying: {
-                Behind: 0.345,
-                Nation: "Germany",
-                Notes: "q",
-                Rank: 22,
-                Time: 9.917
+            "qualifying": {
+                "Behind": 0.345,
+                "Nation": "Germany",
+                "Notes": "q",
+                "Rank": 22,
+                "Time": 9.917
             },
-            sixteenth: {
-                Gap: "+0.058",
-                Heat: 7,
-                Nation: "Germany",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.058",
+                "Heat": 7,
+                "Nation": "Germany",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Maximilian Levy": {
         "2018": {
-            eighth: {
-                Gap: null,
-                Heat: 1,
-                Nation: "Germany",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 1,
+                "Nation": "Germany",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Germany",
+                "Nation": "Germany",
                 "Race 1": "+0.023",
                 "Race 2": "+0.090",
-                Rank: "4"
+                "Rank": "4"
             },
-            qualifying: {
-                Behind: 0.249,
-                Nation: "Germany",
-                Notes: "q",
-                Rank: 17,
-                Time: 9.923
+            "qualifying": {
+                "Behind": 0.249,
+                "Nation": "Germany",
+                "Notes": "q",
+                "Rank": 17,
+                "Time": 9.923
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Germany",
-                Notes: "Q",
+                "Heat": 1,
+                "Nation": "Germany",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Germany",
-                Notes: null,
+                "Heat": 1,
+                "Nation": "Germany",
+                "Notes": null,
                 "Race 1": "+0.053",
                 "Race 2": "+0.118",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 12,
-                Nation: "Germany",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 12,
+                "Nation": "Germany",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Melvin Landerneau": {
         "2018": {
-            eighth: {
-                Gap: 0.033,
-                Heat: 8,
-                Nation: "France",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.033,
+                "Heat": 8,
+                "Nation": "France",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.113,
-                Nation: "France",
-                Notes: "q",
-                Rank: 9,
-                Time: 9.787
+            "qualifying": {
+                "Behind": 0.113,
+                "Nation": "France",
+                "Notes": "q",
+                "Rank": 9,
+                "Time": 9.787
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 5,
-                Nation: "France",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 5,
+                "Nation": "France",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Muhammad Fadhil Mohd Zonis": {
         "2019": {
-            qualifying: {
-                Behind: 0.67,
-                Nation: "Malaysia",
-                Notes: null,
-                Rank: 34,
-                Time: 10.242
+            "qualifying": {
+                "Behind": 0.67,
+                "Nation": "Malaysia",
+                "Notes": null,
+                "Rank": 34,
+                "Time": 10.242
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "+0.692",
-                Nation: "Malaysia",
-                Notes: null,
-                Rank: 33,
-                Time: "9.945"
+            "qualifying": {
+                "Behind": "+0.692",
+                "Nation": "Malaysia",
+                "Notes": null,
+                "Rank": 33,
+                "Time": "9.945"
             }
         }
     },
     "Muhammad Sahrom": {
         "2018": {
-            qualifying: {
-                Behind: 0.619,
-                Nation: "Malaysia",
-                Notes: null,
-                Rank: 34,
-                Time: 10.293
+            "qualifying": {
+                "Behind": 0.619,
+                "Nation": "Malaysia",
+                "Notes": null,
+                "Rank": 34,
+                "Time": 10.293
             }
         }
     },
     "Muhammad Shah Firdaus Sahrom": {
         "2019": {
-            qualifying: {
-                Behind: 0.518,
-                Nation: "Malaysia",
-                Notes: null,
-                Rank: 31,
-                Time: 10.09
+            "qualifying": {
+                "Behind": 0.518,
+                "Nation": "Malaysia",
+                "Notes": null,
+                "Rank": 31,
+                "Time": 10.09
             }
         },
         "2020": {
-            eighth: {
-                Gap: "+0.001",
-                Heat: 3,
-                Nation: "Malaysia",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.001",
+                "Heat": 3,
+                "Nation": "Malaysia",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: "+0.356",
-                Nation: "Malaysia",
-                Notes: "q",
-                Rank: 14,
-                Time: "9.609"
+            "qualifying": {
+                "Behind": "+0.356",
+                "Nation": "Malaysia",
+                "Notes": "q",
+                "Rank": 14,
+                "Time": "9.609"
             },
-            sixteenth: {
-                Gap: "X",
-                Heat: 10,
-                Nation: "Malaysia",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": "X",
+                "Heat": 10,
+                "Nation": "Malaysia",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Nathan Hart": {
         "2019": {
-            eighth: {
-                Gap: null,
-                Heat: 7,
-                Nation: "Australia",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 7,
+                "Nation": "Australia",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: 0.161,
-                Nation: "Australia",
-                Notes: "q",
-                Rank: 7,
-                Time: 9.732999999999999
+            "qualifying": {
+                "Behind": 0.161,
+                "Nation": "Australia",
+                "Notes": "q",
+                "Rank": 7,
+                "Time": 9.732999999999999
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 2,
-                Nation: "Australia",
-                Notes: null,
+                "Heat": 2,
+                "Nation": "Australia",
+                "Notes": null,
                 "Race 1": "+0.142",
                 "Race 2": "+0.154",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 3,
-                Nation: "Australia",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 3,
+                "Nation": "Australia",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2020": {
-            eighth: {
-                Gap: "+0.347",
-                Heat: 1,
-                Nation: "Australia",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.347",
+                "Heat": 1,
+                "Nation": "Australia",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: "+0.371",
-                Nation: "Australia",
-                Notes: "q",
-                Rank: 16,
-                Time: "9.624"
+            "qualifying": {
+                "Behind": "+0.371",
+                "Nation": "Australia",
+                "Notes": "q",
+                "Rank": 16,
+                "Time": "9.624"
             },
-            sixteenth: {
-                Gap: "X",
-                Heat: 12,
-                Nation: "Australia",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": "X",
+                "Heat": 12,
+                "Nation": "Australia",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Nicholas Paul": {
         "2019": {
-            eighth: {
-                Gap: null,
-                Heat: 8,
-                Nation: "Trinidad and Tobago",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 8,
+                "Nation": "Trinidad and Tobago",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: 0.179,
-                Nation: "Trinidad and Tobago",
-                Notes: "q",
-                Rank: 8,
-                Time: 9.751
+            "qualifying": {
+                "Behind": 0.179,
+                "Nation": "Trinidad and Tobago",
+                "Notes": "q",
+                "Rank": 8,
+                "Time": 9.751
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Trinidad and Tobago",
-                Notes: null,
+                "Heat": 1,
+                "Nation": "Trinidad and Tobago",
+                "Notes": null,
                 "Race 1": "+0.243",
                 "Race 2": "+1.180",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 4,
-                Nation: "Trinidad and Tobago",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 4,
+                "Nation": "Trinidad and Tobago",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2020": {
-            eighth: {
-                Gap: "+0.048",
-                Heat: 6,
-                Nation: "Trinidad and Tobago",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.048",
+                "Heat": 6,
+                "Nation": "Trinidad and Tobago",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: "+0.303",
-                Nation: "Trinidad and Tobago",
-                Notes: "q",
-                Rank: 6,
-                Time: "9.556"
+            "qualifying": {
+                "Behind": "+0.303",
+                "Nation": "Trinidad and Tobago",
+                "Notes": "q",
+                "Rank": 6,
+                "Time": "9.556"
             },
-            sixteenth: {
-                Gap: "X",
-                Heat: 2,
-                Nation: "Trinidad and Tobago",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": "X",
+                "Heat": 2,
+                "Nation": "Trinidad and Tobago",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Nikita Shurshin": {
         "2018": {
-            qualifying: {
-                Behind: 0.396,
-                Nation: "Russia",
-                Notes: "q",
-                Rank: 27,
-                Time: 10.07
+            "qualifying": {
+                "Behind": 0.396,
+                "Nation": "Russia",
+                "Notes": "q",
+                "Rank": 27,
+                "Time": 10.07
             },
-            sixteenth: {
-                Gap: "+0.039",
-                Heat: 2,
-                Nation: "Russia",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.039",
+                "Heat": 2,
+                "Nation": "Russia",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Njisane Phillip": {
         "2019": {
-            qualifying: {
-                Behind: 0.256,
-                Nation: "Trinidad and Tobago",
-                Notes: "q",
-                Rank: 13,
-                Time: 9.828
+            "qualifying": {
+                "Behind": 0.256,
+                "Nation": "Trinidad and Tobago",
+                "Notes": "q",
+                "Rank": 13,
+                "Time": 9.828
             },
-            sixteenth: {
-                Gap: "Did not finish",
-                Heat: 9,
-                Nation: "Trinidad and Tobago",
-                Notes: "Did not finish",
-                Rank: 2
+            "sixteenth": {
+                "Gap": "Did not finish",
+                "Heat": 9,
+                "Nation": "Trinidad and Tobago",
+                "Notes": "Did not finish",
+                "Rank": 2
             }
         }
     },
     "Patrick Constable": {
         "2017": {
-            eighth: {
-                Gap: 0.632,
-                Heat: 1,
-                Nation: "Australia",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.632,
+                "Heat": 1,
+                "Nation": "Australia",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.33,
-                Nation: "Australia",
-                Notes: "q",
-                Rank: 16,
-                Time: 9.975
+            "qualifying": {
+                "Behind": 0.33,
+                "Nation": "Australia",
+                "Notes": "q",
+                "Rank": 16,
+                "Time": 9.975
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 12,
-                Nation: "Australia",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 12,
+                "Nation": "Australia",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Pavel Kelemen": {
         "2017": {
-            qualifying: {
-                Behind: 0.358,
-                Nation: "Czech Republic",
-                Notes: "q",
-                Rank: 20,
-                Time: 10.003
+            "qualifying": {
+                "Behind": 0.358,
+                "Nation": "Czech Republic",
+                "Notes": "q",
+                "Rank": 20,
+                "Time": 10.003
             },
-            sixteenth: {
-                Gap: 0.135,
-                Heat: 9,
-                Nation: "Czech Republic",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": 0.135,
+                "Heat": 9,
+                "Nation": "Czech Republic",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2019": {
-            eighth: {
-                Gap: "+0.073",
-                Heat: 1,
-                Nation: "Czech Republic",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.073",
+                "Heat": 1,
+                "Nation": "Czech Republic",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.306,
-                Nation: "Czech Republic",
-                Notes: "q",
-                Rank: 17,
-                Time: 9.878
+            "qualifying": {
+                "Behind": 0.306,
+                "Nation": "Czech Republic",
+                "Notes": "q",
+                "Rank": 17,
+                "Time": 9.878
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 12,
-                Nation: "Czech Republic",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 12,
+                "Nation": "Czech Republic",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "+0.531",
-                Nation: "Czech Republic",
-                Notes: null,
-                Rank: 29,
-                Time: "9.784"
+            "qualifying": {
+                "Behind": "+0.531",
+                "Nation": "Czech Republic",
+                "Notes": null,
+                "Rank": 29,
+                "Time": "9.784"
             }
         }
     },
     "Pavel Yakushevskiy": {
         "2017": {
-            eighth: {
-                Gap: 0.128,
-                Heat: 5,
-                Nation: "Russia",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.128,
+                "Heat": 5,
+                "Nation": "Russia",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.266,
-                Nation: "Russia",
-                Notes: "q",
-                Rank: 12,
-                Time: 9.911
+            "qualifying": {
+                "Behind": 0.266,
+                "Nation": "Russia",
+                "Notes": "q",
+                "Rank": 12,
+                "Time": 9.911
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 8,
-                Nation: "Russia",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 8,
+                "Nation": "Russia",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2018": {
-            qualifying: {
-                Behind: 0.24600000000000002,
-                Nation: "Russia",
-                Notes: "q",
-                Rank: 16,
-                Time: 9.92
+            "qualifying": {
+                "Behind": 0.24600000000000002,
+                "Nation": "Russia",
+                "Notes": "q",
+                "Rank": 16,
+                "Time": 9.92
             },
-            sixteenth: {
-                Gap: "+0.055",
-                Heat: 12,
-                Nation: "Russia",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.055",
+                "Heat": 12,
+                "Nation": "Russia",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2019": {
-            qualifying: {
-                Behind: 0.348,
-                Nation: "Russia",
-                Notes: "q",
-                Rank: 23,
-                Time: 9.92
+            "qualifying": {
+                "Behind": 0.348,
+                "Nation": "Russia",
+                "Notes": "q",
+                "Rank": 23,
+                "Time": 9.92
             },
-            sixteenth: {
-                Gap: "+0.134",
-                Heat: 6,
-                Nation: "Russia",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.134",
+                "Heat": 6,
+                "Nation": "Russia",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "Did not finish",
-                Nation: "Russia",
-                Notes: "Did not finish",
-                Rank: null,
-                Time: "Did not finish"
+            "qualifying": {
+                "Behind": "Did not finish",
+                "Nation": "Russia",
+                "Notes": "Did not finish",
+                "Rank": null,
+                "Time": "Did not finish"
             }
         }
     },
     "Quentin Caleyron": {
         "2019": {
-            qualifying: {
-                Behind: 0.267,
-                Nation: "France",
-                Notes: "q",
-                Rank: 14,
-                Time: 9.839
+            "qualifying": {
+                "Behind": 0.267,
+                "Nation": "France",
+                "Notes": "q",
+                "Rank": 14,
+                "Time": 9.839
             },
-            sixteenth: {
-                Gap: "+0.119",
-                Heat: 10,
-                Nation: "France",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.119",
+                "Heat": 10,
+                "Nation": "France",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2020": {
-            eighth: {
-                Gap: "+0.071",
-                Heat: 8,
-                Nation: "France",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.071",
+                "Heat": 8,
+                "Nation": "France",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: "+0.311",
-                Nation: "France",
-                Notes: "q",
-                Rank: 9,
-                Time: "9.564"
+            "qualifying": {
+                "Behind": "+0.311",
+                "Nation": "France",
+                "Notes": "q",
+                "Rank": 9,
+                "Time": "9.564"
             },
-            sixteenth: {
-                Gap: "X",
-                Heat: 5,
-                Nation: "France",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": "X",
+                "Heat": 5,
+                "Nation": "France",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Rafał Sarnecki": {
         "2017": {
-            qualifying: {
-                Behind: 0.36,
-                Nation: "Poland",
-                Notes: "q",
-                Rank: 21,
-                Time: 10.005
+            "qualifying": {
+                "Behind": 0.36,
+                "Nation": "Poland",
+                "Notes": "q",
+                "Rank": 21,
+                "Time": 10.005
             },
-            sixteenth: {
-                Gap: 0.032,
-                Heat: 8,
-                Nation: "Poland",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": 0.032,
+                "Heat": 8,
+                "Nation": "Poland",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Rayan Helal": {
         "2018": {
-            eighth: {
-                Gap: 0.268,
-                Heat: 2,
-                Nation: "France",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.268,
+                "Heat": 2,
+                "Nation": "France",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.204,
-                Nation: "France",
-                Notes: "q",
-                Rank: 15,
-                Time: 9.878
+            "qualifying": {
+                "Behind": 0.204,
+                "Nation": "France",
+                "Notes": "q",
+                "Rank": 15,
+                "Time": 9.878
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 11,
-                Nation: "France",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 11,
+                "Nation": "France",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Ryan Owens": {
         "2017": {
-            eighth: {
-                Gap: null,
-                Heat: 7,
-                Nation: "Great Britain",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 7,
+                "Nation": "Great Britain",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "Great Britain",
+                "Nation": "Great Britain",
                 "Race 1": "+0.526",
                 "Race 2": "+0.255",
-                Rank: "4"
+                "Rank": "4"
             },
-            qualifying: {
-                Behind: 0.22,
-                Nation: "Great Britain",
-                Notes: "q",
-                Rank: 7,
-                Time: 9.865
+            "qualifying": {
+                "Behind": 0.22,
+                "Nation": "Great Britain",
+                "Notes": "q",
+                "Rank": 7,
+                "Time": 9.865
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": "X",
-                Heat: 2,
-                Nation: "Great Britain",
-                Notes: "Q",
+                "Heat": 2,
+                "Nation": "Great Britain",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "+0.014",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 2,
-                Nation: "Great Britain",
-                Notes: null,
+                "Heat": 2,
+                "Nation": "Great Britain",
+                "Notes": null,
                 "Race 1": "+0.066",
                 "Race 2": "+0.080",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 3,
-                Nation: "Great Britain",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 3,
+                "Nation": "Great Britain",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2018": {
-            eighth: {
-                Gap: null,
-                Heat: 8,
-                Nation: "Great Britain",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 8,
+                "Nation": "Great Britain",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: 0.085,
-                Nation: "Great Britain",
-                Notes: "q",
-                Rank: 8,
-                Time: 9.759
+            "qualifying": {
+                "Behind": 0.085,
+                "Nation": "Great Britain",
+                "Notes": "q",
+                "Rank": 8,
+                "Time": 9.759
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Great Britain",
-                Notes: null,
+                "Heat": 1,
+                "Nation": "Great Britain",
+                "Notes": null,
                 "Race 1": "+0.059",
                 "Race 2": "+0.133",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 4,
-                Nation: "Great Britain",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 4,
+                "Nation": "Great Britain",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Sam Ligtlee": {
         "2020": {
-            qualifying: {
-                Behind: "+0.451",
-                Nation: "Netherlands",
-                Notes: "q",
-                Rank: 25,
-                Time: "9.704"
+            "qualifying": {
+                "Behind": "+0.451",
+                "Nation": "Netherlands",
+                "Notes": "q",
+                "Rank": 25,
+                "Time": "9.704"
             },
-            sixteenth: {
-                Gap: "+0.050",
-                Heat: 4,
-                Nation: "Netherlands",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.050",
+                "Heat": 4,
+                "Nation": "Netherlands",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Sam Webster": {
         "2017": {
-            eighth: {
-                Gap: null,
-                Heat: 8,
-                Nation: "New Zealand",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 8,
+                "Nation": "New Zealand",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: 0.23399999999999999,
-                Nation: "New Zealand",
-                Notes: "q",
-                Rank: 9,
-                Time: 9.879
+            "qualifying": {
+                "Behind": 0.23399999999999999,
+                "Nation": "New Zealand",
+                "Notes": "q",
+                "Rank": 9,
+                "Time": 9.879
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "New Zealand",
-                Notes: null,
+                "Heat": 1,
+                "Nation": "New Zealand",
+                "Notes": null,
                 "Race 1": "+0.776",
                 "Race 2": "+0.061",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 5,
-                Nation: "New Zealand",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 5,
+                "Nation": "New Zealand",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2018": {
-            qualifying: {
-                Behind: 0.32799999999999996,
-                Nation: "New Zealand",
-                Notes: "q",
-                Rank: 24,
-                Time: 10.002
+            "qualifying": {
+                "Behind": 0.32799999999999996,
+                "Nation": "New Zealand",
+                "Notes": "q",
+                "Rank": 24,
+                "Time": 10.002
             },
-            sixteenth: {
-                Gap: "+0.049",
-                Heat: 5,
-                Nation: "New Zealand",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.049",
+                "Heat": 5,
+                "Nation": "New Zealand",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2019": {
-            eighth: {
-                Gap: "+1.445",
-                Heat: 2,
-                Nation: "New Zealand",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+1.445",
+                "Heat": 2,
+                "Nation": "New Zealand",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.308,
-                Nation: "New Zealand",
-                Notes: "q",
-                Rank: 18,
-                Time: 9.88
+            "qualifying": {
+                "Behind": 0.308,
+                "Nation": "New Zealand",
+                "Notes": "q",
+                "Rank": 18,
+                "Time": 9.88
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 11,
-                Nation: "New Zealand",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 11,
+                "Nation": "New Zealand",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2020": {
-            eighth: {
-                Gap: "+0.049",
-                Heat: 2,
-                Nation: "New Zealand",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.049",
+                "Heat": 2,
+                "Nation": "New Zealand",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: "+0.362",
-                Nation: "New Zealand",
-                Notes: "q",
-                Rank: 15,
-                Time: "9.615"
+            "qualifying": {
+                "Behind": "+0.362",
+                "Nation": "New Zealand",
+                "Notes": "q",
+                "Rank": 15,
+                "Time": "9.615"
             },
-            sixteenth: {
-                Gap: "X",
-                Heat: 11,
-                Nation: "New Zealand",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": "X",
+                "Heat": 11,
+                "Nation": "New Zealand",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Sandor Szalontay": {
         "2017": {
-            qualifying: {
-                Behind: 0.439,
-                Nation: "Hungary",
-                Notes: "q",
-                Rank: 27,
-                Time: 10.084
+            "qualifying": {
+                "Behind": 0.439,
+                "Nation": "Hungary",
+                "Notes": "q",
+                "Rank": 27,
+                "Time": 10.084
             },
-            sixteenth: {
-                Gap: 0.7190000000000001,
-                Heat: 2,
-                Nation: "Hungary",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": 0.7190000000000001,
+                "Heat": 2,
+                "Nation": "Hungary",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Santiago Ramírez": {
         "2017": {
-            qualifying: {
-                Behind: 0.46,
-                Nation: "Colombia",
-                Notes: "q",
-                Rank: 28,
-                Time: 10.105
+            "qualifying": {
+                "Behind": 0.46,
+                "Nation": "Colombia",
+                "Notes": "q",
+                "Rank": 28,
+                "Time": 10.105
             },
-            sixteenth: {
-                Gap: 0.14300000000000002,
-                Heat: 1,
-                Nation: "Colombia",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": 0.14300000000000002,
+                "Heat": 1,
+                "Nation": "Colombia",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "+0.683",
-                Nation: "Colombia",
-                Notes: null,
-                Rank: 32,
-                Time: "9.936"
+            "qualifying": {
+                "Behind": "+0.683",
+                "Nation": "Colombia",
+                "Notes": null,
+                "Rank": 32,
+                "Time": "9.936"
             }
         }
     },
     "Sebastien Vigier": {
         "2017": {
-            eighth: {
-                Gap: 0.011000000000000001,
-                Heat: 3,
-                Nation: "France",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.011000000000000001,
+                "Heat": 3,
+                "Nation": "France",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.10800000000000001,
-                Nation: "France",
-                Notes: "Q",
-                Rank: 3,
-                Time: 9.753
+            "qualifying": {
+                "Behind": 0.10800000000000001,
+                "Nation": "France",
+                "Notes": "Q",
+                "Rank": 3,
+                "Time": 9.753
             }
         },
         "2018": {
-            eighth: {
-                Gap: null,
-                Heat: 3,
-                Nation: "France",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": null,
+                "Heat": 3,
+                "Nation": "France",
+                "Notes": "Q",
+                "Rank": 1
             },
-            final: {
+            "final": {
                 "Decider (i.r.)": null,
-                Nation: "France",
+                "Nation": "France",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: null
+                "Rank": null
             },
-            qualifying: {
-                Behind: 0.027000000000000003,
-                Nation: "France",
-                Notes: "Q",
-                Rank: 3,
-                Time: 9.701
+            "qualifying": {
+                "Behind": 0.027000000000000003,
+                "Nation": "France",
+                "Notes": "Q",
+                "Rank": 3,
+                "Time": 9.701
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 3,
-                Nation: "France",
-                Notes: "Q",
+                "Heat": 3,
+                "Nation": "France",
+                "Notes": "Q",
                 "Race 1": "X",
                 "Race 2": "X",
-                Rank: 1
+                "Rank": 1
             },
-            semi: {
+            "semi": {
                 "Decider (i.r.)": null,
-                Heat: 2,
-                Nation: "France",
-                Notes: null,
+                "Heat": 2,
+                "Nation": "France",
+                "Notes": null,
                 "Race 1": "+0.252",
                 "Race 2": "+0.144",
-                Rank: 2
+                "Rank": 2
             }
         },
         "2019": {
-            eighth: {
-                Gap: "+0.007",
-                Heat: 4,
-                Nation: "France",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.007",
+                "Heat": 4,
+                "Nation": "France",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.10099999999999999,
-                Nation: "France",
-                Notes: "Q",
-                Rank: 4,
-                Time: 9.673
+            "qualifying": {
+                "Behind": 0.10099999999999999,
+                "Nation": "France",
+                "Notes": "Q",
+                "Rank": 4,
+                "Time": 9.673
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "+0.342",
-                Nation: "France",
-                Notes: "q",
-                Rank: 12,
-                Time: "9.595"
+            "qualifying": {
+                "Behind": "+0.342",
+                "Nation": "France",
+                "Notes": "q",
+                "Rank": 12,
+                "Time": "9.595"
             },
-            sixteenth: {
-                Gap: "+0.006",
-                Heat: 8,
-                Nation: "France",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.006",
+                "Heat": 8,
+                "Nation": "France",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Sotirios Bretas": {
         "2018": {
-            qualifying: {
-                Behind: 0.8240000000000001,
-                Nation: "Greece",
-                Notes: null,
-                Rank: 35,
-                Time: 10.498
+            "qualifying": {
+                "Behind": 0.8240000000000001,
+                "Nation": "Greece",
+                "Notes": null,
+                "Rank": 35,
+                "Time": 10.498
             }
         }
     },
     "Stefan Bötticher": {
         "2019": {
-            eighth: {
-                Gap: "+0.004",
-                Heat: 8,
-                Nation: "Germany",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.004",
+                "Heat": 8,
+                "Nation": "Germany",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.18600000000000003,
-                Nation: "Germany",
-                Notes: "q",
-                Rank: 9,
-                Time: 9.758
+            "qualifying": {
+                "Behind": 0.18600000000000003,
+                "Nation": "Germany",
+                "Notes": "q",
+                "Rank": 9,
+                "Time": 9.758
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 5,
-                Nation: "Germany",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 5,
+                "Nation": "Germany",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2020": {
-            eighth: {
-                Gap: "X",
-                Heat: 7,
-                Nation: "Germany",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": "X",
+                "Heat": 7,
+                "Nation": "Germany",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: "+0.315",
-                Nation: "Germany",
-                Notes: "q",
-                Rank: 10,
-                Time: "9.568"
+            "qualifying": {
+                "Behind": "+0.315",
+                "Nation": "Germany",
+                "Notes": "q",
+                "Rank": 10,
+                "Time": "9.568"
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 2,
-                Nation: "Germany",
-                Notes: null,
+                "Heat": 2,
+                "Nation": "Germany",
+                "Notes": null,
                 "Race 1": "+0.126",
                 "Race 2": "+0.150",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: "X",
-                Heat: 6,
-                Nation: "Germany",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": "X",
+                "Heat": 6,
+                "Nation": "Germany",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Stefan Ritter": {
         "2018": {
-            qualifying: {
-                Behind: 0.154,
-                Nation: "Canada",
-                Notes: "q",
-                Rank: 12,
-                Time: 9.828
+            "qualifying": {
+                "Behind": 0.154,
+                "Nation": "Canada",
+                "Notes": "q",
+                "Rank": 12,
+                "Time": 9.828
             },
-            sixteenth: {
-                Gap: "+0.083",
-                Heat: 8,
-                Nation: "Canada",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.083",
+                "Heat": 8,
+                "Nation": "Canada",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Svajūnas Jonauskas": {
         "2018": {
-            qualifying: {
-                Behind: 0.569,
-                Nation: "Lithuania",
-                Notes: null,
-                Rank: 33,
-                Time: 10.243
+            "qualifying": {
+                "Behind": 0.569,
+                "Nation": "Lithuania",
+                "Notes": null,
+                "Rank": 33,
+                "Time": 10.243
             }
         }
     },
     "Sándor Szalontay": {
         "2019": {
-            qualifying: {
-                Behind: 0.282,
-                Nation: "Hungary",
-                Notes: "q",
-                Rank: 16,
-                Time: 9.854
+            "qualifying": {
+                "Behind": 0.282,
+                "Nation": "Hungary",
+                "Notes": "q",
+                "Rank": 16,
+                "Time": 9.854
             },
-            sixteenth: {
-                Gap: "+0.037",
-                Heat: 12,
-                Nation: "Hungary",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.037",
+                "Heat": 12,
+                "Nation": "Hungary",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "+0.397",
-                Nation: "Hungary",
-                Notes: "q",
-                Rank: 18,
-                Time: "9.650"
+            "qualifying": {
+                "Behind": "+0.397",
+                "Nation": "Hungary",
+                "Notes": "q",
+                "Rank": 18,
+                "Time": "9.650"
             },
-            sixteenth: {
-                Gap: "+0.096",
-                Heat: 11,
-                Nation: "Hungary",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.096",
+                "Heat": 11,
+                "Nation": "Hungary",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Theo Bos": {
         "2017": {
-            qualifying: {
-                Behind: 0.41600000000000004,
-                Nation: "Netherlands",
-                Notes: "q",
-                Rank: 24,
-                Time: 10.061
+            "qualifying": {
+                "Behind": 0.41600000000000004,
+                "Nation": "Netherlands",
+                "Notes": "q",
+                "Rank": 24,
+                "Time": 10.061
             },
-            sixteenth: {
-                Gap: 0.12,
-                Heat: 5,
-                Nation: "Netherlands",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": 0.12,
+                "Heat": 5,
+                "Nation": "Netherlands",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Tomohiro Fukaya": {
         "2019": {
-            eighth: {
-                Gap: "+0.090",
-                Heat: 5,
-                Nation: "Japan",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": "+0.090",
+                "Heat": 5,
+                "Nation": "Japan",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.344,
-                Nation: "Japan",
-                Notes: "q",
-                Rank: 21,
-                Time: 9.916
+            "qualifying": {
+                "Behind": 0.344,
+                "Nation": "Japan",
+                "Notes": "q",
+                "Rank": 21,
+                "Time": 9.916
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 8,
-                Nation: "Japan",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 8,
+                "Nation": "Japan",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2020": {
-            eighth: {
-                Gap: "X",
-                Heat: 4,
-                Nation: "Japan",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": "X",
+                "Heat": 4,
+                "Nation": "Japan",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: "+0.354",
-                Nation: "Japan",
-                Notes: "q",
-                Rank: 13,
-                Time: "9.607"
+            "qualifying": {
+                "Behind": "+0.354",
+                "Nation": "Japan",
+                "Notes": "q",
+                "Rank": 13,
+                "Time": "9.607"
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 4,
-                Nation: "Japan",
-                Notes: null,
+                "Heat": 4,
+                "Nation": "Japan",
+                "Notes": null,
                 "Race 1": "+0.083",
                 "Race 2": "+0.000",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: "X",
-                Heat: 9,
-                Nation: "Japan",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": "X",
+                "Heat": 9,
+                "Nation": "Japan",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Tomoyuki Kawabata": {
         "2017": {
-            qualifying: {
-                Behind: 0.513,
-                Nation: "Japan",
-                Notes: null,
-                Rank: 31,
-                Time: 10.158
+            "qualifying": {
+                "Behind": 0.513,
+                "Nation": "Japan",
+                "Notes": null,
+                "Rank": 31,
+                "Time": 10.158
             }
         },
         "2018": {
-            qualifying: {
-                Behind: 0.295,
-                Nation: "Japan",
-                Notes: "q",
-                Rank: 23,
-                Time: 9.969
+            "qualifying": {
+                "Behind": 0.295,
+                "Nation": "Japan",
+                "Notes": "q",
+                "Rank": 23,
+                "Time": 9.969
             },
-            sixteenth: {
-                Gap: "+0.131",
-                Heat: 6,
-                Nation: "Japan",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.131",
+                "Heat": 6,
+                "Nation": "Japan",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Vasilijus Lendel": {
         "2017": {
-            qualifying: {
-                Behind: 0.313,
-                Nation: "Lithuania",
-                Notes: "q",
-                Rank: 14,
-                Time: 9.958
+            "qualifying": {
+                "Behind": 0.313,
+                "Nation": "Lithuania",
+                "Notes": "q",
+                "Rank": 14,
+                "Time": 9.958
             },
-            sixteenth: {
-                Gap: 0.237,
-                Heat: 10,
-                Nation: "Lithuania",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": 0.237,
+                "Heat": 10,
+                "Nation": "Lithuania",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2018": {
-            eighth: {
-                Gap: 0.297,
-                Heat: 7,
-                Nation: "Lithuania",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.297,
+                "Heat": 7,
+                "Nation": "Lithuania",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.114,
-                Nation: "Lithuania",
-                Notes: "q",
-                Rank: 10,
-                Time: 9.788
+            "qualifying": {
+                "Behind": 0.114,
+                "Nation": "Lithuania",
+                "Notes": "q",
+                "Rank": 10,
+                "Time": 9.788
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 6,
-                Nation: "Lithuania",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 6,
+                "Nation": "Lithuania",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2019": {
-            qualifying: {
-                Behind: 0.405,
-                Nation: "Lithuania",
-                Notes: "q",
-                Rank: 27,
-                Time: 9.977
+            "qualifying": {
+                "Behind": 0.405,
+                "Nation": "Lithuania",
+                "Notes": "q",
+                "Rank": 27,
+                "Time": 9.977
             },
-            sixteenth: {
-                Gap: "+0.139",
-                Heat: 2,
-                Nation: "Lithuania",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.139",
+                "Heat": 2,
+                "Nation": "Lithuania",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "+0.512",
-                Nation: "Lithuania",
-                Notes: "q",
-                Rank: 28,
-                Time: "9.765"
+            "qualifying": {
+                "Behind": "+0.512",
+                "Nation": "Lithuania",
+                "Notes": "q",
+                "Rank": 28,
+                "Time": "9.765"
             },
-            sixteenth: {
-                Gap: "+0.279",
-                Heat: 1,
-                Nation: "Lithuania",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.279",
+                "Heat": 1,
+                "Nation": "Lithuania",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Xu Chao": {
         "2017": {
-            qualifying: {
-                Behind: 0.34600000000000003,
-                Nation: "China",
-                Notes: "q",
-                Rank: 18,
-                Time: 9.991
+            "qualifying": {
+                "Behind": 0.34600000000000003,
+                "Nation": "China",
+                "Notes": "q",
+                "Rank": 18,
+                "Time": 9.991
             },
-            sixteenth: {
-                Gap: 0.038,
-                Heat: 11,
-                Nation: "China",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": 0.038,
+                "Heat": 11,
+                "Nation": "China",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2019": {
-            qualifying: {
-                Behind: 0.376,
-                Nation: "China",
-                Notes: "q",
-                Rank: 24,
-                Time: 9.948
+            "qualifying": {
+                "Behind": 0.376,
+                "Nation": "China",
+                "Notes": "q",
+                "Rank": 24,
+                "Time": 9.948
             },
-            sixteenth: {
-                Gap: "+0.038",
-                Heat: 5,
-                Nation: "China",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.038",
+                "Heat": 5,
+                "Nation": "China",
+                "Notes": null,
+                "Rank": 2
             }
         },
         "2020": {
-            qualifying: {
-                Behind: "+0.440",
-                Nation: "China",
-                Notes: "q",
-                Rank: 24,
-                Time: "9.693"
+            "qualifying": {
+                "Behind": "+0.440",
+                "Nation": "China",
+                "Notes": "q",
+                "Rank": 24,
+                "Time": "9.693"
             },
-            sixteenth: {
-                Gap: "+0.165",
-                Heat: 5,
-                Nation: "China",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.165",
+                "Heat": 5,
+                "Nation": "China",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Yudai Nitta": {
         "2020": {
-            eighth: {
-                Gap: "X",
-                Heat: 8,
-                Nation: "Japan",
-                Notes: "Q",
-                Rank: 1
+            "eighth": {
+                "Gap": "X",
+                "Heat": 8,
+                "Nation": "Japan",
+                "Notes": "Q",
+                "Rank": 1
             },
-            qualifying: {
-                Behind: "+0.309",
-                Nation: "Japan",
-                Notes: "q",
-                Rank: 8,
-                Time: "9.562"
+            "qualifying": {
+                "Behind": "+0.309",
+                "Nation": "Japan",
+                "Notes": "q",
+                "Rank": 8,
+                "Time": "9.562"
             },
-            quarter: {
+            "quarter": {
                 "Decider (i.r.)": null,
-                Heat: 1,
-                Nation: "Japan",
-                Notes: null,
+                "Heat": 1,
+                "Nation": "Japan",
+                "Notes": null,
                 "Race 1": "+0.106",
                 "Race 2": "+0.151",
-                Rank: 2
+                "Rank": 2
             },
-            sixteenth: {
-                Gap: "X",
-                Heat: 4,
-                Nation: "Japan",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": "X",
+                "Heat": 4,
+                "Nation": "Japan",
+                "Notes": "Q",
+                "Rank": 1
             }
         }
     },
     "Yuta Wakimoto": {
         "2018": {
-            eighth: {
-                Gap: 0.052000000000000005,
-                Heat: 5,
-                Nation: "Japan",
-                Notes: null,
-                Rank: 2
+            "eighth": {
+                "Gap": 0.052000000000000005,
+                "Heat": 5,
+                "Nation": "Japan",
+                "Notes": null,
+                "Rank": 2
             },
-            qualifying: {
-                Behind: 0.28800000000000003,
-                Nation: "Japan",
-                Notes: "q",
-                Rank: 21,
-                Time: 9.962
+            "qualifying": {
+                "Behind": 0.28800000000000003,
+                "Nation": "Japan",
+                "Notes": "q",
+                "Rank": 21,
+                "Time": 9.962
             },
-            sixteenth: {
-                Gap: null,
-                Heat: 8,
-                Nation: "Japan",
-                Notes: "Q",
-                Rank: 1
+            "sixteenth": {
+                "Gap": null,
+                "Heat": 8,
+                "Nation": "Japan",
+                "Notes": "Q",
+                "Rank": 1
             }
         },
         "2019": {
-            qualifying: {
-                Behind: 0.38,
-                Nation: "Japan",
-                Notes: "q",
-                Rank: 25,
-                Time: 9.952
+            "qualifying": {
+                "Behind": 0.38,
+                "Nation": "Japan",
+                "Notes": "q",
+                "Rank": 25,
+                "Time": 9.952
             },
-            sixteenth: {
-                Gap: "+0.098",
-                Heat: 4,
-                Nation: "Japan",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.098",
+                "Heat": 4,
+                "Nation": "Japan",
+                "Notes": null,
+                "Rank": 2
             }
         }
     },
     "Zhou Yu": {
         "2020": {
-            qualifying: {
-                Behind: "+0.421",
-                Nation: "China",
-                Notes: "q",
-                Rank: 22,
-                Time: "9.674"
+            "qualifying": {
+                "Behind": "+0.421",
+                "Nation": "China",
+                "Notes": "q",
+                "Rank": 22,
+                "Time": "9.674"
             },
-            sixteenth: {
-                Gap: "+0.041",
-                Heat: 7,
-                Nation: "China",
-                Notes: null,
-                Rank: 2
+            "sixteenth": {
+                "Gap": "+0.041",
+                "Heat": 7,
+                "Nation": "China",
+                "Notes": null,
+                "Rank": 2
             }
         }
     }
