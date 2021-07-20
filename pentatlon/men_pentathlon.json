@@ -1,0 +1,182 @@
+{
+  "villamayor sergio": {
+    "rank": 1,
+    "gap": 0.19521673847549037,
+    "sorted_rank": 0
+  },
+  "fernon edward": {
+    "rank": 2,
+    "gap": 0.19807506211688608,
+    "sorted_rank": 1
+  },
+  "gustenau gustav": {
+    "rank": 2,
+    "gap": 0.21544483158008587,
+    "sorted_rank": 2
+  },
+  "palazkov ilya": {
+    "rank": 3,
+    "gap": 0.23633390366201823,
+    "sorted_rank": 3
+  },
+  "bustos esteban": {
+    "rank": 4,
+    "gap": 0.24252885173560745,
+    "sorted_rank": 4
+  },
+  "li shuhuan": {
+    "rank": 4,
+    "gap": 0.2571136380495318,
+    "sorted_rank": 5
+  },
+  "luo shuai": {
+    "rank": 5,
+    "gap": 0.2584544937319624,
+    "sorted_rank": 6
+  },
+  "ders lester": {
+    "rank": 6,
+    "gap": 0.2709983715654083,
+    "sorted_rank": 7
+  },
+  "kuf jan": {
+    "rank": 7,
+    "gap": 0.28750154860566823,
+    "sorted_rank": 8
+  },
+  "vlach martin": {
+    "rank": 8,
+    "gap": 0.30226588474867633,
+    "sorted_rank": 9
+  },
+  "elgendy ahmed": {
+    "rank": 9,
+    "gap": 0.31050108972997315,
+    "sorted_rank": 10
+  },
+  "hamed ahmed": {
+    "rank": 10,
+    "gap": 0.30542622835973177,
+    "sorted_rank": 11
+  },
+  "heredia vives aleix": {
+    "rank": 11,
+    "gap": 0.3204316726298444,
+    "sorted_rank": 12
+  },
+  "belaud valentin": {
+    "rank": 11,
+    "gap": 0.3190228542228404,
+    "sorted_rank": 13
+  },
+  "prades valentin": {
+    "rank": 12,
+    "gap": 0.32620306692501977,
+    "sorted_rank": 14
+  },
+  "choong joseph": {
+    "rank": 14,
+    "gap": 0.3251495804440747,
+    "sorted_rank": 15
+  },
+  "cooke james": {
+    "rank": 14,
+    "gap": 0.3141275607116025,
+    "sorted_rank": 16
+  },
+  "dogue patrick": {
+    "rank": 16,
+    "gap": 0.3231099192995366,
+    "sorted_rank": 17
+  },
+  "liebig fabian": {
+    "rank": 16,
+    "gap": 0.313079051052668,
+    "sorted_rank": 18
+  },
+  "fernandez charles": {
+    "rank": 18,
+    "gap": 0.31598075426670036,
+    "sorted_rank": 19
+  },
+  "kasza robert": {
+    "rank": 19,
+    "gap": 0.3196861963294033,
+    "sorted_rank": 20
+  },
+  "marosi adam": {
+    "rank": 20,
+    "gap": 0.3127379019837555,
+    "sorted_rank": 21
+  },
+  "iwamoto shohei": {
+    "rank": 20,
+    "gap": 0.3132736745328373,
+    "sorted_rank": 22
+  },
+  "ilyashenko pavel": {
+    "rank": 21,
+    "gap": 0.318697617060554,
+    "sorted_rank": 23
+  },
+  "jun woongtae": {
+    "rank": 22,
+    "gap": 0.3030027174375789,
+    "sorted_rank": 24
+  },
+  "jung jinhwa": {
+    "rank": 23,
+    "gap": 0.3077684508369387,
+    "sorted_rank": 25
+  },
+  "svecovs pavels": {
+    "rank": 24,
+    "gap": 0.2955218177662253,
+    "sorted_rank": 26
+  },
+  "kinderis justinas": {
+    "rank": 25,
+    "gap": 0.28066158376613615,
+    "sorted_rank": 27
+  },
+  "carrillo duilio": {
+    "rank": 26,
+    "gap": 0.27320263008241596,
+    "sorted_rank": 28
+  },
+  "sandoval alvaro": {
+    "rank": 27,
+    "gap": 0.2669449784986604,
+    "sorted_rank": 29
+  },
+  "gutkowski lukasz": {
+    "rank": 28,
+    "gap": 0.25664467398005186,
+    "sorted_rank": 30
+  },
+  "stasiak sebastian": {
+    "rank": 28,
+    "gap": 0.2503869635889835,
+    "sorted_rank": 31
+  },
+  "lifanov alexander": {
+    "rank": 29,
+    "gap": 0.2264037565085708,
+    "sorted_rank": 32
+  },
+  "tymoshchenko pavlo": {
+    "rank": 29,
+    "gap": 0.22625949599485295,
+    "sorted_rank": 33
+  },
+  "elgeziry amro": {
+    "rank": 30,
+    "gap": 0.19330814486450976,
+    "sorted_rank": 34
+  },
+  "savkin alexander": {
+    "rank": 31,
+    "gap": 0.18375648474435025,
+    "sorted_rank": 35
+  }
+}
