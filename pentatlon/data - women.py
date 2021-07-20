@@ -80,9 +80,6 @@ update_athletes(
     'Competition_Results_Exports_Asia__Oceania_Championships.xls')
 update_athletes(
     'Competition_Results_Exports_Pan_American_Games.xls')
-update_athletes(
-    'Competition_Results_Exports_UIPM_2019_Pentathlon_World_Championships.xls')
-
 
 # pprint(athletes)
 
