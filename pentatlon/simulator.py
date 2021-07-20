@@ -5,9 +5,9 @@ import math
 
 
 class Athlete:
-    def __init__(self, name: str, _fencing_prob: Callable[[], float], swiming: Callable[[], float], riding: Callable[[], float], laser_run: Callable[[], float]):
+    def __init__(self, name: str, fencing_prob: Callable[[], float], swiming: Callable[[], float], riding: Callable[[], float], laser_run: Callable[[], float]):
         self._name = name
-        self._f_fencing_prob = _fencing_prob
+        self._f_fencing_prob = fencing_prob
         self._fencing_prob = None
         self.fencing_points = 0
         self.fencing_victories = 0
@@ -82,12 +82,18 @@ class Simulator:
             for j in range(i + 1, len(self._athletes)):
                 a1: bool = self._athletes[i].fencing
                 a2: bool = self._athletes[j].fencing
-                result: bool = a1 ^ a2
-                if not result:
-                    if a1:
-                        self._athletes[i].fencing_victories += 1
+                result: bool = a1 & a2
+                if a1 | a2:
+                    if result:
+                        if self._athletes[i]._fencing_prob < self._athletes[i]._fencing_prob:
+                            self._athletes[j].fencing_victories += 1
+                        else:
+                            self._athletes[i].fencing_victories += 1
                     else:
-                        self._athletes[j].fencing_victories += 1
+                        if a1:
+                            self._athletes[i].fencing_victories += 1
+                        else:
+                            self._athletes[j].fencing_victories += 1
 
         asault_point = 0
         if 22 <= len(self._athletes) <= 23:
@@ -111,7 +117,7 @@ class Simulator:
     def swiming(self):
         time = 2 * 60 + 30
         for athlete in self._athletes:
-            athlete.swiming_points = 1000 + (athlete.swiming - time) * 12
+            athlete.swiming_points = 1000 + (time - athlete.swiming) * 12
 
     def riding(self):
         for athlete in self._athletes:
