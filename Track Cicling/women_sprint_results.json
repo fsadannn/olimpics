@@ -1,292 +1,350 @@
 {
   "Kristina Vogel": {
     "rank": 1,
-    "gap": 0.1662528476859677,
-    "sorted_rank": 0
+    "gap": 0.16709291494245093,
+    "sorted_rank": 0,
+    "nation": "Germany"
   },
   "Stephanie Morton": {
-    "rank": 1,
-    "gap": 0.18036985086535218,
-    "sorted_rank": 1
+    "rank": 2,
+    "gap": 0.17890202583634185,
+    "sorted_rank": 1,
+    "nation": "Australia"
   },
   "Kelsey Mitchell": {
-    "rank": 3,
-    "gap": 0.24078682478207014,
-    "sorted_rank": 2
+    "rank": 4,
+    "gap": 0.23990070038258082,
+    "sorted_rank": 2,
+    "nation": "Canada"
   },
   "Lea Friedrich": {
-    "rank": 4,
-    "gap": 0.24519831536449388,
-    "sorted_rank": 3
+    "rank": 5,
+    "gap": 0.2434689416478406,
+    "sorted_rank": 3,
+    "nation": "Germany"
   },
   "Zhong Tianshi": {
-    "rank": 5,
-    "gap": 0.26611537836554433,
-    "sorted_rank": 4
-  },
-  "Lee Wai Sze": {
-    "rank": 5,
-    "gap": 0.25027887153280304,
-    "sorted_rank": 5
+    "rank": 6,
+    "gap": 0.26299495816395435,
+    "sorted_rank": 4,
+    "nation": "China"
   },
   "Miriam Vece": {
-    "rank": 5,
-    "gap": 0.26179819931557446,
-    "sorted_rank": 6
+    "rank": 6,
+    "gap": 0.2614300402814038,
+    "sorted_rank": 5,
+    "nation": "Italy"
+  },
+  "Lee Wai Sze": {
+    "rank": 6,
+    "gap": 0.24887848822851666,
+    "sorted_rank": 6,
+    "nation": "Hong Kong"
   },
   "Sophie Capewell": {
-    "rank": 6,
-    "gap": 0.27053449838190957,
-    "sorted_rank": 7
+    "rank": 7,
+    "gap": 0.2749664837426984,
+    "sorted_rank": 7,
+    "nation": "Great Britain"
   },
   "Mathilde Gros": {
-    "rank": 6,
-    "gap": 0.2446307038546074,
-    "sorted_rank": 8
+    "rank": 7,
+    "gap": 0.24537623518971685,
+    "sorted_rank": 8,
+    "nation": "France"
   },
   "Kaarle McCulloch": {
-    "rank": 6,
-    "gap": 0.24065460101568448,
-    "sorted_rank": 9
+    "rank": 7,
+    "gap": 0.24008808306939144,
+    "sorted_rank": 9,
+    "nation": "Australia"
   },
   "Daria Shmeleva": {
-    "rank": 8,
-    "gap": 0.25284675295976555,
-    "sorted_rank": 10
+    "rank": 9,
+    "gap": 0.25096766154807426,
+    "sorted_rank": 10,
+    "nation": "Russia"
   },
   "Lauriane Genest": {
-    "rank": 8,
-    "gap": 0.2902992953733694,
-    "sorted_rank": 11
+    "rank": 9,
+    "gap": 0.29573048543711167,
+    "sorted_rank": 11,
+    "nation": "Canada"
   },
   "Simona Krupeckait\u0117": {
-    "rank": 8,
-    "gap": 0.23960941998878482,
-    "sorted_rank": 12
-  },
-  "Jessica Salazar": {
     "rank": 9,
-    "gap": 0.30434547787138655,
-    "sorted_rank": 13
+    "gap": 0.24010248306879234,
+    "sorted_rank": 12,
+    "nation": "Lithuania"
   },
   "Anastasia Voynova": {
-    "rank": 9,
-    "gap": 0.2700195898521862,
-    "sorted_rank": 14
+    "rank": 10,
+    "gap": 0.2660106492697736,
+    "sorted_rank": 13,
+    "nation": "Russia"
+  },
+  "Jessica Salazar": {
+    "rank": 10,
+    "gap": 0.3041092325805508,
+    "sorted_rank": 14,
+    "nation": "Mexico"
   },
   "Pauline Grabosch": {
-    "rank": 9,
-    "gap": 0.2835365690681577,
-    "sorted_rank": 15
+    "rank": 10,
+    "gap": 0.28639566741298594,
+    "sorted_rank": 15,
+    "nation": "Germany"
   },
   "Emma Hinze": {
-    "rank": 10,
-    "gap": 0.308430878700122,
-    "sorted_rank": 16
+    "rank": 11,
+    "gap": 0.3065203688421896,
+    "sorted_rank": 16,
+    "nation": "Germany"
   },
   "Natasha Hansen": {
-    "rank": 10,
-    "gap": 0.2778299962332369,
-    "sorted_rank": 17
+    "rank": 11,
+    "gap": 0.27512629310366066,
+    "sorted_rank": 17,
+    "nation": "New Zealand"
   },
   "Laurine van Riessen": {
-    "rank": 10,
-    "gap": 0.28412410096429497,
-    "sorted_rank": 18
+    "rank": 12,
+    "gap": 0.28497291543290615,
+    "sorted_rank": 18,
+    "nation": "Netherlands"
   },
   "Katy Marchant": {
-    "rank": 11,
-    "gap": 0.28128531362985143,
-    "sorted_rank": 19
+    "rank": 12,
+    "gap": 0.28088951404776097,
+    "sorted_rank": 19,
+    "nation": "Great Britain"
   },
   "Shanne Braspennincx": {
-    "rank": 11,
-    "gap": 0.30645491585691786,
-    "sorted_rank": 20
+    "rank": 12,
+    "gap": 0.3064031070350417,
+    "sorted_rank": 20,
+    "nation": "Netherlands"
   },
   "Olena Starikova": {
-    "rank": 12,
-    "gap": 0.2973714115834909,
-    "sorted_rank": 21
-  },
-  "Jessica Lee Hoi Yan": {
-    "rank": 12,
-    "gap": 0.24098200649549995,
-    "sorted_rank": 22
-  },
-  "Olivia Podmore": {
-    "rank": 12,
-    "gap": 0.3178445188826764,
-    "sorted_rank": 23
+    "rank": 13,
+    "gap": 0.2969693252199299,
+    "sorted_rank": 21,
+    "nation": "Ukraine"
   },
   "Riyu Ohta": {
-    "rank": 12,
-    "gap": 0.3272098992315904,
-    "sorted_rank": 24
+    "rank": 13,
+    "gap": 0.3275438708407954,
+    "sorted_rank": 22,
+    "nation": "Japan"
+  },
+  "Jessica Lee Hoi Yan": {
+    "rank": 13,
+    "gap": 0.24108418455321612,
+    "sorted_rank": 23,
+    "nation": "Hong Kong"
+  },
+  "Olivia Podmore": {
+    "rank": 13,
+    "gap": 0.31767442714726,
+    "sorted_rank": 24,
+    "nation": "New Zealand"
   },
   "Sarah Orban": {
-    "rank": 13,
-    "gap": 0.33209274797103916,
-    "sorted_rank": 25
+    "rank": 14,
+    "gap": 0.33059759941185973,
+    "sorted_rank": 25,
+    "nation": "Canada"
   },
   "Daniela Gaxiola": {
-    "rank": 13,
-    "gap": 0.3209674623853047,
-    "sorted_rank": 26
+    "rank": 15,
+    "gap": 0.3212521452041379,
+    "sorted_rank": 26,
+    "nation": "Mexico"
   },
   "Migl\u0117 Marozait\u0117": {
-    "rank": 14,
-    "gap": 0.2603518859049281,
-    "sorted_rank": 27
-  },
-  "Miriam Welte": {
-    "rank": 14,
-    "gap": 0.3235754092361347,
-    "sorted_rank": 28
+    "rank": 15,
+    "gap": 0.2592394739436692,
+    "sorted_rank": 27,
+    "nation": "Lithuania"
   },
   "Yuka Kobayashi": {
-    "rank": 14,
-    "gap": 0.30800914238965404,
-    "sorted_rank": 29
+    "rank": 15,
+    "gap": 0.30835662215602966,
+    "sorted_rank": 28,
+    "nation": "Japan"
+  },
+  "Miriam Welte": {
+    "rank": 15,
+    "gap": 0.32366690011419763,
+    "sorted_rank": 29,
+    "nation": "Germany"
   },
   "Madalyn Godby": {
     "rank": 15,
-    "gap": 0.2904274242345828,
-    "sorted_rank": 30
-  },
-  "Martha Bayona": {
-    "rank": 16,
-    "gap": 0.29080437665221837,
-    "sorted_rank": 31
-  },
-  "Hetty van de Wouw": {
-    "rank": 16,
-    "gap": 0.33898477740410016,
-    "sorted_rank": 32
-  },
-  "Holly Takos": {
-    "rank": 16,
-    "gap": 0.3258108859367219,
-    "sorted_rank": 33
+    "gap": 0.2912109462756334,
+    "sorted_rank": 30,
+    "nation": "United States"
   },
   "Ekaterina Rogovaya": {
     "rank": 16,
-    "gap": 0.3442747334279126,
-    "sorted_rank": 34
+    "gap": 0.3430197033979283,
+    "sorted_rank": 31,
+    "nation": "Russia"
   },
-  "Tania Calvo": {
-    "rank": 16,
-    "gap": 0.270899934376974,
-    "sorted_rank": 35
+  "Holly Takos": {
+    "rank": 17,
+    "gap": 0.3268407877479653,
+    "sorted_rank": 32,
+    "nation": "Australia"
+  },
+  "Martha Bayona": {
+    "rank": 17,
+    "gap": 0.2921383644268545,
+    "sorted_rank": 33,
+    "nation": "Colombia"
   },
   "Kate O'Brien": {
     "rank": 17,
-    "gap": 0.3317629614987716,
-    "sorted_rank": 36
+    "gap": 0.33142637669132213,
+    "sorted_rank": 34,
+    "nation": "Canada"
+  },
+  "Hetty van de Wouw": {
+    "rank": 17,
+    "gap": 0.33593341560249357,
+    "sorted_rank": 35,
+    "nation": "Netherlands"
+  },
+  "Tania Calvo": {
+    "rank": 18,
+    "gap": 0.2692704939527282,
+    "sorted_rank": 36,
+    "nation": "Spain"
   },
   "Lin Junhong": {
-    "rank": 17,
-    "gap": 0.24294445230896855,
-    "sorted_rank": 37
+    "rank": 18,
+    "gap": 0.24646893590737307,
+    "sorted_rank": 37,
+    "nation": "China"
   },
   "Lyubov Basova": {
-    "rank": 18,
-    "gap": 0.2723076447724928,
-    "sorted_rank": 38
+    "rank": 19,
+    "gap": 0.2730329429237628,
+    "sorted_rank": 38,
+    "nation": "Ukraine"
   },
   "Lee Hye-jin": {
-    "rank": 18,
-    "gap": 0.22580870254263985,
-    "sorted_rank": 39
+    "rank": 19,
+    "gap": 0.22148772268734263,
+    "sorted_rank": 39,
+    "nation": "South Korea"
   },
   "Mandy Marquardt": {
-    "rank": 19,
-    "gap": 0.30411592737249293,
-    "sorted_rank": 40
+    "rank": 21,
+    "gap": 0.3048213693649231,
+    "sorted_rank": 40,
+    "nation": "United States"
   },
   "Nicky Degrendele": {
-    "rank": 20,
-    "gap": 0.2282854470986848,
-    "sorted_rank": 41
+    "rank": 21,
+    "gap": 0.22918786898350163,
+    "sorted_rank": 41,
+    "nation": "Belgium"
   },
   "Natalia Antonova": {
-    "rank": 20,
-    "gap": 0.3431691834213595,
-    "sorted_rank": 42
+    "rank": 21,
+    "gap": 0.3427209813332084,
+    "sorted_rank": 42,
+    "nation": "Russia"
   },
   "Emma Cumming": {
-    "rank": 21,
-    "gap": 0.3421034947942019,
-    "sorted_rank": 43
+    "rank": 22,
+    "gap": 0.3377787254054567,
+    "sorted_rank": 43,
+    "nation": "New Zealand"
   },
   "Marlena Karwacka": {
-    "rank": 22,
-    "gap": 0.34903246930949194,
-    "sorted_rank": 44
+    "rank": 23,
+    "gap": 0.3465115461605919,
+    "sorted_rank": 44,
+    "nation": "Poland"
   },
   "Amelia Walsh": {
-    "rank": 22,
-    "gap": 0.3408965690051673,
-    "sorted_rank": 45
-  },
-  "Guo Yufang": {
     "rank": 23,
-    "gap": 0.3443665523908379,
-    "sorted_rank": 46
+    "gap": 0.3398277819341615,
+    "sorted_rank": 45,
+    "nation": "Canada"
   },
   "Charlene du Preez": {
-    "rank": 23,
-    "gap": 0.34258219166498804,
-    "sorted_rank": 47
-  },
-  "Kayono Maeda": {
     "rank": 24,
-    "gap": 0.33904186627394495,
-    "sorted_rank": 48
+    "gap": 0.33802539894256256,
+    "sorted_rank": 46,
+    "nation": "South Africa"
+  },
+  "Guo Yufang": {
+    "rank": 24,
+    "gap": 0.33877686338842494,
+    "sorted_rank": 47,
+    "nation": "China"
   },
   "Julita Jagodzi\u0144ska": {
-    "rank": 24,
-    "gap": 0.33947100596275703,
-    "sorted_rank": 49
-  },
-  "Yuli Verdugo": {
     "rank": 25,
-    "gap": 0.3355780543154978,
-    "sorted_rank": 50
+    "gap": 0.3401898195145634,
+    "sorted_rank": 48,
+    "nation": "Poland"
+  },
+  "Kayono Maeda": {
+    "rank": 25,
+    "gap": 0.33898520491171524,
+    "sorted_rank": 49,
+    "nation": "Japan"
   },
   "Kim Won-gyeong": {
     "rank": 26,
-    "gap": 0.3182482012467176,
-    "sorted_rank": 51
+    "gap": 0.3179655742795049,
+    "sorted_rank": 50,
+    "nation": "South Korea"
   },
-  "Juliana Gaviria": {
-    "rank": 26,
-    "gap": 0.3297969599367434,
-    "sorted_rank": 52
+  "Yuli Verdugo": {
+    "rank": 27,
+    "gap": 0.3330465242370906,
+    "sorted_rank": 51,
+    "nation": "Mexico"
   },
   "Robyn Stewart": {
-    "rank": 26,
-    "gap": 0.10849918237020972,
-    "sorted_rank": 53
+    "rank": 27,
+    "gap": 0.10628987087402919,
+    "sorted_rank": 52,
+    "nation": "Ireland"
+  },
+  "Juliana Gaviria": {
+    "rank": 27,
+    "gap": 0.33128680532664134,
+    "sorted_rank": 53,
+    "nation": "Colombia"
   },
   "Li Yin Yin": {
-    "rank": 28,
-    "gap": 0.3323061832526193,
-    "sorted_rank": 54
+    "rank": 29,
+    "gap": 0.3315828187886254,
+    "sorted_rank": 54,
+    "nation": "Hong Kong"
   },
   "Helena Casas": {
-    "rank": 29,
-    "gap": 0.3177751651579186,
-    "sorted_rank": 55
+    "rank": 30,
+    "gap": 0.3133913130833932,
+    "sorted_rank": 55,
+    "nation": "Spain"
   },
   "Deborah Herold": {
-    "rank": 30,
-    "gap": 0.3101555294150842,
-    "sorted_rank": 56
+    "rank": 31,
+    "gap": 0.3118978696507426,
+    "sorted_rank": 56,
+    "nation": "India"
   },
   "Ma Wing Yu": {
-    "rank": 34,
-    "gap": 0.1410193162642983,
-    "sorted_rank": 57
+    "rank": 35,
+    "gap": 0.1445263728487518,
+    "sorted_rank": 57,
+    "nation": "Hong Kong"
   }
 }

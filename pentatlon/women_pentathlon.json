@@ -1,0 +1,218 @@
+{
+  "oteiza marie": {
+    "rank": 1.6804000000000006,
+    "gap": 0.1514641141897588,
+    "sorted_rank": 0,
+    "nation": "FRA"
+  },
+  "silkina volha": {
+    "rank": 2.101800000000001,
+    "gap": 0.1561848529320482,
+    "sorted_rank": 1,
+    "nation": "BLR"
+  },
+  "kovacs sarolta": {
+    "rank": 2.2451000000000008,
+    "gap": 0.08890908374673501,
+    "sorted_rank": 2,
+    "nation": "HUN"
+  },
+  "clouvel elodie": {
+    "rank": 2.4212000000000007,
+    "gap": 0.14654622455554112,
+    "sorted_rank": 3,
+    "nation": "FRA"
+  },
+  "french kate": {
+    "rank": 2.596,
+    "gap": 0.1692191200228894,
+    "sorted_rank": 4,
+    "nation": "GBR"
+  },
+  "muir joanna": {
+    "rank": 2.7352000000000007,
+    "gap": 0.13806976770824875,
+    "sorted_rank": 5,
+    "nation": "GBR"
+  },
+  "prokopenko anastasiya": {
+    "rank": 2.9421,
+    "gap": 0.15776006763247707,
+    "sorted_rank": 6,
+    "nation": "BLR"
+  },
+  "gulyas michelle": {
+    "rank": 3.3546999999999993,
+    "gap": 0.19152945388714393,
+    "sorted_rank": 7,
+    "nation": "HUN"
+  },
+  "micheli elena": {
+    "rank": 5.2978000000000005,
+    "gap": 0.20656598693377504,
+    "sorted_rank": 8,
+    "nation": "ITA"
+  },
+  "zhang mingyu": {
+    "rank": 5.448499999999999,
+    "gap": 0.1851323368552098,
+    "sorted_rank": 9,
+    "nation": "CHN"
+  },
+  "schleu annika": {
+    "rank": 6.1706,
+    "gap": 0.15911822517415786,
+    "sorted_rank": 10,
+    "nation": "GER"
+  },
+  "coyle natalya": {
+    "rank": 6.292400000000001,
+    "gap": 0.1593407445003514,
+    "sorted_rank": 11,
+    "nation": "IRL"
+  },
+  "zhang xiaonan": {
+    "rank": 6.936299999999999,
+    "gap": 0.1819122268677127,
+    "sorted_rank": 12,
+    "nation": "CHN"
+  },
+  "sotero alice": {
+    "rank": 7.0222,
+    "gap": 0.17089639894772013,
+    "sorted_rank": 13,
+    "nation": "ITA"
+  },
+  "shimazu rena": {
+    "rank": 8.7495,
+    "gap": 0.15633377517824698,
+    "sorted_rank": 14,
+    "nation": "JPN"
+  },
+  "langrehr rebecca": {
+    "rank": 8.7588,
+    "gap": 0.17202564155878264,
+    "sorted_rank": 15,
+    "nation": "GER"
+  },
+  "gubaydullina gulnaz": {
+    "rank": 8.7717,
+    "gap": 0.1581590781938278,
+    "sorted_rank": 16,
+    "nation": "ROC"
+  },
+  "kandil amira": {
+    "rank": 8.9104,
+    "gap": 0.16685080373966343,
+    "sorted_rank": 17,
+    "nation": "EGY"
+  },
+  "venckauskaite gintare": {
+    "rank": 9.7542,
+    "gap": 0.18429397147939497,
+    "sorted_rank": 18,
+    "nation": "LTU"
+  },
+  "moya leidis laura": {
+    "rank": 11.092600000000001,
+    "gap": 0.21444475813466113,
+    "sorted_rank": 19,
+    "nation": "CUB"
+  },
+  "asadauskaite laura": {
+    "rank": 11.3092,
+    "gap": 0.20544871267319564,
+    "sorted_rank": 20,
+    "nation": "LTU"
+  },
+  "arceo mariana": {
+    "rank": 11.454699999999999,
+    "gap": 0.17335225684215771,
+    "sorted_rank": 21,
+    "nation": "MEX"
+  },
+  "potapenko elena": {
+    "rank": 12.0822,
+    "gap": 0.15551345058363708,
+    "sorted_rank": 22,
+    "nation": "KAZ"
+  },
+  "oliver mayan": {
+    "rank": 12.6416,
+    "gap": 0.17652269109858665,
+    "sorted_rank": 23,
+    "nation": "MEX"
+  },
+  "ozyuksel ilke": {
+    "rank": 12.741800000000001,
+    "gap": 0.16501334621276698,
+    "sorted_rank": 24,
+    "nation": "TUR"
+  },
+  "kim sunwoo": {
+    "rank": 13.680599999999998,
+    "gap": 0.15103032100537206,
+    "sorted_rank": 25,
+    "nation": "KOR"
+  },
+  "morsy haydy": {
+    "rank": 14.203399999999998,
+    "gap": 0.17821161349244719,
+    "sorted_rank": 26,
+    "nation": "EGY"
+  },
+  "kim sehee": {
+    "rank": 15.410799999999998,
+    "gap": 0.13327821426472752,
+    "sorted_rank": 27,
+    "nation": "KOR"
+  },
+  "maliszewska anna": {
+    "rank": 15.6233,
+    "gap": 0.1448871999712651,
+    "sorted_rank": 28,
+    "nation": "POL"
+  },
+  "batashova uliana": {
+    "rank": 15.8886,
+    "gap": 0.12818167516613244,
+    "sorted_rank": 29,
+    "nation": "ROC"
+  },
+  "takamiya natsumi": {
+    "rank": 16.4567,
+    "gap": 0.14628446903722647,
+    "sorted_rank": 30,
+    "nation": "JPN"
+  },
+  "fakhrutdinova alise": {
+    "rank": 18.3072,
+    "gap": 0.14357800977248303,
+    "sorted_rank": 31,
+    "nation": "UZB"
+  },
+  "chaves guimaraes maria ieda": {
+    "rank": 20.6998,
+    "gap": 0.0746121941064608,
+    "sorted_rank": 32,
+    "nation": "BRA"
+  },
+  "schultz samantha": {
+    "rank": 21.6242,
+    "gap": 0.08658483341461931,
+    "sorted_rank": 33,
+    "nation": "USA"
+  },
+  "carrier marina": {
+    "rank": 24.9791,
+    "gap": 0.04408565857670155,
+    "sorted_rank": 34,
+    "nation": "AUS"
+  },
+  "cuaspud marcela": {
+    "rank": 27.615299999999998,
+    "gap": 0.01819286489066485,
+    "sorted_rank": 35,
+    "nation": "ECU"
+  }
+}
