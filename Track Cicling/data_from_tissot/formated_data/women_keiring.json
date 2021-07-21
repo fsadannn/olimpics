@@ -1,0 +1,714 @@
+{
+ "MARCHANT Katy": {
+  "Country": "GBR",
+  "2020": {
+   "first_round": {
+    "rank": 1,
+    "heat": 1,
+    "Time": "11.242",
+    "Speed": "64046.0"
+   }
+  },
+  "2019": {
+   "quarter": {
+    "rank": 6,
+    "heat": 2,
+    "Time": "11.435",
+    "Speed": "nan"
+   }
+  }
+ },
+ "226 LEE Wai Sze": {
+  "Country": "HKG",
+  "2020": {
+   "final": {
+    "rank": 4,
+    "heat": 1,
+    "Time": "11.448",
+    "Speed": "nan"
+   }
+  }
+ },
+ "361 BASOVA Liubov": {
+  "Country": "UKR",
+  "2020": {
+   "first_round": {
+    "rank": 3,
+    "heat": 1,
+    "Time": "11.374",
+    "Speed": "nan"
+   }
+  }
+ },
+ "276 KRUPECKAITE Simona": {
+  "Country": "LTU",
+  "2020": {
+   "first_round": {
+    "rank": 4,
+    "heat": 1,
+    "Time": "11.441",
+    "Speed": "nan"
+   }
+  }
+ },
+ "346 VOINOVA Anastasiia": {
+  "Country": "RUS",
+  "2020": {
+   "quarter": {
+    "rank": 5,
+    "heat": 1,
+    "Time": "11.485999999999999",
+    "Speed": "nan"
+   }
+  }
+ },
+ "110 DEGRENDELE Nicky": {
+  "Country": "BEL",
+  "2020": {
+   "final": {
+    "rank": 5,
+    "heat": 2,
+    "Time": ""01":21.85",
+    "Speed": "nan"
+   }
+  }
+ },
+ "273 LEE Hyejin": {
+  "Country": "KOR",
+  "2020": {
+   "final": {
+    "rank": 2,
+    "heat": 1,
+    "Time": "11.249",
+    "Speed": "nan"
+   }
+  }
+ },
+ "267 OHTA Riyu": {
+  "Country": "JPN",
+  "2020": {
+   "first_round": {
+    "rank": 3,
+    "heat": 2,
+    "Time": "11.403",
+    "Speed": "nan"
+   }
+  }
+ },
+ "319 LOS Urszula": {
+  "Country": "POL",
+  "2020": {
+   "first_round": {
+    "rank": 4,
+    "heat": 2,
+    "Time": "11.475",
+    "Speed": "nan"
+   }
+  }
+ },
+ "225 LEE Hoi Yan Jessica": {
+  "Country": "HKG",
+  "2020": {
+   "first_round": {
+    "rank": 5,
+    "heat": 2,
+    "Time": "11.485",
+    "Speed": "nan"
+   }
+  }
+ },
+ "291 BRASPENNINCX Shanne": {
+  "Country": "NED",
+  "2020": {
+   "quarter": {
+    "rank": 5,
+    "heat": 3,
+    "Time": "11.436",
+    "Speed": "nan"
+   }
+  }
+ },
+ "101 MORTON Stephanie": {
+  "Country": "AUS",
+  "2020": {
+   "final": {
+    "rank": 3,
+    "heat": 1,
+    "Time": "11.319",
+    "Speed": "nan"
+   }
+  }
+ },
+ "146 BAYONA PINEDA Martha": {
+  "Country": "COL",
+  "2020": {
+   "quarter": {
+    "rank": 5,
+    "heat": 2,
+    "Time": "11.493",
+    "Speed": "nan"
+   }
+  }
+ },
+ "307 HANSEN Natasha": {
+  "Country": "NZL",
+  "2020": {
+   "final": {
+    "rank": 6,
+    "heat": 2,
+    "Time": "DNF",
+    "Speed": "nan"
+   }
+  }
+ },
+ "164 CASAS ROIGE Helena": {
+  "Country": "ESP",
+  "2020": {
+   "quarter": {
+    "rank": 6,
+    "heat": 1,
+    "Time": "11.502",
+    "Speed": "nan"
+   }
+  }
+ },
+ "214 FRIEDRICH Lea Sophie": {
+  "Country": "GER",
+  "2020": {
+   "final": {
+    "rank": 6,
+    "heat": 1,
+    "Time": "11.831",
+    "Speed": "nan"
+   }
+  }
+ },
+ "304 ANDREWS Ellesse": {
+  "Country": "NZL",
+  "2020": {
+   "final": {
+    "rank": 5,
+    "heat": 1,
+    "Time": "11.51",
+    "Speed": "nan"
+   }
+  }
+ },
+ "130 MITCHELL Kelsey": {
+  "Country": "CAN",
+  "2020": {
+   "quarter": {
+    "rank": 6,
+    "heat": 3,
+    "Time": "11.53",
+    "Speed": "nan"
+   }
+  }
+ },
+ "181 GROS Mathilde": {
+  "Country": "FRA",
+  "2020": {
+   "final": {
+    "rank": 3,
+    "heat": 2,
+    "Time": "11.292",
+    "Speed": "nan"
+   }
+  }
+ },
+ "345 SHMELEVA Daria": {
+  "Country": "RUS",
+  "2020": {
+   "first_round": {
+    "rank": 5,
+    "heat": 4,
+    "Time": "14.219",
+    "Speed": "nan"
+   }
+  }
+ },
+ "295 van RIESSEN Laurine": {
+  "Country": "NED",
+  "2020": {
+   "final": {
+    "rank": 1,
+    "heat": 2,
+    "Time": "11.162",
+    "Speed": "64505.0"
+   }
+  }
+ },
+ "216 HINZE Emma": {
+  "Country": NaN,
+  "2020": {
+   "final": {
+    "rank": 1,
+    "heat": 1,
+    "Time": "11.121",
+    "Speed": "64742.0"
+   }
+  }
+ },
+ "367 GODBY Madalyn": {
+  "Country": "USA",
+  "2020": {
+   "final": {
+    "rank": 4,
+    "heat": 2,
+    "Time": ""01":22.12",
+    "Speed": "nan"
+   }
+  }
+ },
+ "265 KOBAYASHI Yuka": {
+  "Country": "JPN",
+  "2020": {
+   "first_round": {
+    "rank": 3,
+    "heat": 5,
+    "Time": "11.067",
+    "Speed": "nan"
+   }
+  }
+ },
+ "129 GENEST Lauriane": {
+  "Country": "CAN",
+  "2020": {
+   "quarter": {
+    "rank": 6,
+    "heat": 2,
+    "Time": "11.584000000000001",
+    "Speed": "nan"
+   }
+  }
+ },
+ "327 du PREEZ Charlene": {
+  "Country": "RSA",
+  "2020": {
+   "first_round": {
+    "rank": 5,
+    "heat": 5,
+    "Time": "11.699",
+    "Speed": "nan"
+   }
+  }
+ },
+ "310 PODMORE Olivia": {
+  "Country": "NZL",
+  "2020": {
+   "first_round": {
+    "rank": 6,
+    "heat": 5,
+    "Time": "11.874",
+    "Speed": "nan"
+   }
+  }
+ },
+ "199 MARCHANT Katy": {
+  "Country": "GBR",
+  "2020": {
+   "final": {
+    "rank": 2,
+    "heat": 2,
+    "Time": "11.232",
+    "Speed": "nan"
+   }
+  }
+ },
+ "BRASPENNINCX Shanne": {
+  "Country": "NED",
+  "2019": {
+   "quarter": {
+    "rank": 3,
+    "heat": 1,
+    "Time": "11.746",
+    "Speed": "nan"
+   }
+  }
+ },
+ "DEGRENDELE Nicky": {
+  "Country": "BEL",
+  "2019": {
+   "quarter": {
+    "rank": 4,
+    "heat": 3,
+    "Time": "11.845",
+    "Speed": "nan"
+   }
+  }
+ },
+ "GENEST Lauriane": {
+  "Country": "CAN",
+  "2019": {
+   "quarter": {
+    "rank": 5,
+    "heat": 3,
+    "Time": "12.003",
+    "Speed": "nan"
+   }
+  }
+ },
+ "LEE Hyejin": {
+  "Country": "KOR",
+  "2019": {
+   "quarter": {
+    "rank": 1,
+    "heat": 3,
+    "Time": "11.821",
+    "Speed": "60.909"
+   }
+  }
+ },
+ "PODMORE Olivia": {
+  "Country": "NZL",
+  "2019": {
+   "first_round_repechage": {
+    "rank": 4,
+    "heat": 3,
+    "Time": "REL",
+    "Speed": "nan"
+   }
+  }
+ },
+ "LEE Wai Sze": {
+  "Country": "HKG",
+  "2019": {
+   "quarter": {
+    "rank": 2,
+    "heat": 2,
+    "Time": "11.248",
+    "Speed": "nan"
+   }
+  }
+ },
+ "KRUPECKAITE Simona": {
+  "Country": "LTU",
+  "2019": {
+   "quarter": {
+    "rank": 2,
+    "heat": 1,
+    "Time": "11.722",
+    "Speed": "nan"
+   }
+  }
+ },
+ "HINZE Emma": {
+  "Country": "GER",
+  "2019": {
+   "first_round_repechage": {
+    "rank": 3,
+    "heat": 2,
+    "Time": "11.933",
+    "Speed": "nan"
+   }
+  }
+ },
+ "VOINOVA Anastasiia": {
+  "Country": "RUS",
+  "2019": {
+   "quarter": {
+    "rank": 4,
+    "heat": 2,
+    "Time": "11.308",
+    "Speed": "nan"
+   }
+  }
+ },
+ "van RIESSEN Laurine": {
+  "Country": "NED",
+  "2019": {
+   "quarter": {
+    "rank": 2,
+    "heat": 3,
+    "Time": "11.841",
+    "Speed": "nan"
+   }
+  }
+ },
+ "KOBAYASHI Yuka": {
+  "Country": "JPN",
+  "2019": {
+   "quarter": {
+    "rank": 5,
+    "heat": 2,
+    "Time": "11.386",
+    "Speed": "nan"
+   }
+  }
+ },
+ "GROS Mathilde": {
+  "Country": "FRA",
+  "2019": {
+   "quarter": {
+    "rank": 1,
+    "heat": 1,
+    "Time": "11.682",
+    "Speed": "61.633"
+   }
+  }
+ },
+ "Los Urszula": {
+  "Country": "POL",
+  "2019": {
+   "first_round": {
+    "rank": 4,
+    "heat": 3,
+    "Time": "12.197",
+    "Speed": "nan"
+   }
+  }
+ },
+ "LEE Hoi Yan Jessica": {
+  "Country": "HKG",
+  "2019": {
+   "quarter": {
+    "rank": 6,
+    "heat": 1,
+    "Time": "DNF",
+    "Speed": "nan"
+   }
+  }
+ },
+ "SHMELEVA Daria": {
+  "Country": "RUS",
+  "2019": {
+   "quarter": {
+    "rank": 4,
+    "heat": 1,
+    "Time": "11.77",
+    "Speed": "nan"
+   }
+  }
+ },
+ "GODBY Madalyn": {
+  "Country": "USA",
+  "2019": {
+   "quarter": {
+    "rank": 3,
+    "heat": 3,
+    "Time": "11.845",
+    "Speed": "nan"
+   }
+  }
+ },
+ "LIN Junhong": {
+  "Country": "CHN",
+  "2019": {
+   "quarter": {
+    "rank": 5,
+    "heat": 1,
+    "Time": "13.532",
+    "Speed": "nan"
+   }
+  }
+ },
+ "McCULLOCH Kaarle": {
+  "Country": "AUS",
+  "2019": {
+   "final": {
+    "rank": 2,
+    "heat": 1,
+    "Time": "11.13",
+    "Speed": "nan"
+   }
+  }
+ },
+ "CASAS ROIGE Helena": {
+  "Country": "ESP",
+  "2019": {
+   "first_round_repechage": {
+    "rank": 3,
+    "heat": 3,
+    "Time": "11.785",
+    "Speed": "nan"
+   }
+  }
+ },
+ "MORTON Stephanie": {
+  "Country": "AUS",
+  "2019": {
+   "final": {
+    "rank": 4,
+    "heat": 1,
+    "Time": "11.298",
+    "Speed": "nan"
+   }
+  }
+ },
+ "OHTA Riyu": {
+  "Country": "JPN",
+  "2019": {
+   "quarter": {
+    "rank": 6,
+    "heat": 3,
+    "Time": "12.802",
+    "Speed": "nan"
+   }
+  }
+ },
+ "BAYONA PINEDA Martha": {
+  "Country": "COL",
+  "2019": {
+   "first_round_repechage": {
+    "rank": 3,
+    "heat": 4,
+    "Time": "11.359",
+    "Speed": "nan"
+   }
+  }
+ },
+ "BASOVA Liubov": {
+  "Country": "UKR",
+  "2019": {
+   "first_round_repechage": {
+    "rank": 4,
+    "heat": 1,
+    "Time": "11.705",
+    "Speed": "nan"
+   }
+  }
+ },
+ "CLAIR Sandie": {
+  "Country": "FRA",
+  "2019": {
+   "first_round_repechage": {
+    "rank": 4,
+    "heat": 2,
+    "Time": "REL",
+    "Speed": "nan"
+   }
+  }
+ },
+ "du PREEZ Charlene": {
+  "Country": "RSA",
+  "2019": {
+   "first_round_repechage": {
+    "rank": 3,
+    "heat": 1,
+    "Time": "11.701",
+    "Speed": "nan"
+   }
+  }
+ },
+ "LOS Urzula": {
+  "Country": "POL",
+  "2019": {
+   "first_round_repechage": {
+    "rank": 4,
+    "heat": 4,
+    "Time": "11.854",
+    "Speed": "nan"
+   }
+  }
+ },
+ "223 LEE Wai Sze": {
+  "Country": "HKG",
+  "2019": {
+   "final": {
+    "rank": 1,
+    "heat": 1,
+    "Time": "11.012",
+    "Speed": "65.383"
+   }
+  }
+ },
+ "180 GROS Mathilde": {
+  "Country": "FRA",
+  "2019": {
+   "final": {
+    "rank": 6,
+    "heat": 1,
+    "Time": "11.444",
+    "Speed": "nan"
+   }
+  }
+ },
+ "387 GODBY Madalyn": {
+  "Country": "USA",
+  "2019": {
+   "final": {
+    "rank": 2,
+    "heat": 2,
+    "Time": "11.395999999999999",
+    "Speed": "nan"
+   }
+  }
+ },
+ "280 KRUPECKAITE Simona": {
+  "Country": "LTU",
+  "2019": {
+   "final": {
+    "rank": 6,
+    "heat": 2,
+    "Time": "11.633",
+    "Speed": "nan"
+   }
+  }
+ },
+ "107 DEGRENDELE Nicky": {
+  "Country": "BEL",
+  "2019": {
+   "final": {
+    "rank": 4,
+    "heat": 2,
+    "Time": "11.48",
+    "Speed": "nan"
+   }
+  }
+ },
+ "295 BRASPENNINCX Shanne": {
+  "Country": "NED",
+  "2019": {
+   "final": {
+    "rank": 5,
+    "heat": 1,
+    "Time": "11.380999999999998",
+    "Speed": "nan"
+   }
+  }
+ },
+ "353 SHMELEVA Daria": {
+  "Country": "RUS",
+  "2019": {
+   "final": {
+    "rank": 3,
+    "heat": 1,
+    "Time": "11.2",
+    "Speed": "nan"
+   }
+  }
+ },
+ "354 VOINOVA Anastasiia": {
+  "Country": "RUS",
+  "2019": {
+   "final": {
+    "rank": 5,
+    "heat": 2,
+    "Time": "11.505",
+    "Speed": "nan"
+   }
+  }
+ },
+ "276 LEE Hyejin": {
+  "Country": "KOR",
+  "2019": {
+   "final": {
+    "rank": 3,
+    "heat": 2,
+    "Time": "11.421",
+    "Speed": "nan"
+   }
+  }
+ },
+ "300 van RIESSEN Laurine": {
+  "Country": "NED",
+  "2019": {
+   "final": {
+    "rank": 1,
+    "heat": 2,
+    "Time": "11.138",
+    "Speed": "64.64399999999999"
+   }
+  }
+ }
+}

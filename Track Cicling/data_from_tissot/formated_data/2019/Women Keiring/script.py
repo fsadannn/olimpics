@@ -46,7 +46,7 @@ df = pd.read_csv("2019/final.csv", sep=",")
 add_data(df, "final", "2019")
 
 
-with open("women_time_trial.json", "w") as f:
+with open("women_keiring.json", "w") as f:
     f.write(fix_quotes(json.dumps(athletes, indent=True, skipkeys=True)))
     
     
