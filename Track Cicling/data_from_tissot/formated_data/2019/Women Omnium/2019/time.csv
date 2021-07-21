@@ -1,4 +1,4 @@
-Rank,Name,Country,Sprints Won,Finish Order,Lap +,Total
+rank,name,country,sprints,order,balance,total
 1,KAJIHARA Yumi,JPN,"11, 12, 13, 14",20,20,24
 2,BUCHANAN Rushlee,NZL,17,12,20,21
 3,SAVENKA Ina,BLR,16,18,20,21
@@ -23,8 +23,4 @@ Rank,Name,Country,Sprints Won,Finish Order,Lap +,Total
 22,BACIKOVA Alzbeta,SVK,,19,,0
 23,HUANG Ting Ying,TPE,,21,,0
 24,GONCHAROVA Alexandra,RUS,,22,,0
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+
