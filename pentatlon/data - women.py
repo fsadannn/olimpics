@@ -15,7 +15,7 @@ athletes = defaultdict(lambda: {
 
 official_list = set()
 
-with open('atheletes.csv', encoding='utf-8') as f:
+with open('atheletes-women.csv', encoding='utf-8') as f:
     for i in csv.DictReader(f):
         name = (i['Family name'].strip() + ' ' +
                 i['Given name'].strip()).lower()
@@ -27,7 +27,7 @@ def update_athletes(file_name: str):
 
     xls = pandas.ExcelFile(file_name)
     for sheetNumber in range(len(xls.sheet_names)):
-        if xls.sheet_names[sheetNumber][:3] != "Men" or 'Indvidual' in xls.sheet_names[sheetNumber] or 'Team' in xls.sheet_names[sheetNumber] or 'Relay' in xls.sheet_names[sheetNumber]:
+        if xls.sheet_names[sheetNumber][:5] != "Women" or 'Indvidual' in xls.sheet_names[sheetNumber] or 'Team' in xls.sheet_names[sheetNumber] or 'Relay' in xls.sheet_names[sheetNumber]:
             continue
 
         sheetX = xls.parse(sheetNumber)
@@ -49,19 +49,26 @@ def update_athletes(file_name: str):
                     athletes[name]['swiming'].append(time)
 
                 if sheetX['LaserRun'][n] != 'DNS' and sheetX['LaserRun'][n] != 'DNF':
-                    time_data = sheetX['LaserRun'][n].split('\n')[1].split(':')
-                    time = int(time_data[0]) * 60 + float(time_data[1])
-                    gap = 0
-                    if not isinstance(sheetX['Time Difference'][n], float):
-                        gap = int(re.search(
-                            '[0-9]+', sheetX['Time Difference'][n]).group()) / 4
-                    athletes[name]['laser-run'].append(time - gap)
+                    if not isinstance(sheetX['LaserRun'][n], float):
+                        time_data = sheetX['LaserRun'][n].split('\n')[
+                            1].split(':')
+                        time = int(time_data[0]) * 60 + float(time_data[1])
+                        gap = 0
+                        if not isinstance(sheetX['Time Difference'][n], float):
+                            gap = int(re.search(
+                                '[0-9]+', sheetX['Time Difference'][n]).group()) / 4
+                        athletes[name]['laser-run'].append(time - gap)
 
                 if 'Riding' in sheetX:
                     if sheetX['Riding'][n] != 'DNS' and sheetX['LaserRun'][n] != 'DNF':
-                        points_data = sheetX['Riding'][n].split('\n')[0]
-                        points = int(re.search('[0-9]+', points_data).group())
-                        athletes[name]['riding'].append(points)
+                        if not isinstance(sheetX['Riding'][n], float):
+                            points_data = sheetX['Riding'][n].split('\n')[0]
+                            res = re.search('[0-9]+', points_data)
+                            if res:
+                                points = int(res.group())
+                                athletes[name]['riding'].append(points)
+                        else:
+                            athletes[name]['riding'].append(0)
 
 
 update_athletes(
@@ -80,7 +87,14 @@ update_athletes(
     'Competition_Results_Exports_Asia__Oceania_Championships.xls')
 update_athletes(
     'Competition_Results_Exports_Pan_American_Games.xls')
+update_athletes(
+    'Competition_Results_Exports_Intl__Budapest_Indoor.xls')
+update_athletes(
+    'Competition_Results_Exports_Pan_American_Championships___Test_Event_PAGS_2019.xls')
+update_athletes(
+    'Competition_Results_Exports_UIPM_2021_Pentathlon_World_Cup.xls')
+
 
 # pprint(athletes)
 
-json.dump(athletes, open('data.json', 'w'), indent=2)
+json.dump(athletes, open('data-women.json', 'w'), indent=2)
