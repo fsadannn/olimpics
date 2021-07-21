@@ -11,7 +11,7 @@
    }
   }
  },
- "215 GRABOSCH Pauline Sophie": {
+ "GRABOSCH Pauline Sophie": {
   "Country": "GER",
   "2020": {
    "qualif": {
@@ -32,7 +32,7 @@
    }
   }
  },
- "282 SALAZAR VALLES Jessica": {
+ "SALAZAR VALLES Jessica": {
   "Country": "MEX",
   "2020": {
    "qualif": {
@@ -42,9 +42,18 @@
     "250-500": "14.272 (3)",
     "Speed": "54056"
    }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 6,
+    "Time": "33.973",
+    "250": "19.315",
+    "250-500": "14.658",
+    "Speed": "52.983000000000004"
+   }
   }
  },
- "254 VECE Miriam": {
+ "VECE Miriam": {
   "Country": "ITA",
   "2020": {
    "qualif": {
@@ -54,9 +63,18 @@
     "250-500": "14.483 (9)",
     "Speed": "53876"
    }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 8,
+    "Time": "34.126999999999995",
+    "250": "19.279",
+    "250-500": "14.847999999999999",
+    "Speed": "52.744"
+   }
   }
  },
- "345 SHMELEVA Daria": {
+ "SHMELEVA Daria": {
   "Country": "RUS",
   "2020": {
    "qualif": {
@@ -66,9 +84,18 @@
     "250-500": "14.336 (5)",
     "Speed": "53780"
    }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 1,
+    "Time": "33.554",
+    "250": "18.982",
+    "250-500": "14.572000000000001",
+    "Speed": "53.645"
+   }
   }
  },
- "292 LAMBERINK Kyra": {
+ "LAMBERINK Kyra": {
   "Country": "NED",
   "2020": {
    "qualif": {
@@ -78,9 +105,18 @@
     "250-500": "14.717 (11)",
     "Speed": "53698"
    }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 5,
+    "Time": "33.798",
+    "250": "18.986",
+    "250-500": "14.812000000000001",
+    "Speed": "53.258"
+   }
   }
  },
- "346 VOINOVA Anastasiia": {
+ "VOINOVA Anastasiia": {
   "Country": "RUS",
   "2020": {
    "qualif": {
@@ -92,7 +128,7 @@
    }
   }
  },
- "319 LOS Urszula": {
+ "LOS Urszula": {
   "Country": "POL",
   "2020": {
    "qualif": {
@@ -104,7 +140,7 @@
    }
   }
  },
- "363 STARIKOVA Olena": {
+ "STARIKOVA Olena": {
   "Country": "UKR",
   "2020": {
    "qualif": {
@@ -114,9 +150,18 @@
     "250-500": "14.357 (6)",
     "Speed": "53289"
    }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 4,
+    "Time": "33.674",
+    "250": "19.174",
+    "250-500": "14.5",
+    "Speed": "53.45399999999999"
+   }
   }
  },
- "281 GAXIOLA GONZALEZ Luz Daniela": {
+ "GAXIOLA GONZALEZ Luz Daniela": {
   "Country": "MEX",
   "2020": {
    "qualif": {
@@ -128,7 +173,7 @@
    }
   }
  },
- "344 ROGOVAYA Ekaterina": {
+ "ROGOVAYA Ekaterina": {
   "Country": "RUS",
   "2020": {
    "qualif": {
@@ -138,9 +183,18 @@
     "250-500": "14.845 (14)",
     "Speed": "52960"
    }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 20,
+    "Time": "34.765",
+    "250": "19.387",
+    "250-500": "15.378",
+    "Speed": "51.776"
+   }
   }
  },
- "294 van der PEET Steffie": {
+ "van der PEET Steffie": {
   "Country": "NED",
   "2020": {
    "qualif": {
@@ -152,7 +206,7 @@
    }
   }
  },
- "340 ANTONOVA Natalia": {
+ "ANTONOVA Natalia": {
   "Country": "RUS",
   "2020": {
    "qualif": {
@@ -162,9 +216,18 @@
     "250-500": "14.942 (18)",
     "Speed": "52826"
    }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 12,
+    "Time": "34.296",
+    "250": "19.24",
+    "250-500": "15.056",
+    "Speed": "52.483999999999995"
+   }
   }
  },
- "100 McCULLOCH Kaarle": {
+ "McCULLOCH Kaarle": {
   "Country": "AUS",
   "2020": {
    "qualif": {
@@ -174,9 +237,18 @@
     "250-500": "14.845 (14)",
     "Speed": "52726"
    }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 2,
+    "Time": "33.556",
+    "250": "19.123",
+    "250-500": "14.433",
+    "Speed": "53.641999999999996"
+   }
   }
  },
- "164 CASAS ROIGE Helena": {
+ "CASAS ROIGE Helena": {
   "Country": "ESP",
   "2020": {
    "qualif": {
@@ -186,9 +258,18 @@
     "250-500": "14.871 (16)",
     "Speed": "52044"
    }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 16,
+    "Time": "34.415",
+    "250": "19.492",
+    "250-500": "14.923",
+    "Speed": "52.303000000000004"
+   }
   }
  },
- "140 LIN Junhong": {
+ "LIN Junhong": {
   "Country": "CHN",
   "2020": {
    "qualif": {
@@ -198,9 +279,18 @@
     "250-500": "15.578 (21)",
     "Speed": "51857"
    }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 9,
+    "Time": "34.144",
+    "250": "19.153",
+    "250-500": "14.991",
+    "Speed": "52.718"
+   }
   }
  },
- "147 GAVIRIA RENDON Juliana": {
+ "GAVIRIA RENDON Juliana": {
   "Country": "COL",
   "2020": {
    "qualif": {
@@ -212,7 +302,7 @@
    }
   }
  },
- "142 ZHANG Linyin": {
+ "ZHANG Linyin": {
   "Country": "CHN",
   "2020": {
    "qualif": {
@@ -224,7 +314,7 @@
    }
   }
  },
- "131 ORBAN Sarah": {
+ "ORBAN Sarah": {
   "Country": "CAN",
   "2020": {
    "qualif": {
@@ -236,7 +326,7 @@
    }
   }
  },
- "327 du PREEZ Charlene": {
+ "du PREEZ Charlene": {
   "Country": "RSA",
   "2020": {
    "qualif": {
@@ -246,9 +336,18 @@
     "250-500": "14.830 (13)",
     "Speed": "51161"
    }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 25,
+    "Time": "36.235",
+    "250": "20.713",
+    "250-500": "15.522",
+    "Speed": "49.676"
+   }
   }
  },
- "272 KIM Soohyun": {
+ "KIM Soohyun": {
   "Country": "KOR",
   "2020": {
    "qualif": {
@@ -260,31 +359,7 @@
    }
   }
  },
- "353 SHMELEVA Daria": {
-  "Country": "RUS",
-  "2019": {
-   "qualif": {
-    "rank": 1,
-    "Time": "33.554",
-    "250": "18.982",
-    "250-500": "14.572000000000001",
-    "Speed": "53.645"
-   }
-  }
- },
- "98 McCULLOCH Kaarle": {
-  "Country": "AUS",
-  "2019": {
-   "qualif": {
-    "rank": 2,
-    "Time": "33.556",
-    "250": "19.123",
-    "250-500": "14.433",
-    "Speed": "53.641999999999996"
-   }
-  }
- },
- "219 WELTE Miriam": {
+ "WELTE Miriam": {
   "Country": "GER",
   "2019": {
    "qualif": {
@@ -296,43 +371,7 @@
    }
   }
  },
- "378 STARIKOVA Olena": {
-  "Country": "UKR",
-  "2019": {
-   "qualif": {
-    "rank": 4,
-    "Time": "33.674",
-    "250": "19.174",
-    "250-500": "14.5",
-    "Speed": "53.45399999999999"
-   }
-  }
- },
- "297 LAMBERINK Kyra": {
-  "Country": "NED",
-  "2019": {
-   "qualif": {
-    "rank": 5,
-    "Time": "33.798",
-    "250": "18.986",
-    "250-500": "14.812000000000001",
-    "Speed": "53.258"
-   }
-  }
- },
- "286 SALAZAR VALLES Jessica": {
-  "Country": "MEX",
-  "2019": {
-   "qualif": {
-    "rank": 6,
-    "Time": "33.973",
-    "250": "19.315",
-    "250-500": "14.658",
-    "Speed": "52.983000000000004"
-   }
-  }
- },
- "214 FRIEDRICH Lea Sophie": {
+ "FRIEDRICH Lea Sophie": {
   "Country": "GER",
   "2019": {
    "qualif": {
@@ -344,31 +383,7 @@
    }
   }
  },
- "249 VECE Miriam": {
-  "Country": "ITA",
-  "2019": {
-   "qualif": {
-    "rank": 8,
-    "Time": "34.126999999999995",
-    "250": "19.279",
-    "250-500": "14.847999999999999",
-    "Speed": "52.744"
-   }
-  }
- },
- "144 LIN Junhong": {
-  "Country": "CHN",
-  "2019": {
-   "qualif": {
-    "rank": 9,
-    "Time": "34.144",
-    "250": "19.153",
-    "250-500": "14.991",
-    "Speed": "52.718"
-   }
-  }
- },
- "327 Los Urszula": {
+ "Los Urszula": {
   "Country": "POL",
   "2019": {
    "qualif": {
@@ -380,7 +395,7 @@
    }
   }
  },
- "287 VERDUGO OSUNA Yuli Paola": {
+ "VERDUGO OSUNA Yuli Paola": {
   "Country": "MEX",
   "2019": {
    "qualif": {
@@ -392,19 +407,7 @@
    }
   }
  },
- "346 ANTONOVA Natalia": {
-  "Country": "RUS",
-  "2019": {
-   "qualif": {
-    "rank": 12,
-    "Time": "34.296",
-    "250": "19.24",
-    "250-500": "15.056",
-    "Speed": "52.483999999999995"
-   }
-  }
- },
- "165 CALVO BARBERO Tania": {
+ "CALVO BARBERO Tania": {
   "Country": "ESP",
   "2019": {
    "qualif": {
@@ -416,7 +419,7 @@
    }
   }
  },
- "197 MARCHANT Katy": {
+ "MARCHANT Katy": {
   "Country": "GBR",
   "2019": {
    "qualif": {
@@ -428,19 +431,7 @@
    }
   }
  },
- "166 CASAS ROIGE Helena": {
-  "Country": "ESP",
-  "2019": {
-   "qualif": {
-    "rank": 16,
-    "Time": "34.415",
-    "250": "19.492",
-    "250-500": "14.923",
-    "Speed": "52.303000000000004"
-   }
-  }
- },
- "299 van de WOUW Hetty": {
+ "van de WOUW Hetty": {
   "Country": "NED",
   "2019": {
    "qualif": {
@@ -452,7 +443,7 @@
    }
   }
  },
- "142 GUO Yufang": {
+ "GUO Yufang": {
   "Country": "CHN",
   "2019": {
    "qualif": {
@@ -464,7 +455,7 @@
    }
   }
  },
- "150 BAYONA PINEDA Martha": {
+ "BAYONA PINEDA Martha": {
   "Country": "COL",
   "2019": {
    "qualif": {
@@ -476,19 +467,7 @@
    }
   }
  },
- "352 ROGOVAYA Ekaterina": {
-  "Country": "RUS",
-  "2019": {
-   "qualif": {
-    "rank": 20,
-    "Time": "34.765",
-    "250": "19.387",
-    "250-500": "15.378",
-    "Speed": "51.776"
-   }
-  }
- },
- "388 MARQUARDT Mandy": {
+ "MARQUARDT Mandy": {
   "Country": "USA",
   "2019": {
    "qualif": {
@@ -500,7 +479,7 @@
    }
   }
  },
- "199 WILLIAMSON Victoria": {
+ "WILLIAMSON Victoria": {
   "Country": "GBR",
   "2019": {
    "qualif": {
@@ -512,7 +491,7 @@
    }
   }
  },
- "228 DWI PUTRI Crismonita": {
+ "DWI PUTRI Crismonita": {
   "Country": "INA",
   "2019": {
    "qualif": {
@@ -524,7 +503,7 @@
    }
   }
  },
- "307 ANDREWS Ellesse": {
+ "ANDREWS Ellesse": {
   "Country": "NZL",
   "2019": {
    "qualif": {
@@ -536,19 +515,7 @@
    }
   }
  },
- "333 du PREEZ Charlene": {
-  "Country": "RSA",
-  "2019": {
-   "qualif": {
-    "rank": 25,
-    "Time": "36.235",
-    "250": "20.713",
-    "250-500": "15.522",
-    "Speed": "49.676"
-   }
-  }
- },
- "225 LI Yin Yin": {
+ "LI Yin Yin": {
   "Country": "HKG",
   "2019": {
    "qualif": {
