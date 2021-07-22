@@ -37,25 +37,6 @@
    }
   }
  },
- "BASOVA Liubov": {
-  "Country": "UKR",
-  "2020": {
-   "first_round": {
-    "rank": 3,
-    "heat": 1,
-    "Time": "11.374",
-    "Speed": "nan"
-   }
-  },
-  "2019": {
-   "first_round_repechage": {
-    "rank": 4,
-    "heat": 1,
-    "Time": "11.705",
-    "Speed": "nan"
-   }
-  }
- },
  "KRUPECKAITE Simona": {
   "Country": "LTU",
   "2020": {
@@ -94,25 +75,6 @@
    }
   }
  },
- "DEGRENDELE Nicky": {
-  "Country": "BEL",
-  "2020": {
-   "final": {
-    "rank": 5,
-    "heat": 2,
-    "Time": ""01":21.85",
-    "Speed": "nan"
-   }
-  },
-  "2019": {
-   "final": {
-    "rank": 4,
-    "heat": 2,
-    "Time": "11.48",
-    "Speed": "nan"
-   }
-  }
- },
  "LEE Hyejin": {
   "Country": "KOR",
   "2020": {
@@ -128,74 +90,6 @@
     "rank": 3,
     "heat": 2,
     "Time": "11.421",
-    "Speed": "nan"
-   }
-  }
- },
- "OHTA Riyu": {
-  "Country": "JPN",
-  "2020": {
-   "first_round": {
-    "rank": 3,
-    "heat": 2,
-    "Time": "11.403",
-    "Speed": "nan"
-   }
-  },
-  "2019": {
-   "quarter": {
-    "rank": 6,
-    "heat": 3,
-    "Time": "12.802",
-    "Speed": "nan"
-   }
-  }
- },
- "LOS Urszula": {
-  "Country": "POL",
-  "2020": {
-   "first_round": {
-    "rank": 4,
-    "heat": 2,
-    "Time": "11.475",
-    "Speed": "nan"
-   }
-  }
- },
- "LEE Hoi Yan Jessica": {
-  "Country": "HKG",
-  "2020": {
-   "first_round": {
-    "rank": 5,
-    "heat": 2,
-    "Time": "11.485",
-    "Speed": "nan"
-   }
-  },
-  "2019": {
-   "quarter": {
-    "rank": 6,
-    "heat": 1,
-    "Time": "DNF",
-    "Speed": "nan"
-   }
-  }
- },
- "BRASPENNINCX Shanne": {
-  "Country": "NED",
-  "2020": {
-   "quarter": {
-    "rank": 5,
-    "heat": 3,
-    "Time": "11.436",
-    "Speed": "nan"
-   }
-  },
-  "2019": {
-   "final": {
-    "rank": 5,
-    "heat": 1,
-    "Time": "11.380999999999998",
     "Speed": "nan"
    }
   }
@@ -219,25 +113,6 @@
    }
   }
  },
- "BAYONA PINEDA Martha": {
-  "Country": "COL",
-  "2020": {
-   "quarter": {
-    "rank": 5,
-    "heat": 2,
-    "Time": "11.493",
-    "Speed": "nan"
-   }
-  },
-  "2019": {
-   "first_round_repechage": {
-    "rank": 3,
-    "heat": 4,
-    "Time": "11.359",
-    "Speed": "nan"
-   }
-  }
- },
  "HANSEN Natasha": {
   "Country": "NZL",
   "2020": {
@@ -245,77 +120,6 @@
     "rank": 6,
     "heat": 2,
     "Time": "DNF",
-    "Speed": "nan"
-   }
-  }
- },
- "CASAS ROIGE Helena": {
-  "Country": "ESP",
-  "2020": {
-   "quarter": {
-    "rank": 6,
-    "heat": 1,
-    "Time": "11.502",
-    "Speed": "nan"
-   }
-  },
-  "2019": {
-   "first_round_repechage": {
-    "rank": 3,
-    "heat": 3,
-    "Time": "11.785",
-    "Speed": "nan"
-   }
-  }
- },
- "FRIEDRICH Lea Sophie": {
-  "Country": "GER",
-  "2020": {
-   "final": {
-    "rank": 6,
-    "heat": 1,
-    "Time": "11.831",
-    "Speed": "nan"
-   }
-  }
- },
- "ANDREWS Ellesse": {
-  "Country": "NZL",
-  "2020": {
-   "final": {
-    "rank": 5,
-    "heat": 1,
-    "Time": "11.51",
-    "Speed": "nan"
-   }
-  }
- },
- "MITCHELL Kelsey": {
-  "Country": "CAN",
-  "2020": {
-   "quarter": {
-    "rank": 6,
-    "heat": 3,
-    "Time": "11.53",
-    "Speed": "nan"
-   }
-  }
- },
- "GROS Mathilde": {
-  "Country": "FRA",
-  "2020": {
-   "final": {
-    "rank": 3,
-    "heat": 2,
-    "Time": "11.292",
-    "Speed": "nan"
-   }
-  },
-  "2019": {
-   "final": {
-    "rank": 6,
-    "heat": 1,
-    "Time": "11.444",
     "Speed": "nan"
    }
   }
@@ -339,120 +143,6 @@
    }
   }
  },
- "van RIESSEN Laurine": {
-  "Country": "NED",
-  "2020": {
-   "final": {
-    "rank": 1,
-    "heat": 2,
-    "Time": "11.162",
-    "Speed": "64505.0"
-   }
-  },
-  "2019": {
-   "final": {
-    "rank": 1,
-    "heat": 2,
-    "Time": "11.138",
-    "Speed": "64.64399999999999"
-   }
-  }
- },
- "HINZE Emma": {
-  "Country": "GER",
-  "2020": {
-   "final": {
-    "rank": 1,
-    "heat": 1,
-    "Time": "11.121",
-    "Speed": "64742.0"
-   }
-  },
-  "2019": {
-   "first_round_repechage": {
-    "rank": 3,
-    "heat": 2,
-    "Time": "11.933",
-    "Speed": "nan"
-   }
-  }
- },
- "GODBY Madalyn": {
-  "Country": "USA",
-  "2020": {
-   "final": {
-    "rank": 4,
-    "heat": 2,
-    "Time": ""01":22.12",
-    "Speed": "nan"
-   }
-  },
-  "2019": {
-   "final": {
-    "rank": 2,
-    "heat": 2,
-    "Time": "11.395999999999999",
-    "Speed": "nan"
-   }
-  }
- },
- "KOBAYASHI Yuka": {
-  "Country": "JPN",
-  "2020": {
-   "first_round": {
-    "rank": 3,
-    "heat": 5,
-    "Time": "11.067",
-    "Speed": "nan"
-   }
-  },
-  "2019": {
-   "quarter": {
-    "rank": 5,
-    "heat": 2,
-    "Time": "11.386",
-    "Speed": "nan"
-   }
-  }
- },
- "GENEST Lauriane": {
-  "Country": "CAN",
-  "2020": {
-   "quarter": {
-    "rank": 6,
-    "heat": 2,
-    "Time": "11.584000000000001",
-    "Speed": "nan"
-   }
-  },
-  "2019": {
-   "quarter": {
-    "rank": 5,
-    "heat": 3,
-    "Time": "12.003",
-    "Speed": "nan"
-   }
-  }
- },
- "du PREEZ Charlene": {
-  "Country": "RSA",
-  "2020": {
-   "first_round": {
-    "rank": 5,
-    "heat": 5,
-    "Time": "11.699",
-    "Speed": "nan"
-   }
-  },
-  "2019": {
-   "first_round_repechage": {
-    "rank": 3,
-    "heat": 1,
-    "Time": "11.701",
-    "Speed": "nan"
-   }
-  }
- },
  "PODMORE Olivia": {
   "Country": "NZL",
   "2020": {
@@ -468,61 +158,6 @@
     "rank": 4,
     "heat": 3,
     "Time": "REL",
-    "Speed": "nan"
-   }
-  }
- },
- "Los Urszula": {
-  "Country": "POL",
-  "2019": {
-   "first_round": {
-    "rank": 4,
-    "heat": 3,
-    "Time": "12.197",
-    "Speed": "nan"
-   }
-  }
- },
- "LIN Junhong": {
-  "Country": "CHN",
-  "2019": {
-   "quarter": {
-    "rank": 5,
-    "heat": 1,
-    "Time": "13.532",
-    "Speed": "nan"
-   }
-  }
- },
- "McCULLOCH Kaarle": {
-  "Country": "AUS",
-  "2019": {
-   "final": {
-    "rank": 2,
-    "heat": 1,
-    "Time": "11.13",
-    "Speed": "nan"
-   }
-  }
- },
- "CLAIR Sandie": {
-  "Country": "FRA",
-  "2019": {
-   "first_round_repechage": {
-    "rank": 4,
-    "heat": 2,
-    "Time": "REL",
-    "Speed": "nan"
-   }
-  }
- },
- "LOS Urzula": {
-  "Country": "POL",
-  "2019": {
-   "first_round_repechage": {
-    "rank": 4,
-    "heat": 4,
-    "Time": "11.854",
     "Speed": "nan"
    }
   }
