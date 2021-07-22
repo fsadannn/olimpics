@@ -1,0 +1,829 @@
+{
+ "GRABOSCH Pauline Sophie": {
+  "Country": "GER",
+  "2020": {
+   "qualif": {
+    "rank": 5,
+    "race_order": 0,
+    "lap_1": "18.935 (7)",
+    "lap_2": "13.905 (5)",
+    "total": "32.840 (5)",
+    "speed": "54811"
+   }
+  }
+ },
+ "HINZE Emma": {
+  "Country": "GER",
+  "2020": {
+   "first_round": {
+    "rank": 1,
+    "race_order": 1,
+    "lap_1": "18.817",
+    "lap_2": "13.448",
+    "total": "32.265",
+    "speed": "55,788 QG"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 3,
+    "race_order": 1,
+    "lap_1": "18.826",
+    "lap_2": "13.975999999999999",
+    "total": "32.802",
+    "speed": "54.875"
+   }
+  }
+ },
+ "McCULLOCH Kaarle": {
+  "Country": "AUS",
+  "2020": {
+   "qualif": {
+    "rank": 3,
+    "race_order": 0,
+    "lap_1": "18.906 (6)",
+    "lap_2": "13.790 (2)",
+    "total": "32.696",
+    "speed": "55053"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 1,
+    "race_order": 0,
+    "lap_1": "18.645",
+    "lap_2": "13.847000000000001",
+    "total": "32.492",
+    "speed": "55.398"
+   }
+  }
+ },
+ "MORTON Stephanie": {
+  "Country": "AUS",
+  "2020": {
+   "qualif": {
+    "rank": 3,
+    "race_order": 1,
+    "lap_1": "18.906 (6)",
+    "lap_2": "13.790 (2)",
+    "total": "32.696",
+    "speed": "55053"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 1,
+    "race_order": 1,
+    "lap_1": "18.645",
+    "lap_2": "13.847000000000001",
+    "total": "32.492",
+    "speed": "55.398"
+   }
+  }
+ },
+ "CHEN Feifei": {
+  "Country": "CHN",
+  "2020": {
+   "qualif": {
+    "rank": 2,
+    "race_order": 0,
+    "lap_1": "18.882 (5)",
+    "lap_2": "13.698 (1)",
+    "total": "32.580 (2)",
+    "speed": "55249"
+   }
+  },
+  "2019": {
+   "first_round": {
+    "rank": 2,
+    "race_order": 0,
+    "lap_1": "19.051",
+    "lap_2": "14.918",
+    "total": "33.969",
+    "speed": "52.989"
+   }
+  }
+ },
+ "ZHONG Tianshi": {
+  "Country": "CHN",
+  "2020": {
+   "qualif": {
+    "rank": 2,
+    "race_order": 1,
+    "lap_1": "18.882 (5)",
+    "lap_2": "13.698 (1)",
+    "total": "32.580 (2)",
+    "speed": "55249"
+   }
+  }
+ },
+ "SHMELEVA Daria": {
+  "Country": "RUS",
+  "2020": {
+   "qualif": {
+    "rank": 1,
+    "race_order": 0,
+    "lap_1": "18.518 (1)",
+    "lap_2": "13.943 (6)",
+    "total": "32.461 (1)",
+    "speed": "55451"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 2,
+    "race_order": 0,
+    "lap_1": "18.482",
+    "lap_2": "14.107999999999999",
+    "total": "32.59",
+    "speed": "55.232"
+   }
+  }
+ },
+ "VOINOVA Anastasiia": {
+  "Country": "RUS",
+  "2020": {
+   "qualif": {
+    "rank": 1,
+    "race_order": 1,
+    "lap_1": "18.518 (1)",
+    "lap_2": "13.943 (6)",
+    "total": "32.461 (1)",
+    "speed": "55451"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 2,
+    "race_order": 1,
+    "lap_1": "18.482",
+    "lap_2": "14.107999999999999",
+    "total": "32.59",
+    "speed": "55.232"
+   }
+  }
+ },
+ "GENEST Lauriane": {
+  "Country": "CAN",
+  "2020": {
+   "qualif": {
+    "rank": 4,
+    "race_order": 0,
+    "lap_1": "19.007 (8)",
+    "lap_2": "13.822 (3)",
+    "total": "32.829 (4)",
+    "speed": "54830"
+   }
+  }
+ },
+ "MITCHELL Kelsey": {
+  "Country": "CAN",
+  "2020": {
+   "qualif": {
+    "rank": 4,
+    "race_order": 1,
+    "lap_1": "19.007 (8)",
+    "lap_2": "13.822 (3)",
+    "total": "32.829 (4)",
+    "speed": "54830"
+   }
+  }
+ },
+ "SALAZAR VALLES Jessica": {
+  "Country": "MEX",
+  "2020": {
+   "qualif": {
+    "rank": 6,
+    "race_order": 0,
+    "lap_1": "18.826 (4)",
+    "lap_2": "14.097 (9)",
+    "total": "32.923 (6)",
+    "speed": "54673"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 5,
+    "race_order": 0,
+    "lap_1": "19.271",
+    "lap_2": "14.01",
+    "total": "33.281",
+    "speed": "54.085"
+   }
+  }
+ },
+ "GAXIOLA GONZALEZ Luz Daniela": {
+  "Country": "MEX",
+  "2020": {
+   "qualif": {
+    "rank": 6,
+    "race_order": 1,
+    "lap_1": "18.826 (4)",
+    "lap_2": "14.097 (9)",
+    "total": "32.923 (6)",
+    "speed": "54673"
+   }
+  },
+  "2019": {
+   "final": {
+    "rank": 4,
+    "race_order": 0,
+    "lap_1": "19.230999999999998",
+    "lap_2": "14.224",
+    "total": "33.455",
+    "speed": "53.803999999999995"
+   }
+  }
+ },
+ "LAMBERINK Kyra": {
+  "Country": "NED",
+  "2020": {
+   "qualif": {
+    "rank": 7,
+    "race_order": 0,
+    "lap_1": "18.800 (3)",
+    "lap_2": "14.129 (10)",
+    "total": "32.929 (7)",
+    "speed": "54663"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 6,
+    "race_order": 0,
+    "lap_1": "19.028",
+    "lap_2": "14.337",
+    "total": "33.365",
+    "speed": "53.949"
+   }
+  }
+ },
+ "van der PEET Steffie": {
+  "Country": "NED",
+  "2020": {
+   "qualif": {
+    "rank": 7,
+    "race_order": 1,
+    "lap_1": "18.800 (3)",
+    "lap_2": "14.129 (10)",
+    "total": "32.929 (7)",
+    "speed": "54663"
+   }
+  }
+ },
+ "KARWACKA Marlena": {
+  "Country": "POL",
+  "2020": {
+   "qualif": {
+    "rank": 8,
+    "race_order": 0,
+    "lap_1": "19.055 (11)",
+    "lap_2": "13.898 (4)",
+    "total": "32.953 (8)",
+    "speed": "54623"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 10,
+    "race_order": 0,
+    "lap_1": "19.565",
+    "lap_2": "14.359000000000002",
+    "total": "33.924",
+    "speed": "53.06"
+   }
+  }
+ },
+ "LOS Urszula": {
+  "Country": "POL",
+  "2020": {
+   "qualif": {
+    "rank": 8,
+    "race_order": 1,
+    "lap_1": "19.055 (11)",
+    "lap_2": "13.898 (4)",
+    "total": "32.953 (8)",
+    "speed": "54623"
+   }
+  }
+ },
+ "FRIEDRICH Lea Sophie": {
+  "Country": "GER",
+  "2020": {
+   "qualif": {
+    "rank": 5,
+    "race_order": 1,
+    "lap_1": "18.935 (7)",
+    "lap_2": "13.905 (5)",
+    "total": "32.840 (5)",
+    "speed": "54811"
+   }
+  }
+ },
+ "MAROZAITE Migle": {
+  "Country": "LTU",
+  "2020": {
+   "qualif": {
+    "rank": 9,
+    "race_order": 0,
+    "lap_1": "19.012 (9)",
+    "lap_2": "14.048 (8)",
+    "total": "33.060 (9)",
+    "speed": "54446"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 4,
+    "race_order": 0,
+    "lap_1": "19.153",
+    "lap_2": "14.125",
+    "total": "33.278",
+    "speed": "54.09"
+   }
+  }
+ },
+ "KRUPECKAITE Simona": {
+  "Country": "LTU",
+  "2020": {
+   "qualif": {
+    "rank": 9,
+    "race_order": 1,
+    "lap_1": "19.012 (9)",
+    "lap_2": "14.048 (8)",
+    "total": "33.060 (9)",
+    "speed": "54446"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 4,
+    "race_order": 1,
+    "lap_1": "19.153",
+    "lap_2": "14.125",
+    "total": "33.278",
+    "speed": "54.09"
+   }
+  }
+ },
+ "PODMORE Olivia": {
+  "Country": "NZL",
+  "2020": {
+   "qualif": {
+    "rank": 10,
+    "race_order": 0,
+    "lap_1": "19.221 (12)",
+    "lap_2": "13.963 (7)",
+    "total": "33.184 (10)",
+    "speed": "54243"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 15,
+    "race_order": 0,
+    "lap_1": "19.592",
+    "lap_2": "14.844000000000001",
+    "total": "34.436",
+    "speed": "52.271"
+   }
+  }
+ },
+ "HANSEN Natasha": {
+  "Country": "NZL",
+  "2020": {
+   "qualif": {
+    "rank": 10,
+    "race_order": 1,
+    "lap_1": "19.221 (12)",
+    "lap_2": "13.963 (7)",
+    "total": "33.184 (10)",
+    "speed": "54243"
+   }
+  }
+ },
+ "CALVO BARBERO Tania": {
+  "Country": "ESP",
+  "2020": {
+   "qualif": {
+    "rank": 11,
+    "race_order": 0,
+    "lap_1": "19.271 (13)",
+    "lap_2": "15.166 (14)",
+    "total": "33.816 (11)",
+    "speed": "53229"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 9,
+    "race_order": 0,
+    "lap_1": "19.225",
+    "lap_2": "14.577",
+    "total": "33.802",
+    "speed": "53.251000000000005"
+   }
+  }
+ },
+ "CASAS ROIGE Helena": {
+  "Country": "ESP",
+  "2020": {
+   "qualif": {
+    "rank": 11,
+    "race_order": 1,
+    "lap_1": "19.271 (13)",
+    "lap_2": "15.166 (14)",
+    "total": "33.816 (11)",
+    "speed": "53229"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 9,
+    "race_order": 1,
+    "lap_1": "19.225",
+    "lap_2": "14.577",
+    "total": "33.802",
+    "speed": "53.251000000000005"
+   }
+  }
+ },
+ "GAVIRIA RENDON Juliana": {
+  "Country": "COL",
+  "2020": {
+   "qualif": {
+    "rank": 12,
+    "race_order": 0,
+    "lap_1": "19.590 (14)",
+    "lap_2": "14.545 (13)",
+    "total": "33.826 (12)",
+    "speed": "53214"
+   }
+  }
+ },
+ "BAYONA PINEDA Martha": {
+  "Country": "COL",
+  "2020": {
+   "qualif": {
+    "rank": 12,
+    "race_order": 1,
+    "lap_1": "19.590 (14)",
+    "lap_2": "14.545 (13)",
+    "total": "33.826 (12)",
+    "speed": "53214"
+   }
+  }
+ },
+ "KIM Soohyun": {
+  "Country": "KOR",
+  "2020": {
+   "qualif": {
+    "rank": 13,
+    "race_order": 0,
+    "lap_1": "19.776 (15)",
+    "lap_2": "14.236 (11)",
+    "total": "34.171 (13)",
+    "speed": "52676"
+   }
+  }
+ },
+ "LEE Hyejin": {
+  "Country": "KOR",
+  "2020": {
+   "qualif": {
+    "rank": 13,
+    "race_order": 1,
+    "lap_1": "19.776 (15)",
+    "lap_2": "14.236 (11)",
+    "total": "34.171 (13)",
+    "speed": "52676"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 11,
+    "race_order": 1,
+    "lap_1": "19.418",
+    "lap_2": "14.527999999999999",
+    "total": "33.946",
+    "speed": "53.025"
+   }
+  }
+ },
+ "STARIKOVA Olena": {
+  "Country": "UKR",
+  "2020": {
+   "qualif": {
+    "rank": 14,
+    "race_order": 0,
+    "lap_1": "19.047 (10)",
+    "lap_2": "14.395 (12)",
+    "total": "34.213 (14)",
+    "speed": "52612"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 12,
+    "race_order": 0,
+    "lap_1": "19.186",
+    "lap_2": "15.052",
+    "total": "34.238",
+    "speed": "52.573"
+   }
+  }
+ },
+ "BASOVA Liubov": {
+  "Country": "UKR",
+  "2020": {
+   "qualif": {
+    "rank": 14,
+    "race_order": 1,
+    "lap_1": "19.047 (10)",
+    "lap_2": "14.395 (12)",
+    "total": "34.213 (14)",
+    "speed": "52612"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 12,
+    "race_order": 1,
+    "lap_1": "19.186",
+    "lap_2": "15.052",
+    "total": "34.238",
+    "speed": "52.573"
+   }
+  }
+ },
+ "VECE Miriam": {
+  "Country": "ITA",
+  "2020": {
+   "qualif": {
+    "rank": 15,
+    "race_order": 0,
+    "lap_1": "18.752 (2)",
+    "lap_2": "16.162 (15)",
+    "total": "34.914 (15)",
+    "speed": "51555"
+   }
+  },
+  "2019": {
+   "qualif": {
+    "rank": 17,
+    "race_order": 1,
+    "lap_1": "20.217",
+    "lap_2": "14.562000000000001",
+    "total": "34.779",
+    "speed": "51.755"
+   }
+  }
+ },
+ "BISSOLATI Elena": {
+  "Country": "ITA",
+  "2020": {
+   "qualif": {
+    "rank": 15,
+    "race_order": 1,
+    "lap_1": "18.752 (2)",
+    "lap_2": "16.162 (15)",
+    "total": "34.914 (15)",
+    "speed": "51555"
+   }
+  }
+ },
+ "WELTE Miriam": {
+  "Country": "GER",
+  "2019": {
+   "qualif": {
+    "rank": 3,
+    "race_order": 0,
+    "lap_1": "18.826",
+    "lap_2": "13.975999999999999",
+    "total": "32.802",
+    "speed": "54.875"
+   }
+  }
+ },
+ "VERDUGO OSUNA Yuli Paola": {
+  "Country": "MEX",
+  "2019": {
+   "qualif": {
+    "rank": 5,
+    "race_order": 1,
+    "lap_1": "19.271",
+    "lap_2": "14.01",
+    "total": "33.281",
+    "speed": "54.085"
+   }
+  }
+ },
+ "BRASPENNINCX Shanne": {
+  "Country": "NED",
+  "2019": {
+   "first_round": {
+    "rank": 2,
+    "race_order": 1,
+    "lap_1": "19.024",
+    "lap_2": "13.917",
+    "total": "32.941",
+    "speed": "54.643"
+   }
+  }
+ },
+ "CLAIR Sandie": {
+  "Country": "FRA",
+  "2019": {
+   "qualif": {
+    "rank": 7,
+    "race_order": 0,
+    "lap_1": "19.191",
+    "lap_2": "14.207",
+    "total": "33.398",
+    "speed": "53.895"
+   }
+  }
+ },
+ "GROS Mathilde": {
+  "Country": "FRA",
+  "2019": {
+   "qualif": {
+    "rank": 7,
+    "race_order": 1,
+    "lap_1": "19.191",
+    "lap_2": "14.207",
+    "total": "33.398",
+    "speed": "53.895"
+   }
+  }
+ },
+ "LIN Junhong": {
+  "Country": "CHN",
+  "2019": {
+   "qualif": {
+    "rank": 8,
+    "race_order": 0,
+    "lap_1": "18.964000000000002",
+    "lap_2": "14.800999999999998",
+    "total": "33.765",
+    "speed": "53.31"
+   }
+  }
+ },
+ "van RIESSEN Laurine": {
+  "Country": "NED",
+  "2019": {
+   "qualif": {
+    "rank": 6,
+    "race_order": 1,
+    "lap_1": "19.028",
+    "lap_2": "14.337",
+    "total": "33.365",
+    "speed": "53.949"
+   }
+  }
+ },
+ "GUO Yufang": {
+  "Country": "CHN",
+  "2019": {
+   "qualif": {
+    "rank": 8,
+    "race_order": 1,
+    "lap_1": "18.964000000000002",
+    "lap_2": "14.800999999999998",
+    "total": "33.765",
+    "speed": "53.31"
+   }
+  }
+ },
+ "los Urszula": {
+  "Country": "POL",
+  "2019": {
+   "qualif": {
+    "rank": 10,
+    "race_order": 1,
+    "lap_1": "19.565",
+    "lap_2": "14.359000000000002",
+    "total": "33.924",
+    "speed": "53.06"
+   }
+  }
+ },
+ "KIM Taenam": {
+  "Country": "KOR",
+  "2019": {
+   "qualif": {
+    "rank": 11,
+    "race_order": 0,
+    "lap_1": "19.418",
+    "lap_2": "14.527999999999999",
+    "total": "33.946",
+    "speed": "53.025"
+   }
+  }
+ },
+ "GODBY Madalyn": {
+  "Country": "USA",
+  "2019": {
+   "qualif": {
+    "rank": 13,
+    "race_order": 0,
+    "lap_1": "19.762",
+    "lap_2": "14.549000000000001",
+    "total": "34.311",
+    "speed": "52.461000000000006"
+   }
+  }
+ },
+ "MARQUARDT Mandy": {
+  "Country": "USA",
+  "2019": {
+   "qualif": {
+    "rank": 13,
+    "race_order": 1,
+    "lap_1": "19.762",
+    "lap_2": "14.549000000000001",
+    "total": "34.311",
+    "speed": "52.461000000000006"
+   }
+  }
+ },
+ "MARCHANT Katy": {
+  "Country": "GBR",
+  "2019": {
+   "qualif": {
+    "rank": 14,
+    "race_order": 0,
+    "lap_1": "19.167",
+    "lap_2": "15.229000000000001",
+    "total": "34.396",
+    "speed": "52.332"
+   }
+  }
+ },
+ "WILLIAMSON Victoria": {
+  "Country": "GBR",
+  "2019": {
+   "qualif": {
+    "rank": 14,
+    "race_order": 1,
+    "lap_1": "19.167",
+    "lap_2": "15.229000000000001",
+    "total": "34.396",
+    "speed": "52.332"
+   }
+  }
+ },
+ "ANDREWS Ellesse": {
+  "Country": "NZL",
+  "2019": {
+   "qualif": {
+    "rank": 15,
+    "race_order": 1,
+    "lap_1": "19.592",
+    "lap_2": "14.844000000000001",
+    "total": "34.436",
+    "speed": "52.271"
+   }
+  }
+ },
+ "LEE Hoi Yan Jessica": {
+  "Country": "HKG",
+  "2019": {
+   "qualif": {
+    "rank": 16,
+    "race_order": 0,
+    "lap_1": "20.445",
+    "lap_2": "14.004000000000001",
+    "total": "34.449",
+    "speed": "52.251000000000005"
+   }
+  }
+ },
+ "LEE Wai Sze": {
+  "Country": "HKG",
+  "2019": {
+   "qualif": {
+    "rank": 16,
+    "race_order": 1,
+    "lap_1": "20.445",
+    "lap_2": "14.004000000000001",
+    "total": "34.449",
+    "speed": "52.251000000000005"
+   }
+  }
+ },
+ "FIDANZA Martina": {
+  "Country": "ITA",
+  "2019": {
+   "qualif": {
+    "rank": 17,
+    "race_order": 0,
+    "lap_1": "20.217",
+    "lap_2": "14.562000000000001",
+    "total": "34.779",
+    "speed": "51.755"
+   }
+  }
+ }
+}

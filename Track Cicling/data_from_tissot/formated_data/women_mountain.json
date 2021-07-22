@@ -1,0 +1,114 @@
+{
+ "LECHNER Eva": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "2",
+    "Time": "01:30:34"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "2",
+    "Time": "01:30:34"
+   }
+  }
+ },
+ "NEFF Jolanda": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "6",
+    "Time": "01:32:19"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "6",
+    "Time": "01:32:19"
+   }
+  }
+ },
+ "WLOSZCZOWSKA Maja": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "8",
+    "Time": "01:33:17"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "8",
+    "Time": "01:33:17"
+   }
+  }
+ },
+ "INDERGAND Linda": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "15",
+    "Time": "01:36:17"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "15",
+    "Time": "01:36:17"
+   }
+  }
+ },
+ "OSL Elisabeth": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "24",
+    "Time": "01:39:06"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "24",
+    "Time": "01:39:06"
+   }
+  }
+ },
+ "MICHIELS Githa": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "25",
+    "Time": "01:39:47"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "25",
+    "Time": "01:39:47"
+   }
+  }
+ },
+ "RISSVEDS Jenny": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF2"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF2"
+   }
+  }
+ },
+ "TERPSTRA Anne": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF1"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF1"
+   }
+  }
+ }
+}

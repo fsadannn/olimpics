@@ -1,0 +1,44 @@
+{
+ "WILD Kirsten": {
+  "Country": "NED",
+  "2020": {
+   "scratch": {
+    "rank": "1"
+   }
+  },
+  "2019": {
+   "scratch": {
+    "rank": "2.0"
+   }
+  }
+ },
+ "VALENTE Jennifer": {
+  "Country": "USA",
+  "2020": {
+   "scratch": {
+    "rank": "2"
+   }
+  },
+  "2019": {
+   "scratch": {
+    "rank": "nan"
+   }
+  }
+ },
+ "BARKER Elinor": {
+  "Country": "GBR",
+  "2019": {
+   "scratch": {
+    "rank": "1.0"
+   }
+  }
+ },
+ "SHEATH Racquel": {
+  "Country": "NZL",
+  "2019": {
+   "scratch": {
+    "rank": "nan"
+   }
+  }
+ }
+}

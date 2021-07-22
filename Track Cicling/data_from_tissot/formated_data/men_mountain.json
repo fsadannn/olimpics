@@ -1,0 +1,152 @@
+{
+ "CINK Ondrej": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "5",
+    "Time": "01:27:14"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "6",
+    "Time": "01:27:39"
+   }
+  }
+ },
+ "MAROTTE Maxime": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "6",
+    "Time": "01:27:14"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "11",
+    "Time": "01:27:44"
+   }
+  }
+ },
+ "AVANCINI Henrique": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "10",
+    "Time": "01:28:26"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "10",
+    "Time": "01:27:43"
+   }
+  }
+ },
+ "KORETZKY Victor": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "14",
+    "Time": "01:28:58"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "7",
+    "Time": "01:27:40"
+   }
+  }
+ },
+ "FORSTER Lars": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "20",
+    "Time": "01:29:49"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "40",
+    "Time": "01:27:73"
+   }
+  }
+ },
+ "BOUCHARD Leandre": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "26",
+    "Time": "01:30:45"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "27",
+    "Time": "01:27:60"
+   }
+  }
+ },
+ "HAIMY Shlomi": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "62",
+    "Time": "-1LAP"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "30",
+    "Time": "01:27:63"
+   }
+  }
+ },
+ "TEMPIER Stephane": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF3"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "3",
+    "Time": "01:27:36"
+   }
+  }
+ },
+ "FUMIC Manuel": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNS"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "13",
+    "Time": "01:27:46"
+   }
+  }
+ },
+ "FERGUSON Grant": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "38",
+    "Time": "01:27:71"
+   }
+  }
+ },
+ "YAMAMOTO Kohei": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "47",
+    "Time": "01:27:80"
+   }
+  }
+ },
+ "GAGNE Raphael": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "77",
+    "Time": "-2LAP"
+   }
+  }
+ }
+}
