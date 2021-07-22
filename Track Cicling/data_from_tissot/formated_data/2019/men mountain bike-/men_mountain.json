@@ -1,15 +1,15 @@
 {
- "SCHURTER Nino": {
+ "SARROU Jordan": {
   "2020": {
    "mountain_bike": {
     "rank": "1",
-    "Time": "1:27:05"
+    "Time": "1:25:37"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "1",
-    "Time": "1:27:05"
+    "rank": "8",
+    "Time": "01:27:41"
    }
   }
  },
@@ -17,111 +17,105 @@
   "2020": {
    "mountain_bike": {
     "rank": "2",
-    "Time": "01:57:05"
+    "Time": "01:26:22"
    }
   },
   "2019": {
    "mountain_bike": {
     "rank": "2",
-    "Time": "01:57:05"
-   }
-  }
- },
- "TEMPIER Stephane": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "3",
-    "Time": "02:05:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "3",
-    "Time": "02:05:05"
+    "Time": "01:27:35"
    }
   }
  },
  "CAROD Titouan": {
   "2020": {
    "mountain_bike": {
-    "rank": "4",
-    "Time": "02:23:05"
+    "rank": "3",
+    "Time": "01:26:32"
    }
   },
   "2019": {
    "mountain_bike": {
     "rank": "4",
-    "Time": "02:23:05"
+    "Time": "01:27:37"
    }
   }
  },
- "KERSCHBAUMER Gerhard": {
+ "BRAIDOT Luca": {
   "2020": {
    "mountain_bike": {
-    "rank": "5",
-    "Time": "02:29:05"
+    "rank": "4",
+    "Time": "01:27:00"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "5",
-    "Time": "02:29:05"
+    "rank": "12",
+    "Time": "01:27:45"
    }
   }
  },
  "CINK Ondrej": {
   "2020": {
    "mountain_bike": {
-    "rank": "6",
-    "Time": "03:01:05"
+    "rank": "5",
+    "Time": "01:27:14"
    }
   },
   "2019": {
    "mountain_bike": {
     "rank": "6",
-    "Time": "03:01:05"
+    "Time": "01:27:39"
    }
   }
  },
- "KORETZKY Victor": {
+ "MAROTTE Maxime": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "6",
+    "Time": "01:27:14"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "11",
+    "Time": "01:27:44"
+   }
+  }
+ },
+ "COLOMBO Filippo": {
   "2020": {
    "mountain_bike": {
     "rank": "7",
-    "Time": "03:10:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "7",
-    "Time": "03:10:05"
+    "Time": "01:27:49"
    }
   }
  },
- "SARROU Jordan": {
+ "COLLEDANI Nadir": {
   "2020": {
    "mountain_bike": {
     "rank": "8",
-    "Time": "03:24:05"
+    "Time": "01:28:06"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "8",
-    "Time": "03:24:05"
+    "rank": "22",
+    "Time": "01:27:55"
    }
   }
  },
- "FRISCHKNECHT Andri": {
+ "SCHURTER Nino": {
   "2020": {
    "mountain_bike": {
     "rank": "9",
-    "Time": "03:27:05"
+    "Time": "01:28:10"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "9",
-    "Time": "03:27:05"
+    "rank": "1",
+    "Time": "1:27:05"
    }
   }
  },
@@ -129,679 +123,143 @@
   "2020": {
    "mountain_bike": {
     "rank": "10",
-    "Time": "03:34:05"
+    "Time": "01:28:26"
    }
   },
   "2019": {
    "mountain_bike": {
     "rank": "10",
-    "Time": "03:34:05"
+    "Time": "01:27:43"
    }
   }
  },
- "MAROTTE Maxime": {
+ "DASCALU Vlad": {
   "2020": {
    "mountain_bike": {
     "rank": "11",
-    "Time": "03:43:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "11",
-    "Time": "03:43:05"
+    "Time": "01:28:29"
    }
   }
  },
- "BRAIDOT Luca": {
+ "BRANDL Maximilian": {
   "2020": {
    "mountain_bike": {
     "rank": "12",
-    "Time": "03:54:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "12",
-    "Time": "03:54:05"
-   }
-  }
- },
- "FUMIC Manuel": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "13",
-    "Time": "04:03:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "13",
-    "Time": "04:03:05"
-   }
-  }
- },
- "FINI CARSTENSEN Sebastian": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "14",
-    "Time": "04:20:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "14",
-    "Time": "04:20:05"
-   }
-  }
- },
- "VOGEL Florian": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "15",
-    "Time": "04:32:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "15",
-    "Time": "04:32:05"
-   }
-  }
- },
- "ULLOA AREVALO Jose Gerardo": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "16",
-    "Time": "04:49:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "16",
-    "Time": "04:49:05"
-   }
-  }
- },
- "BRAIDOT Daniele": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "17",
-    "Time": "04:57:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "17",
-    "Time": "04:57:05"
-   }
-  }
- },
- "SCHUERMANS Jens": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "18",
-    "Time": "05:11:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "18",
-    "Time": "05:11:05"
-   }
-  }
- },
- "STIRNEMANN Matthias": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "19",
-    "Time": "05:16:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "19",
-    "Time": "05:16:05"
-   }
-  }
- },
- "COOPER Anton": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "20",
-    "Time": "05:17:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "20",
-    "Time": "05:17:05"
-   }
-  }
- },
- "HAEGSTAD Erik": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "21",
-    "Time": "05:28:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "21",
-    "Time": "05:28:05"
-   }
-  }
- },
- "COLLEDANI Nadir": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "22",
-    "Time": "05:38:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "22",
-    "Time": "05:38:05"
-   }
-  }
- },
- "INDERGAND Reto": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "23",
-    "Time": "05:44:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "23",
-    "Time": "05:44:05"
-   }
-  }
- },
- "McCONNELL Daniel": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "24",
-    "Time": "05:50:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "24",
-    "Time": "05:50:05"
-   }
-  }
- },
- "FOIDL Maximilian": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "25",
-    "Time": "06:17:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "25",
-    "Time": "06:17:05"
+    "Time": "01:28:51"
    }
   }
  },
  "VALERO SERRANO David": {
   "2020": {
    "mountain_bike": {
-    "rank": "26",
-    "Time": "06:32:05"
+    "rank": "13",
+    "Time": "01:28:57"
    }
   },
   "2019": {
    "mountain_bike": {
     "rank": "26",
-    "Time": "06:32:05"
+    "Time": "01:27:59"
    }
   }
  },
- "BOUCHARD Leandre": {
+ "KORETZKY Victor": {
   "2020": {
    "mountain_bike": {
-    "rank": "27",
-    "Time": "06:35:05"
+    "rank": "14",
+    "Time": "01:28:58"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "27",
-    "Time": "06:35:05"
+    "rank": "7",
+    "Time": "01:27:40"
    }
   }
  },
- "WAWAK Bartlomiej": {
+ "TABACCHI Mirko": {
   "2020": {
    "mountain_bike": {
-    "rank": "28",
-    "Time": "06:35:05"
+    "rank": "15",
+    "Time": "01:29:13"
+   }
+  }
+ },
+ "McCONNELL Daniel": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "16",
+    "Time": "01:29:17"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "28",
-    "Time": "06:35:05"
+    "rank": "24",
+    "Time": "01:27:57"
    }
   }
  },
- "COLOMA NICOLAS Carlos": {
+ "KERSCHBAUMER Gerhard": {
   "2020": {
    "mountain_bike": {
-    "rank": "29",
-    "Time": "07:00:05"
+    "rank": "17",
+    "Time": "01:29:28"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "29",
-    "Time": "07:00:05"
+    "rank": "5",
+    "Time": "01:27:38"
    }
   }
  },
- "HAIMY Shlomi": {
+ "BRAIDOT Daniele": {
   "2020": {
    "mountain_bike": {
-    "rank": "30",
-    "Time": "07:05:05"
+    "rank": "18",
+    "Time": "01:29:32"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "30",
-    "Time": "07:05:05"
+    "rank": "17",
+    "Time": "01:27:50"
    }
   }
  },
- "DINA Marton": {
+ "MANTECON GUTIERREZ Sergio": {
   "2020": {
    "mountain_bike": {
-    "rank": "31",
-    "Time": "07:07:05"
+    "rank": "19",
+    "Time": "01:29:38"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "31",
-    "Time": "07:07:05"
-   }
-  }
- },
- "HARING Martin": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "32",
-    "Time": "07:08:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "32",
-    "Time": "07:08:05"
-   }
-  }
- },
- "SINTSOV Anton": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "33",
-    "Time": "07:08:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "33",
-    "Time": "07:08:05"
-   }
-  }
- },
- "DISERA Peter": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "34",
-    "Time": "07:16:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "34",
-    "Time": "07:16:05"
-   }
-  }
- },
- "HATHERLY Alan": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "35",
-    "Time": "07:38:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "35",
-    "Time": "07:38:05"
-   }
-  }
- },
- "SCHWARZBAUER Luca": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "36",
-    "Time": "07:47:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "36",
-    "Time": "07:47:05"
-   }
-  }
- },
- "LITSCHER Thomas": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "37",
-    "Time": "07:59:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "37",
-    "Time": "07:59:05"
-   }
-  }
- },
- "FERGUSON Grant": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "38",
-    "Time": "08:04:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "38",
-    "Time": "08:04:05"
-   }
-  }
- },
- "RAGGL Gregor": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "39",
-    "Time": "08:13:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "39",
-    "Time": "08:13:05"
+    "rank": "-",
+    "Time": "DNF5"
    }
   }
  },
  "FORSTER Lars": {
   "2020": {
    "mountain_bike": {
-    "rank": "40",
-    "Time": "08:29:05"
+    "rank": "20",
+    "Time": "01:29:49"
    }
   },
   "2019": {
    "mountain_bike": {
     "rank": "40",
-    "Time": "08:29:05"
-   }
-  }
- },
- "COCUZZI Luiz Henrique": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "41",
-    "Time": "08:49:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "41",
-    "Time": "08:49:05"
-   }
-  }
- },
- "LOO Martin": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "42",
-    "Time": "09:06:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "42",
-    "Time": "09:06:05"
-   }
-  }
- },
- "BERTOLINI Gioele": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "43",
-    "Time": "09:06:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "43",
-    "Time": "09:06:05"
-   }
-  }
- },
- "EGGER Georg": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "44",
-    "Time": "09:15:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "44",
-    "Time": "09:15:05"
-   }
-  }
- },
- "RODRIGUEZ GUEDE Pablo": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "45",
-    "Time": "09:26:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "45",
-    "Time": "09:26:05"
-   }
-  }
- },
- "BLUMS Martins": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "46",
-    "Time": "09:30:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "46",
-    "Time": "09:30:05"
-   }
-  }
- },
- "YAMAMOTO Kohei": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "47",
-    "Time": "09:46:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "47",
-    "Time": "09:46:05"
-   }
-  }
- },
- "KULHAVY Jaroslav": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "48",
-    "Time": "10:13:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "48",
-    "Time": "10:13:05"
-   }
-  }
- },
- "VROUWENVELDER Luke": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "49",
-    "Time": "10:17:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "49",
-    "Time": "10:17:05"
-   }
-  }
- },
- "SCHULTE-LUNZUM Markus": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "50",
-    "Time": "10:19:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "50",
-    "Time": "10:19:05"
-   }
-  }
- },
- "IVORY Cameron": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "51",
-    "Time": "10:24:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "51",
-    "Time": "10:24:05"
-   }
-  }
- },
- "FONSECA URENA Andrey": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "52",
-    "Time": "10:41:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "52",
-    "Time": "10:41:05"
-   }
-  }
- },
- "PALUMBY Zsombor": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "53",
-    "Time": "10:42:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "53",
-    "Time": "10:42:05"
-   }
-  }
- },
- "HERRERA ARROYO Carlos": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "54",
-    "Time": "10:42:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "54",
-    "Time": "10:42:05"
-   }
-  }
- },
- "TUCKNOTT Reece": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "55",
-    "Time": "11:08:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "55",
-    "Time": "11:08:05"
-   }
-  }
- },
- "ZWIEHOFF Ben": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "56",
-    "Time": "11:32:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "56",
-    "Time": "11:32:05"
-   }
-  }
- },
- "SWENSON Keegan": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "57",
-    "Time": "12:14:05"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "57",
-    "Time": "12:14:05"
+    "Time": "01:27:73"
    }
   }
  },
  "VASTL Jan": {
   "2020": {
    "mountain_bike": {
-    "rank": "58",
-    "Time": "-1LAP"
+    "rank": "21",
+    "Time": "01:29:56"
    }
   },
   "2019": {
@@ -811,11 +269,197 @@
    }
   }
  },
+ "FINI CARSTENSEN Sebastian": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "22",
+    "Time": "01:30:04"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "14",
+    "Time": "01:27:47"
+   }
+  }
+ },
+ "VADER Milan": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "23",
+    "Time": "01:30:04"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF3"
+   }
+  }
+ },
+ "SCHELB Julian": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "24",
+    "Time": "01:30:41"
+   }
+  }
+ },
+ "HARING Martin": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "25",
+    "Time": "01:30:44"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "32",
+    "Time": "01:27:65"
+   }
+  }
+ },
+ "BOUCHARD Leandre": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "26",
+    "Time": "01:30:45"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "27",
+    "Time": "01:27:60"
+   }
+  }
+ },
+ "GRIOT Thomas": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "27",
+    "Time": "01:30:58"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF0"
+   }
+  }
+ },
+ "STIRNEMANN Matthias": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "28",
+    "Time": "01:31:27"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "19",
+    "Time": "01:27:52"
+   }
+  }
+ },
+ "SWENSON Keegan": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "29",
+    "Time": "01:31:37"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "57",
+    "Time": "01:27:90"
+   }
+  }
+ },
+ "LUKASIK Krzysztof": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "30",
+    "Time": "01:32:02"
+   }
+  }
+ },
+ "de FROIDMONT Pierre": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "31",
+    "Time": "01:32:03"
+   }
+  }
+ },
+ "ANDREASSEN Simon": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "32",
+    "Time": "01:32:22"
+   }
+  }
+ },
+ "GOTARDELO MULLER Guilherme": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "33",
+    "Time": "01:32:38"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "74",
+    "Time": "-2LAP"
+   }
+  }
+ },
+ "FOIDL Maximilian": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "34",
+    "Time": "01:32:49"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "25",
+    "Time": "01:27:58"
+   }
+  }
+ },
+ "COLOMA NICOLAS Carlos": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "35",
+    "Time": "01:32:57"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "29",
+    "Time": "01:27:62"
+   }
+  }
+ },
+ "COCUZZI Luiz Henrique": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "36",
+    "Time": "01:33:07"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "41",
+    "Time": "01:27:74"
+   }
+  }
+ },
  "CASTANEDA MONSALVE Fabio Hernando": {
   "2020": {
    "mountain_bike": {
-    "rank": "59",
-    "Time": "-1LAP"
+    "rank": "37",
+    "Time": "01:33:08"
    }
   },
   "2019": {
@@ -828,8 +472,8 @@
  "L'ESPERANCE Andrew": {
   "2020": {
    "mountain_bike": {
-    "rank": "60",
-    "Time": "-1LAP"
+    "rank": "38",
+    "Time": "01:33:11"
    }
   },
   "2019": {
@@ -839,67 +483,125 @@
    }
   }
  },
- "TREZZA de PAIVA Sherman": {
+ "SINTSOV Anton": {
   "2020": {
    "mountain_bike": {
-    "rank": "61",
-    "Time": "-1LAP"
+    "rank": "39",
+    "Time": "01:33:21"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "61",
-    "Time": "-1LAP"
+    "rank": "33",
+    "Time": "01:27:66"
    }
   }
  },
- "FORTIER Marc Andre": {
+ "DISERA Peter": {
   "2020": {
    "mountain_bike": {
-    "rank": "62",
-    "Time": "-1LAP"
+    "rank": "40",
+    "Time": "01:33:23"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "62",
-    "Time": "-1LAP"
+    "rank": "34",
+    "Time": "01:27:67"
    }
   }
  },
- "SOTO Catriel": {
+ "COOPER Anton": {
   "2020": {
    "mountain_bike": {
-    "rank": "63",
-    "Time": "-1LAP"
+    "rank": "41",
+    "Time": "01:33:40"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "63",
-    "Time": "-1LAP"
+    "rank": "20",
+    "Time": "01:27:53"
    }
   }
  },
- "QUESADA CASTILLO Jonathan Josue": {
+ "SKARNITZL Jan": {
   "2020": {
    "mountain_bike": {
-    "rank": "64",
-    "Time": "-1LAP"
+    "rank": "42",
+    "Time": "01:33:41"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "64",
-    "Time": "-1LAP"
+    "rank": "-",
+    "Time": "DNF5"
+   }
+  }
+ },
+ "RAGGL Gregor": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "43",
+    "Time": "01:33:51"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "39",
+    "Time": "01:27:72"
+   }
+  }
+ },
+ "CLACHERTY Frazer": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "44",
+    "Time": "01:34:03"
+   }
+  }
+ },
+ "FLUECKIGER Lukas": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "45",
+    "Time": "01:34:24"
+   }
+  }
+ },
+ "FRISCHKNECHT Andri": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "46",
+    "Time": "01:34:27"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "9",
+    "Time": "01:27:42"
+   }
+  }
+ },
+ "HATHERLY Alan": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "47",
+    "Time": "01:34:27"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "35",
+    "Time": "01:27:68"
    }
   }
  },
  "BOTERO VILLEGAS Jhonatan": {
   "2020": {
    "mountain_bike": {
-    "rank": "65",
-    "Time": "-1LAP"
+    "rank": "48",
+    "Time": "01:34:28"
    }
   },
   "2019": {
@@ -909,25 +611,235 @@
    }
   }
  },
- "OLIVER Ben": {
+ "TITARENKO Dmytro": {
   "2020": {
    "mountain_bike": {
-    "rank": "66",
+    "rank": "49",
+    "Time": "01:34:42"
+   }
+  }
+ },
+ "NAGLIC Rok": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "50",
+    "Time": "01:34:53"
+   }
+  }
+ },
+ "FORTIER Marc Andre": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "51",
+    "Time": "01:35:14"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "62",
+    "Time": "-1LAP"
+   }
+  }
+ },
+ "SCHWARZBAUER Luca": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "52",
+    "Time": "01:35:29"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "36",
+    "Time": "01:27:69"
+   }
+  }
+ },
+ "DELICH PARDO Nicolas": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "53",
+    "Time": "01:35:44"
+   }
+  }
+ },
+ "ULIK Matej": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "54",
+    "Time": "01:36:06"
+   }
+  }
+ },
+ "KOBES Lukas": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "55",
+    "Time": "01:36:06"
+   }
+  }
+ },
+ "EGGER Georg": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "56",
+    "Time": "01:36:38"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "44",
+    "Time": "01:27:77"
+   }
+  }
+ },
+ "name": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "rank",
+    "Time": "time"
+   }
+  }
+ },
+ "AUCLAIR Raphael": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "57",
+    "Time": "-1LAP"
+   }
+  }
+ },
+ "HELTA Filip": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "58",
+    "Time": "-1LAP"
+   }
+  }
+ },
+ "LITSCHER Thomas": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "59",
     "Time": "-1LAP"
    }
   },
   "2019": {
    "mountain_bike": {
-    "rank": "66",
+    "rank": "37",
+    "Time": "01:27:70"
+   }
+  }
+ },
+ "COSTA Fabian": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "60",
     "Time": "-1LAP"
+   }
+  }
+ },
+ "LOO Martin": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "61",
+    "Time": "-1LAP"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "42",
+    "Time": "01:27:75"
+   }
+  }
+ },
+ "HAIMY Shlomi": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "62",
+    "Time": "-1LAP"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "30",
+    "Time": "01:27:63"
+   }
+  }
+ },
+ "WIMMER Florian": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "63",
+    "Time": "-1LAP"
+   }
+  }
+ },
+ "EMBACHER Armin": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "64",
+    "Time": "-1LAP"
+   }
+  }
+ },
+ "GAZE Samuel": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "65",
+    "Time": "-2LAP"
+   }
+  }
+ },
+ "QUESADA CASTILLO Jonathan Josue": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "66",
+    "Time": "-2LAP"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "64",
+    "Time": "-1LAP"
+   }
+  }
+ },
+ "BSCHERER Moritz": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "67",
+    "Time": "-2LAP"
+   }
+  }
+ },
+ "MOLNAR Ede-Karoly": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "68",
+    "Time": "-2LAP"
+   }
+  }
+ },
+ "PALUMBY Zsombor": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "69",
+    "Time": "-2LAP"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "53",
+    "Time": "01:27:86"
    }
   }
  },
  "FILATOV Ivan": {
   "2020": {
    "mountain_bike": {
-    "rank": "67",
-    "Time": "-1LAP"
+    "rank": "70",
+    "Time": "-2LAP"
    }
   },
   "2019": {
@@ -937,13 +849,393 @@
    }
   }
  },
- "WITHAAR Jan": {
+ "FONSECA URENA Andrey": {
   "2020": {
    "mountain_bike": {
-    "rank": "68",
-    "Time": "-1LAP"
+    "rank": "71",
+    "Time": "-3LAP"
    }
   },
+  "2019": {
+   "mountain_bike": {
+    "rank": "52",
+    "Time": "01:27:85"
+   }
+  }
+ },
+ "LOGIGAN Lucian": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "72",
+    "Time": "-3LAP"
+   }
+  }
+ },
+ "MESTRIC Matija": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "73",
+    "Time": "-3LAP"
+   }
+  }
+ },
+ "de REZENDE JUNIOR Edson Gilmar": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "74",
+    "Time": "-3LAP"
+   }
+  }
+ },
+ "MIRANDA JAIME Jaime": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "75",
+    "Time": "-3LAP"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF3"
+   }
+  }
+ },
+ "KOZLOVSKYY Volodymyr": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "76",
+    "Time": "-3LAP"
+   }
+  }
+ },
+ "ALEKSIEV Aleksandar": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "77",
+    "Time": "-3LAP"
+   }
+  }
+ },
+ "OMARSSON Ingvar": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "78",
+    "Time": "-3LAP"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "82",
+    "Time": "-4LAP"
+   }
+  }
+ },
+ "HERNANDEZ de JESUS Jose Aurelio": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "79",
+    "Time": "-3LAP"
+   }
+  }
+ },
+ "SESSLER Guy": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "80",
+    "Time": "-4LAP"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF3"
+   }
+  }
+ },
+ "HERRERA Luis Mariano": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "81",
+    "Time": "-4LAP"
+   }
+  }
+ },
+ "MIRANDA JAIME Carlos": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "82",
+    "Time": "-4LAP"
+   }
+  }
+ },
+ "MAKAE Tumelo": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "83",
+    "Time": "-4LAP"
+   }
+  }
+ },
+ "COCUZZI Juliano": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "84",
+    "Time": "-4LAP"
+   }
+  }
+ },
+ "ANGELOV Lachezar": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "85",
+    "Time": "-4LAP"
+   }
+  }
+ },
+ "RODRIGUEZ GUEDE Pablo": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF5"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "45",
+    "Time": "01:27:78"
+   }
+  }
+ },
+ "ULLOA AREVALO Jose Gerardo": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF4"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "16",
+    "Time": "01:27:49"
+   }
+  }
+ },
+ "TEMPIER Stephane": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF3"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "3",
+    "Time": "01:27:36"
+   }
+  }
+ },
+ "WAWAK Bartlomiej": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF2"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "28",
+    "Time": "01:27:61"
+   }
+  }
+ },
+ "FUMIC Manuel": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNS"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "13",
+    "Time": "01:27:46"
+   }
+  }
+ },
+ "MARKT Karl": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNS"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNF3"
+   }
+  }
+ },
+ "BLUMS Martins": {
+  "2020": {
+   "mountain_bike": {
+    "rank": "-",
+    "Time": "DNS"
+   }
+  },
+  "2019": {
+   "mountain_bike": {
+    "rank": "46",
+    "Time": "01:27:79"
+   }
+  }
+ },
+ "VOGEL Florian": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "15",
+    "Time": "01:27:48"
+   }
+  }
+ },
+ "SCHUERMANS Jens": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "18",
+    "Time": "01:27:51"
+   }
+  }
+ },
+ "HAEGSTAD Erik": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "21",
+    "Time": "01:27:54"
+   }
+  }
+ },
+ "INDERGAND Reto": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "23",
+    "Time": "01:27:56"
+   }
+  }
+ },
+ "DINA Marton": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "31",
+    "Time": "01:27:64"
+   }
+  }
+ },
+ "FERGUSON Grant": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "38",
+    "Time": "01:27:71"
+   }
+  }
+ },
+ "BERTOLINI Gioele": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "43",
+    "Time": "01:27:76"
+   }
+  }
+ },
+ "YAMAMOTO Kohei": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "47",
+    "Time": "01:27:80"
+   }
+  }
+ },
+ "KULHAVY Jaroslav": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "48",
+    "Time": "01:27:81"
+   }
+  }
+ },
+ "VROUWENVELDER Luke": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "49",
+    "Time": "01:27:82"
+   }
+  }
+ },
+ "SCHULTE-LUNZUM Markus": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "50",
+    "Time": "01:27:83"
+   }
+  }
+ },
+ "IVORY Cameron": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "51",
+    "Time": "01:27:84"
+   }
+  }
+ },
+ "HERRERA ARROYO Carlos": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "54",
+    "Time": "01:27:87"
+   }
+  }
+ },
+ "TUCKNOTT Reece": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "55",
+    "Time": "01:27:88"
+   }
+  }
+ },
+ "ZWIEHOFF Ben": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "56",
+    "Time": "01:27:89"
+   }
+  }
+ },
+ "TREZZA de PAIVA Sherman": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "61",
+    "Time": "-1LAP"
+   }
+  }
+ },
+ "SOTO Catriel": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "63",
+    "Time": "-1LAP"
+   }
+  }
+ },
+ "OLIVER Ben": {
+  "2019": {
+   "mountain_bike": {
+    "rank": "66",
+    "Time": "-1LAP"
+   }
+  }
+ },
+ "WITHAAR Jan": {
   "2019": {
    "mountain_bike": {
     "rank": "68",
@@ -952,12 +1244,6 @@
   }
  },
  "DAVOUST Stephan": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "69",
-    "Time": "-1LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "69",
@@ -966,12 +1252,6 @@
   }
  },
  "BELHUMEUR Felix": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "70",
-    "Time": "-1LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "70",
@@ -980,12 +1260,6 @@
   }
  },
  "PARTI Andras": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "71",
-    "Time": "-1LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "71",
@@ -994,12 +1268,6 @@
   }
  },
  "MACIAS Jorge Alvaro": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "72",
-    "Time": "-1LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "72",
@@ -1008,40 +1276,14 @@
   }
  },
  "FINSTERWALD Russell": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "73",
-    "Time": "-2LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "73",
-    "Time": "-2LAP"
-   }
-  }
- },
- "GOTARDELO MULLER Guilherme": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "74",
-    "Time": "-2LAP"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "74",
     "Time": "-2LAP"
    }
   }
  },
  "MIRANDA MALDONADO Sebastian Alejan.": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "75",
-    "Time": "-2LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "75",
@@ -1050,12 +1292,6 @@
   }
  },
  "JAYNE Sebastian": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "76",
-    "Time": "-2LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "76",
@@ -1064,12 +1300,6 @@
   }
  },
  "GAGNE Raphael": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "77",
-    "Time": "-2LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "77",
@@ -1078,12 +1308,6 @@
   }
  },
  "DONIZETE VALERIANO Rubens": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "78",
-    "Time": "-2LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "78",
@@ -1092,12 +1316,6 @@
   }
  },
  "SAMPAIO de OLIVEIRA LAGO Kennedi": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "79",
-    "Time": "-2LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "79",
@@ -1106,12 +1324,6 @@
   }
  },
  "GASCO Dario": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "80",
-    "Time": "-2LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "80",
@@ -1120,40 +1332,14 @@
   }
  },
  "WALLACE Cory": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "81",
-    "Time": "-3LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "81",
     "Time": "-3LAP"
-   }
-  }
- },
- "OMARSSON Ingvar": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "82",
-    "Time": "-4LAP"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "82",
-    "Time": "-4LAP"
    }
   }
  },
  "MONROY Juan Fernando": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "83",
-    "Time": "-4LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "83",
@@ -1162,12 +1348,6 @@
   }
  },
  "WILD Alex": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "84",
-    "Time": "-4LAP"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "84",
@@ -1176,128 +1356,18 @@
   }
  },
  "PANHUYZEN Kevin": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF5"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "-",
     "Time": "DNF5"
-   }
-  }
- },
- "SKARNITZL Jan": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF5"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF5"
-   }
-  }
- },
- "MANTECON GUTIERREZ Sergio": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF5"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF5"
-   }
-  }
- },
- "VADER Milan": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF3"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF3"
-   }
-  }
- },
- "MARKT Karl": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF3"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF3"
-   }
-  }
- },
- "MIRANDA JAIME Jaime": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF3"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF3"
-   }
-  }
- },
- "SESSLER Guy": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF3"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF3"
    }
   }
  },
  "RAMOS GAMEZ Milton": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF2"
-   }
-  },
   "2019": {
    "mountain_bike": {
     "rank": "-",
     "Time": "DNF2"
-   }
-  }
- },
- "GRIOT Thomas": {
-  "2020": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF0"
-   }
-  },
-  "2019": {
-   "mountain_bike": {
-    "rank": "-",
-    "Time": "DNF0"
    }
   }
  }
