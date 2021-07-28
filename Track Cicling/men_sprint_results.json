@@ -1,433 +1,433 @@
 {
   "Jeffrey Hoogland": {
     "rank": 1,
-    "gap": 0.30854753288612713,
+    "gap": 0.3063774995148947,
     "sorted_rank": 0,
     "nation": "Netherlands"
   },
   "Mateusz Rudyk": {
     "rank": 2,
-    "gap": 0.31194211134726046,
+    "gap": 0.31482598037321097,
     "sorted_rank": 1,
     "nation": "Poland"
   },
   "Sebastien Vigier": {
     "rank": 3,
-    "gap": 0.26001076474936724,
+    "gap": 0.2626736015216302,
     "sorted_rank": 2,
     "nation": "France"
   },
   "Denis Dmitriev": {
-    "rank": 4,
-    "gap": 0.31782289988093737,
+    "rank": 3,
+    "gap": 0.3149012413340344,
     "sorted_rank": 3,
     "nation": "Russia"
   },
   "Harrie Lavreysen": {
     "rank": 4,
-    "gap": 0.3367541319566847,
+    "gap": 0.3354354649010496,
     "sorted_rank": 4,
     "nation": "Netherlands"
   },
   "Nathan Hart": {
     "rank": 4,
-    "gap": 0.31873929597244555,
+    "gap": 0.3137359536937119,
     "sorted_rank": 5,
     "nation": "Australia"
   },
-  "Jason Kenny": {
-    "rank": 5,
-    "gap": 0.37199561919499047,
-    "sorted_rank": 6,
-    "nation": "Great Britain"
-  },
   "Yudai Nitta": {
     "rank": 5,
-    "gap": 0.371247959588338,
-    "sorted_rank": 7,
+    "gap": 0.36803824288062614,
+    "sorted_rank": 6,
     "nation": "Japan"
+  },
+  "Jason Kenny": {
+    "rank": 5,
+    "gap": 0.3710808346830987,
+    "sorted_rank": 7,
+    "nation": "Great Britain"
   },
   "Max Niederlag": {
     "rank": 5,
-    "gap": 0.3533861118429016,
+    "gap": 0.3539692599194133,
     "sorted_rank": 8,
     "nation": "Germany"
   },
   "Matthew Glaetzer": {
     "rank": 6,
-    "gap": 0.307400384198953,
+    "gap": 0.30912666133277256,
     "sorted_rank": 9,
     "nation": "Australia"
   },
-  "Jack Carlin": {
-    "rank": 6,
-    "gap": 0.31213870996878157,
-    "sorted_rank": 10,
-    "nation": "Great Britain"
-  },
   "Nicholas Paul": {
     "rank": 6,
-    "gap": 0.35251348450900366,
-    "sorted_rank": 11,
+    "gap": 0.35153811254158285,
+    "sorted_rank": 10,
     "nation": "Trinidad and Tobago"
+  },
+  "Jack Carlin": {
+    "rank": 6,
+    "gap": 0.31132946894865654,
+    "sorted_rank": 11,
+    "nation": "Great Britain"
   },
   "Stefan B\u00f6tticher": {
     "rank": 6,
-    "gap": 0.34954527034792804,
+    "gap": 0.35310878142214364,
     "sorted_rank": 12,
     "nation": "Germany"
   },
   "Matthew Richardson": {
     "rank": 7,
-    "gap": 0.39981858671765735,
+    "gap": 0.39813100534384205,
     "sorted_rank": 13,
     "nation": "Australia"
   },
   "Quentin Caleyron": {
     "rank": 8,
-    "gap": 0.3893075428278543,
+    "gap": 0.3870189831589599,
     "sorted_rank": 14,
     "nation": "France"
   },
-  "Zhou Yu": {
-    "rank": 8,
-    "gap": 0.41005191565024646,
-    "sorted_rank": 15,
-    "nation": "China"
-  },
   "Matthijs B\u00fcchli": {
     "rank": 9,
-    "gap": 0.3904273325493435,
-    "sorted_rank": 16,
+    "gap": 0.3910902492973065,
+    "sorted_rank": 15,
     "nation": "Netherlands"
   },
-  "S\u00e1ndor Szalontay": {
+  "Zhou Yu": {
     "rank": 9,
-    "gap": 0.37601632286089526,
+    "gap": 0.415475448796343,
+    "sorted_rank": 16,
+    "nation": "China"
+  },
+  "S\u00e1ndor Szalontay": {
+    "rank": 10,
+    "gap": 0.375834427499683,
     "sorted_rank": 17,
     "nation": "Hungary"
   },
-  "Sam Ligtlee": {
-    "rank": 10,
-    "gap": 0.41953394036881875,
-    "sorted_rank": 18,
-    "nation": "Netherlands"
-  },
   "Ethan Mitchell": {
     "rank": 10,
-    "gap": 0.3299627448601363,
-    "sorted_rank": 19,
+    "gap": 0.3297105531720348,
+    "sorted_rank": 18,
     "nation": "New Zealand"
+  },
+  "Sam Ligtlee": {
+    "rank": 10,
+    "gap": 0.4204252140539033,
+    "sorted_rank": 19,
+    "nation": "Netherlands"
   },
   "Joseph Truman": {
     "rank": 10,
-    "gap": 0.40105184208150746,
+    "gap": 0.40095169047425117,
     "sorted_rank": 20,
     "nation": "Great Britain"
   },
   "Ryan Owens": {
     "rank": 10,
-    "gap": 0.3416134665606023,
+    "gap": 0.3411154105354903,
     "sorted_rank": 21,
     "nation": "Great Britain"
   },
-  "Melvin Landerneau": {
-    "rank": 11,
-    "gap": 0.3887088736361619,
-    "sorted_rank": 22,
-    "nation": "France"
-  },
   "Tomohiro Fukaya": {
     "rank": 11,
-    "gap": 0.40699176831044426,
-    "sorted_rank": 23,
+    "gap": 0.4066933078172319,
+    "sorted_rank": 22,
     "nation": "Japan"
+  },
+  "Melvin Landerneau": {
+    "rank": 11,
+    "gap": 0.3875160304813541,
+    "sorted_rank": 23,
+    "nation": "France"
   },
   "Hsieh Nien-hsing": {
     "rank": 12,
-    "gap": 0.43342007716902486,
+    "gap": 0.43362783558727713,
     "sorted_rank": 24,
     "nation": "Chinese Taipei"
   },
   "Sam Webster": {
     "rank": 12,
-    "gap": 0.377633507764493,
+    "gap": 0.37711696815860307,
     "sorted_rank": 25,
     "nation": "New Zealand"
   },
   "Stefan Ritter": {
     "rank": 12,
-    "gap": 0.39885292529673677,
+    "gap": 0.40203671232581684,
     "sorted_rank": 26,
     "nation": "Canada"
   },
+  "Kevin Quintero": {
+    "rank": 13,
+    "gap": 0.41521605231304193,
+    "sorted_rank": 27,
+    "nation": "Colombia"
+  },
   "Njisane Phillip": {
     "rank": 13,
-    "gap": 0.4152923717229058,
-    "sorted_rank": 27,
+    "gap": 0.41585359241494047,
+    "sorted_rank": 28,
     "nation": "Trinidad and Tobago"
   },
   "Law Tsz Chun": {
     "rank": 13,
-    "gap": 0.4386149025097552,
-    "sorted_rank": 28,
-    "nation": "Hong Kong"
-  },
-  "Kevin Quintero": {
-    "rank": 13,
-    "gap": 0.4176416005243766,
+    "gap": 0.4400422726524482,
     "sorted_rank": 29,
-    "nation": "Colombia"
-  },
-  "Pavel Kelemen": {
-    "rank": 14,
-    "gap": 0.34099751642384746,
-    "sorted_rank": 30,
-    "nation": "Czech Republic"
-  },
-  "Xu Chao": {
-    "rank": 14,
-    "gap": 0.36331712490619594,
-    "sorted_rank": 31,
-    "nation": "China"
+    "nation": "Hong Kong"
   },
   "Vasilijus Lendel": {
     "rank": 14,
-    "gap": 0.388172216816848,
-    "sorted_rank": 32,
+    "gap": 0.3871941726274173,
+    "sorted_rank": 30,
     "nation": "Lithuania"
+  },
+  "Xu Chao": {
+    "rank": 14,
+    "gap": 0.367643586847592,
+    "sorted_rank": 31,
+    "nation": "China"
+  },
+  "Pavel Kelemen": {
+    "rank": 14,
+    "gap": 0.3429749013731751,
+    "sorted_rank": 32,
+    "nation": "Czech Republic"
   },
   "Martin \u010cechman": {
     "rank": 14,
-    "gap": 0.3542062844723972,
+    "gap": 0.35336993185322996,
     "sorted_rank": 33,
     "nation": "Czech Republic"
   },
-  "Rayan Helal": {
+  "Muhammad Shah Firdaus Sahrom": {
     "rank": 15,
-    "gap": 0.41378995366872573,
+    "gap": 0.447359523868883,
     "sorted_rank": 34,
-    "nation": "France"
+    "nation": "Malaysia"
   },
   "Hugo Barrette": {
     "rank": 15,
-    "gap": 0.2742816560585979,
+    "gap": 0.27526391277577744,
     "sorted_rank": 35,
     "nation": "Canada"
   },
-  "Muhammad Shah Firdaus Sahrom": {
+  "Rayan Helal": {
     "rank": 15,
-    "gap": 0.4422247120840197,
+    "gap": 0.41244347334033904,
     "sorted_rank": 36,
-    "nation": "Malaysia"
+    "nation": "France"
   },
-  "Jair Tjon En Fa": {
+  "Kamil Kuczy\u0144ski": {
     "rank": 15,
-    "gap": 0.38523388001859615,
+    "gap": 0.4190732435346973,
     "sorted_rank": 37,
-    "nation": "Suriname"
+    "nation": "Poland"
   },
   "Fabi\u00e1n Puerta": {
     "rank": 15,
-    "gap": 0.3571023320626807,
+    "gap": 0.36124087763035817,
     "sorted_rank": 38,
     "nation": "Colombia"
   },
+  "Jair Tjon En Fa": {
+    "rank": 16,
+    "gap": 0.3860382608413673,
+    "sorted_rank": 39,
+    "nation": "Suriname"
+  },
   "Eddie Dawkins": {
     "rank": 16,
-    "gap": 0.3700064359338384,
-    "sorted_rank": 39,
-    "nation": "New Zealand"
-  },
-  "Kamil Kuczy\u0144ski": {
-    "rank": 16,
-    "gap": 0.4201815243643594,
+    "gap": 0.37009776450135234,
     "sorted_rank": 40,
-    "nation": "Poland"
+    "nation": "New Zealand"
   },
   "Maximilian Levy": {
     "rank": 16,
-    "gap": 0.42061314063269606,
+    "gap": 0.4181881396296703,
     "sorted_rank": 41,
     "nation": "Germany"
   },
   "Maximilian D\u00f6rnbach": {
     "rank": 16,
-    "gap": 0.4305080055878818,
+    "gap": 0.42805824674855586,
     "sorted_rank": 42,
     "nation": "Germany"
   },
-  "Pavel Yakushevskiy": {
-    "rank": 17,
-    "gap": 0.11297511910208158,
-    "sorted_rank": 43,
-    "nation": "Russia"
-  },
   "Azizulhasni Awang": {
-    "rank": 17,
-    "gap": 0.381274326713239,
-    "sorted_rank": 44,
+    "rank": 16,
+    "gap": 0.3815772497607952,
+    "sorted_rank": 43,
     "nation": "Malaysia"
   },
-  "Fran\u00e7ois Pervis": {
+  "Pavel Yakushevskiy": {
     "rank": 17,
-    "gap": 0.4322458737570969,
-    "sorted_rank": 45,
-    "nation": "France"
-  },
-  "Juan Peralta": {
-    "rank": 17,
-    "gap": 0.3729714611463848,
-    "sorted_rank": 46,
-    "nation": "Spain"
+    "gap": 0.1124425565131375,
+    "sorted_rank": 44,
+    "nation": "Russia"
   },
   "Kazunari Watanabe": {
     "rank": 17,
-    "gap": 0.4224937543712244,
-    "sorted_rank": 47,
+    "gap": 0.42167515521524024,
+    "sorted_rank": 45,
     "nation": "Japan"
   },
-  "Callum Skinner": {
+  "Fran\u00e7ois Pervis": {
+    "rank": 17,
+    "gap": 0.430335830948799,
+    "sorted_rank": 46,
+    "nation": "France"
+  },
+  "Juan Peralta": {
     "rank": 18,
-    "gap": 0.42656226398482033,
-    "sorted_rank": 48,
-    "nation": "Great Britain"
+    "gap": 0.36832148332167236,
+    "sorted_rank": 47,
+    "nation": "Spain"
   },
   "Damian Zieli\u0144ski": {
     "rank": 18,
-    "gap": 0.42314327266378626,
-    "sorted_rank": 49,
+    "gap": 0.42260299202663987,
+    "sorted_rank": 48,
     "nation": "Poland"
   },
   "Patrick Constable": {
     "rank": 18,
-    "gap": 0.4271848682046695,
-    "sorted_rank": 50,
+    "gap": 0.4343182911464396,
+    "sorted_rank": 49,
     "nation": "Australia"
+  },
+  "Callum Skinner": {
+    "rank": 18,
+    "gap": 0.42914098629037056,
+    "sorted_rank": 50,
+    "nation": "Great Britain"
   },
   "Andriy Vynokurov": {
     "rank": 18,
-    "gap": 0.4002545466172691,
+    "gap": 0.4014149646261984,
     "sorted_rank": 51,
     "nation": "Ukraine"
   },
   "Yuta Wakimoto": {
     "rank": 19,
-    "gap": 0.1406360425536164,
+    "gap": 0.14044484619826392,
     "sorted_rank": 52,
     "nation": "Japan"
   },
   "Rafa\u0142 Sarnecki": {
     "rank": 19,
-    "gap": 0.42966913919812555,
+    "gap": 0.4301311969360242,
     "sorted_rank": 53,
     "nation": "Poland"
   },
   "Joel Archambault": {
     "rank": 20,
-    "gap": 0.4381924624191029,
+    "gap": 0.4409566203946511,
     "sorted_rank": 54,
     "nation": "Canada"
   },
   "Santiago Ram\u00edrez": {
     "rank": 20,
-    "gap": 0.3727231476854769,
+    "gap": 0.37224544016100225,
     "sorted_rank": 55,
     "nation": "Colombia"
   },
   "Im Chae-bin": {
-    "rank": 20,
-    "gap": 0.42936161307163445,
+    "rank": 21,
+    "gap": 0.4282599323179852,
     "sorted_rank": 56,
     "nation": "South Korea"
   },
   "Theo Bos": {
     "rank": 21,
-    "gap": 0.43474493274765535,
+    "gap": 0.43393405557596054,
     "sorted_rank": 57,
     "nation": "Netherlands"
   },
   "Nikita Shurshin": {
     "rank": 21,
-    "gap": 0.42870582560106385,
+    "gap": 0.4312090993307578,
     "sorted_rank": 58,
     "nation": "Russia"
   },
   "Tomoyuki Kawabata": {
     "rank": 22,
-    "gap": 0.3792249540324093,
+    "gap": 0.37749620832404673,
     "sorted_rank": 59,
     "nation": "Japan"
   },
   "Sandor Szalontay": {
     "rank": 22,
-    "gap": 0.4357005938953975,
+    "gap": 0.4326885168725312,
     "sorted_rank": 60,
     "nation": "Hungary"
   },
   "Muhammad Fadhil Mohd Zonis": {
-    "rank": 22,
-    "gap": 0.4138635408109437,
+    "rank": 23,
+    "gap": 0.41303653594183487,
     "sorted_rank": 61,
     "nation": "Malaysia"
   },
   "Kirill Samusenko": {
-    "rank": 23,
-    "gap": 0.4344243438340243,
+    "rank": 24,
+    "gap": 0.4344800400118203,
     "sorted_rank": 62,
     "nation": "Russia"
   },
   "Eric Engler": {
     "rank": 25,
-    "gap": 0.18855313626998083,
+    "gap": 0.18714222441953154,
     "sorted_rank": 63,
     "nation": "Germany"
   },
   "Maxim Nalyotov": {
     "rank": 25,
-    "gap": 0.4412983109237274,
+    "gap": 0.43865274891445694,
     "sorted_rank": 64,
     "nation": "Kazakhstan"
   },
   "Svaj\u016bnas Jonauskas": {
-    "rank": 26,
-    "gap": 0.43461756181694966,
+    "rank": 27,
+    "gap": 0.42776506981518736,
     "sorted_rank": 65,
     "nation": "Lithuania"
   },
   "Muhammad Sahrom": {
     "rank": 28,
-    "gap": 0.427069783869527,
+    "gap": 0.4266452979225619,
     "sorted_rank": 66,
     "nation": "Malaysia"
   },
   "David Sojka": {
     "rank": 30,
-    "gap": 0.2061973223159228,
+    "gap": 0.2067367347675244,
     "sorted_rank": 67,
     "nation": "Czech Republic"
   },
   "Diego Pe\u00f1a": {
     "rank": 31,
-    "gap": 0.4183588012254802,
+    "gap": 0.4203802320104515,
     "sorted_rank": 68,
     "nation": "Colombia"
   },
-  "Kwesi Browne": {
-    "rank": 31,
-    "gap": 0.41618841481992774,
-    "sorted_rank": 69,
-    "nation": "Trinidad and Tobago"
-  },
   "Jean Spies": {
     "rank": 32,
-    "gap": 0.07331126391575538,
-    "sorted_rank": 70,
+    "gap": 0.0732130259471262,
+    "sorted_rank": 69,
     "nation": "South Africa"
   },
+  "Kwesi Browne": {
+    "rank": 32,
+    "gap": 0.41235915455352057,
+    "sorted_rank": 70,
+    "nation": "Trinidad and Tobago"
+  },
   "Sotirios Bretas": {
-    "rank": 33,
-    "gap": 0.4079914685491417,
+    "rank": 32,
+    "gap": 0.41324062702489783,
     "sorted_rank": 71,
     "nation": "Greece"
   }

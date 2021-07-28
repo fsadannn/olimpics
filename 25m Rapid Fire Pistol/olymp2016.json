@@ -1,0 +1,340 @@
+{
+  "Christian Reitz": {
+    "Stage 1": {
+      "Seconds 8": "100",
+      "Seconds 6": "99",
+      "Seconds 4": "97"
+    },
+    "Stage 2": {
+      "Seconds 8": "100",
+      "Seconds 6": "100",
+      "Seconds 4": "96"
+    },
+    "nation": "Germany"
+  },
+  "Zhang Fusheng": {
+    "Stage 1": {
+      "Seconds 8": "99",
+      "Seconds 6": "99",
+      "Seconds 4": "94"
+    },
+    "Stage 2": {
+      "Seconds 8": "100",
+      "Seconds 6": "99",
+      "Seconds 4": "99"
+    },
+    "nation": "China"
+  },
+  "Jean Quiquampoix": {
+    "Stage 1": {
+      "Seconds 8": "99",
+      "Seconds 6": "98",
+      "Seconds 4": "96"
+    },
+    "Stage 2": {
+      "Seconds 8": "99",
+      "Seconds 6": "99",
+      "Seconds 4": "95"
+    },
+    "nation": "France"
+  },
+  "Riccardo Mazzetti": {
+    "Stage 1": {
+      "Seconds 8": "98",
+      "Seconds 6": "98",
+      "Seconds 4": "96"
+    },
+    "Stage 2": {
+      "Seconds 8": "97",
+      "Seconds 6": "99",
+      "Seconds 4": "98"
+    },
+    "nation": "Italy"
+  },
+  "Li Yuehong": {
+    "Stage 1": {
+      "Seconds 8": "97",
+      "Seconds 6": "97",
+      "Seconds 4": "96"
+    },
+    "Stage 2": {
+      "Seconds 8": "97",
+      "Seconds 6": "99",
+      "Seconds 4": "98"
+    },
+    "nation": "China"
+  },
+  "Leuris Pupo": {
+    "Stage 1": {
+      "Seconds 8": "95",
+      "Seconds 6": "100",
+      "Seconds 4": "95"
+    },
+    "Stage 2": {
+      "Seconds 8": "100",
+      "Seconds 6": "98",
+      "Seconds 4": "95"
+    },
+    "nation": "Cuba"
+  },
+  "Gurpreet Singh": {
+    "Stage 1": {
+      "Seconds 8": "100",
+      "Seconds 6": "99",
+      "Seconds 4": "90"
+    },
+    "Stage 2": {
+      "Seconds 8": "97",
+      "Seconds 6": "98",
+      "Seconds 4": "97"
+    },
+    "nation": "India"
+  },
+  "Kim Jun-hong": {
+    "Stage 1": {
+      "Seconds 8": "98",
+      "Seconds 6": "97",
+      "Seconds 4": "92"
+    },
+    "Stage 2": {
+      "Seconds 8": "99",
+      "Seconds 6": "98",
+      "Seconds 4": "97"
+    },
+    "nation": "South Korea"
+  },
+  "Alexei Klimov": {
+    "Stage 1": {
+      "Seconds 8": "98",
+      "Seconds 6": "97",
+      "Seconds 4": "94"
+    },
+    "Stage 2": {
+      "Seconds 8": "98",
+      "Seconds 6": "96",
+      "Seconds 4": "98"
+    },
+    "nation": "Russia"
+  },
+  "Keith Sanderson": {
+    "Stage 1": {
+      "Seconds 8": "99",
+      "Seconds 6": "94",
+      "Seconds 4": "97"
+    },
+    "Stage 2": {
+      "Seconds 8": "98",
+      "Seconds 6": "99",
+      "Seconds 4": "93"
+    },
+    "nation": "United States"
+  },
+  "Roman Bondaruk": {
+    "Stage 1": {
+      "Seconds 8": "97",
+      "Seconds 6": "96",
+      "Seconds 4": "93"
+    },
+    "Stage 2": {
+      "Seconds 8": "100",
+      "Seconds 6": "98",
+      "Seconds 4": "95"
+    },
+    "nation": "Ukraine"
+  },
+  "Emil Milev": {
+    "Stage 1": {
+      "Seconds 8": "96",
+      "Seconds 6": "97",
+      "Seconds 4": "91"
+    },
+    "Stage 2": {
+      "Seconds 8": "100",
+      "Seconds 6": "98",
+      "Seconds 4": "96"
+    },
+    "nation": "United States"
+  },
+  "Emerson Duarte": {
+    "Stage 1": {
+      "Seconds 8": "98",
+      "Seconds 6": "97",
+      "Seconds 4": "90"
+    },
+    "Stage 2": {
+      "Seconds 8": "99",
+      "Seconds 6": "100",
+      "Seconds 4": "94"
+    },
+    "nation": "Brazil"
+  },
+  "Jorge Llames": {
+    "Stage 1": {
+      "Seconds 8": "97",
+      "Seconds 6": "99",
+      "Seconds 4": "92"
+    },
+    "Stage 2": {
+      "Seconds 8": "98",
+      "Seconds 6": "96",
+      "Seconds 4": "95"
+    },
+    "nation": "Spain"
+  },
+  "Ruslan Lunev": {
+    "Stage 1": {
+      "Seconds 8": "94",
+      "Seconds 6": "97",
+      "Seconds 4": "97"
+    },
+    "Stage 2": {
+      "Seconds 8": "97",
+      "Seconds 6": "96",
+      "Seconds 4": "94"
+    },
+    "nation": "Azerbaijan"
+  },
+  "Pavlo Korostylov": {
+    "Stage 1": {
+      "Seconds 8": "96",
+      "Seconds 6": "99",
+      "Seconds 4": "98"
+    },
+    "Stage 2": {
+      "Seconds 8": "99",
+      "Seconds 6": "96",
+      "Seconds 4": "86"
+    },
+    "nation": "Ukraine"
+  },
+  "Oliver Geis": {
+    "Stage 1": {
+      "Seconds 8": "97",
+      "Seconds 6": "99",
+      "Seconds 4": "95"
+    },
+    "Stage 2": {
+      "Seconds 8": "94",
+      "Seconds 6": "96",
+      "Seconds 4": "91"
+    },
+    "nation": "Germany"
+  },
+  "Ghulam Mustafa Bashir": {
+    "Stage 1": {
+      "Seconds 8": "97",
+      "Seconds 6": "94",
+      "Seconds 4": "96"
+    },
+    "Stage 2": {
+      "Seconds 8": "98",
+      "Seconds 6": "94",
+      "Seconds 4": "92"
+    },
+    "nation": "Pakistan"
+  },
+  "Eita Mori": {
+    "Stage 1": {
+      "Seconds 8": "97",
+      "Seconds 6": "96",
+      "Seconds 4": "91"
+    },
+    "Stage 2": {
+      "Seconds 8": "95",
+      "Seconds 6": "97",
+      "Seconds 4": "94"
+    },
+    "nation": "Japan"
+  },
+  "Piotr Daniluk": {
+    "Stage 1": {
+      "Seconds 8": "97",
+      "Seconds 6": "97",
+      "Seconds 4": "94"
+    },
+    "Stage 2": {
+      "Seconds 8": "97",
+      "Seconds 6": "95",
+      "Seconds 4": "87"
+    },
+    "nation": "Poland"
+  },
+  "Kang Min-su": {
+    "Stage 1": {
+      "Seconds 8": "97",
+      "Seconds 6": "94",
+      "Seconds 4": "85"
+    },
+    "Stage 2": {
+      "Seconds 8": "98",
+      "Seconds 6": "95",
+      "Seconds 4": "95"
+    },
+    "nation": "South Korea"
+  },
+  "Teruyoshi Akiyama": {
+    "Stage 1": {
+      "Seconds 8": "98",
+      "Seconds 6": "96",
+      "Seconds 4": "94"
+    },
+    "Stage 2": {
+      "Seconds 8": "95",
+      "Seconds 6": "93",
+      "Seconds 4": "88"
+    },
+    "nation": "Japan"
+  },
+  "Ahmed Shaban": {
+    "Stage 1": {
+      "Seconds 8": "96",
+      "Seconds 6": "92",
+      "Seconds 4": "90"
+    },
+    "Stage 2": {
+      "Seconds 8": "96",
+      "Seconds 6": "95",
+      "Seconds 4": "93"
+    },
+    "nation": "Egypt"
+  },
+  "Marko Carrillo": {
+    "Stage 1": {
+      "Seconds 8": "94",
+      "Seconds 6": "95",
+      "Seconds 4": "83"
+    },
+    "Stage 2": {
+      "Seconds 8": "96",
+      "Seconds 6": "97",
+      "Seconds 4": "92"
+    },
+    "nation": "Peru"
+  },
+  "Peeter Olesk": {
+    "Stage 1": {
+      "Seconds 8": "92",
+      "Seconds 6": "92",
+      "Seconds 4": "86"
+    },
+    "Stage 2": {
+      "Seconds 8": "95",
+      "Seconds 6": "95",
+      "Seconds 4": "93"
+    },
+    "nation": "Estonia"
+  },
+  "David Chapman": {
+    "Stage 1": {
+      "Seconds 8": "98",
+      "Seconds 6": "95",
+      "Seconds 4": "76"
+    },
+    "Stage 2": {
+      "Seconds 8": "95",
+      "Seconds 6": "96",
+      "Seconds 4": "91"
+    },
+    "nation": "Australia"
+  }
+}

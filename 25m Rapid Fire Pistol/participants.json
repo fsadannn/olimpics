@@ -1,0 +1,163 @@
+{
+    "LEVERETT III Jack Hobson":{
+        "name": "Jack Hobson",
+        "lastName": "LEVERETT III",
+        "nation": "USA",
+        "q":[572,571,572,559,575,573,566,558,562,578]
+    },
+    "EKIMOV Leonid":{
+        "name": "Leonid",
+        "lastName": "EKIMOV",
+        "nation": "ROC",
+        "q":[582,577,583,583,587,583,578,582,583,582,582,581,577,578,580,581,578]
+    },
+    "AKHTAR Muhammad Khalil":{
+        "name": "Muhammad Khalil",
+        "lastName": "AKHTAR",
+        "nation": "PAK",
+        "q":[579,576,586,577,579,570,578,569]
+    },
+    "MAZZETTI Riccardo":{
+        "name": "Riccardo",
+        "lastName": "MAZZETTI",
+        "nation": "ITA",
+        "q":[586,577,574,585,576,576,581,584,582,581,579,579,580,579,562,575,577,578,573,572,573,570,572,581,579,579,581]
+    },
+    "CARRILLO Marko":{
+        "name": "Marko",
+        "lastName": "CARRILLO",
+        "nation": "PER",
+        "q":[557,567,549,582,564,576,559,544,564,545,561,434,561,562,556,582,558]
+    },
+    "YOSHIOKA Dai":{
+        "name": "Dai",
+        "lastName": "YOSHIOKA",
+        "nation": "JPN",
+        "q":[567,576,571,559,565]
+    },
+    "REITZ Christian":{
+        "name": "Christian",
+        "lastName": "REITZ",
+        "nation": "GER",
+        "q":[592,583,590,582,586,587,589,578,584,576,588,588,590,591,592,587,584,582,592,584,585,584,586,590,586,586,588,590,587,589,593,590,584,588]
+    },
+    "BESSAGUET Clement":{
+        "name": "Clement",
+        "lastName": "BESSAGUET",
+        "nation": "RRA",
+        "q":[581,568,588,590,571,586,587,587,583,585,592,586,589,580,584,581,579,580,573,580,574]
+    },
+    "LEVERETT Henry Turner":{
+        "name": "Henry Turner",
+        "lastName": "LEVERETT",
+        "nation": "USA",
+        "q":[582,547,576,585,561,576,559,575]
+    },
+    "BASHIR Ghulam Mustafa":{
+        "name": "Ghulam Mustafa",
+        "lastName": "BASHIR",
+        "nation": "PAK",
+        "q":[571,583,578,578,576,576,567,566,581,577,562]
+    },
+    "HAN Daeyoon":{
+        "name": "Daeyoon",
+        "lastName": "HAN",
+        "nation": "KOR",
+        "q":[]
+    },
+    "QUIQUAMPOIX Jean":{
+        "name": "Jean",
+        "lastName": "QUIQUAMPOIX",
+        "nation": "FRA",
+        "q":[]
+    },
+    "KOROSTYLOV Pavlo":{
+        "name": "Pavlo",
+        "lastName": "KOROSTYLOV",
+        "nation": "UKR",
+        "q":[]
+    },
+    "VARLIK Ozgur":{
+        "name": "Ozgur",
+        "lastName": "VARLIK",
+        "nation": "TUR",
+        "q":[]
+    },
+    "PUPO Leuris":{
+        "name": "Leuris",
+        "lastName": "PUPO",
+        "nation": "CUB",
+        "q":[]
+    },
+    "LI Yuehong":{
+        "name": "Yuehong",
+        "lastName": "LI",
+        "nation": "CHN",
+        "q":[]
+    },
+    "OLESK Peeter":{
+        "name": "Peeter",
+        "lastName": "OLESK",
+        "nation": "EST",
+        "q":[]
+    },
+    "LIN Junmin":{
+        "name": "Junmin",
+        "lastName": "LIN",
+        "nation": "CHN",
+        "q":[]
+    },
+    "LUNEV Ruslan":{
+        "name": "Ruslan",
+        "lastName": "LUNEV",
+        "nation": "AZE",
+        "q":[]
+    },
+    "EVGLEVSKI Sergei":{
+        "name": "Sergei",
+        "lastName": "EVGLEVSKI",
+        "nation": "AUS",
+        "q":[]
+    },
+    "CHELLI Tommaso":{
+        "name": "Tommaso",
+        "lastName": "CHELLI",
+        "nation": "ITA",
+        "q":[]
+    },
+    "ALVAREZ Jorge":{
+        "name": "Jorge",
+        "lastName": "ALVAREZ",
+        "nation": "CUB",
+        "q":[]
+    },
+    "TOBAR PRADO Bernardo":{
+        "name": "Bernardo",
+        "lastName": "COL",
+        "q":[]
+    },
+    "PHURIHIRANPHAT Isaranuudom":{
+        "name": "Isaranuudom",
+        "lastName": "PHURIHIRANPHAT",
+        "nation": "THA",
+        "q":[]
+    },
+    "ENKHTAIVAN Davaakhuu":{
+        "name": "Davaakhuu",
+        "lastName": "ENKHTAIVAN",
+        "nation": "MGL",
+        "q":[]
+    },
+    "SONG Jong-Ho":{
+        "name": "Jong-Ho",
+        "lastName": "SONG",
+        "nation": "KOR",
+        "q":[]
+    },
+    "GEIS Oliver":{
+        "name": "Oliver",
+        "lastName": "GEIS",
+        "nation": "GER",
+        "q":[]
+    }
+}
