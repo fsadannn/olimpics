@@ -1,0 +1,164 @@
+{
+  "REITZ Christian": {
+    "rank": 1.7341000000000002,
+    "gap": 0.06752995495789005,
+    "sorted_rank": 0,
+    "nation": "GER"
+  },
+  "LIN Junmin": {
+    "rank": 2.1811999999999996,
+    "gap": 0.07894280381802066,
+    "sorted_rank": 1,
+    "nation": "CHN"
+  },
+  "LI Yuehong": {
+    "rank": 3.5681000000000003,
+    "gap": 0.08482811482111341,
+    "sorted_rank": 2,
+    "nation": "CHN"
+  },
+  "BESSAGUET Clement": {
+    "rank": 5.3009,
+    "gap": 0.12130841211097554,
+    "sorted_rank": 3,
+    "nation": "RRA"
+  },
+  "EKIMOV Leonid": {
+    "rank": 5.4897,
+    "gap": 0.09042292174376776,
+    "sorted_rank": 4,
+    "nation": "ROC"
+  },
+  "QUIQUAMPOIX Jean": {
+    "rank": 5.621,
+    "gap": 0.12144929583158337,
+    "sorted_rank": 5,
+    "nation": "FRA"
+  },
+  "GEIS Oliver": {
+    "rank": 6.0299,
+    "gap": 0.11337786391918758,
+    "sorted_rank": 6,
+    "nation": "GER"
+  },
+  "SONG Jong-Ho": {
+    "rank": 6.8542000000000005,
+    "gap": 0.11102070195355118,
+    "sorted_rank": 7,
+    "nation": "KOR"
+  },
+  "PUPO Leuris": {
+    "rank": 7.274699999999999,
+    "gap": 0.10833494242656627,
+    "sorted_rank": 8,
+    "nation": "CUB"
+  },
+  "HAN Daeyoon": {
+    "rank": 8.9316,
+    "gap": 0.1211933076059406,
+    "sorted_rank": 9,
+    "nation": "KOR"
+  },
+  "MAZZETTI Riccardo": {
+    "rank": 9.2368,
+    "gap": 0.11695107684643169,
+    "sorted_rank": 10,
+    "nation": "ITA"
+  },
+  "KOROSTYLOV Pavlo": {
+    "rank": 9.5558,
+    "gap": 0.118211875971161,
+    "sorted_rank": 11,
+    "nation": "UKR"
+  },
+  "AKHTAR Muhammad Khalil": {
+    "rank": 10.1238,
+    "gap": 0.11818161931361004,
+    "sorted_rank": 12,
+    "nation": "PAK"
+  },
+  "LUNEV Ruslan": {
+    "rank": 11.4855,
+    "gap": 0.109895695538901,
+    "sorted_rank": 13,
+    "nation": "AZE"
+  },
+  "ALVAREZ Jorge": {
+    "rank": 11.6008,
+    "gap": 0.12434856739798228,
+    "sorted_rank": 14,
+    "nation": "CUB"
+  },
+  "OLESK Peeter": {
+    "rank": 12.037,
+    "gap": 0.13346864467196795,
+    "sorted_rank": 15,
+    "nation": "EST"
+  },
+  "BASHIR Ghulam Mustafa": {
+    "rank": 12.3004,
+    "gap": 0.12679084795737872,
+    "sorted_rank": 16,
+    "nation": "PAK"
+  },
+  "EVGLEVSKI Sergei": {
+    "rank": 12.8723,
+    "gap": 0.12131986863913724,
+    "sorted_rank": 17,
+    "nation": "AUS"
+  },
+  "LEVERETT Henry Turner": {
+    "rank": 13.5544,
+    "gap": 0.15998281022721095,
+    "sorted_rank": 18,
+    "nation": "USA"
+  },
+  "VARLIK Ozgur": {
+    "rank": 14.858899999999998,
+    "gap": 0.11101628597534585,
+    "sorted_rank": 19,
+    "nation": "TUR"
+  },
+  "CHELLI Tommaso": {
+    "rank": 16.519,
+    "gap": 0.1167588859309241,
+    "sorted_rank": 20,
+    "nation": "ITA"
+  },
+  "PHURIHIRANPHAT Isaranuudom": {
+    "rank": 16.7692,
+    "gap": 0.10017557314348124,
+    "sorted_rank": 21,
+    "nation": "THA"
+  },
+  "ENKHTAIVAN Davaakhuu": {
+    "rank": 16.83,
+    "gap": 0.0885762482843866,
+    "sorted_rank": 22,
+    "nation": "MGL"
+  },
+  "LEVERETT III Jack Hobson": {
+    "rank": 16.8417,
+    "gap": 0.09568919603276527,
+    "sorted_rank": 23,
+    "nation": "USA"
+  },
+  "YOSHIOKA Dai": {
+    "rank": 17.7066,
+    "gap": 0.08609155164360871,
+    "sorted_rank": 24,
+    "nation": "JPN"
+  },
+  "CARRILLO Marko": {
+    "rank": 19.3675,
+    "gap": 0.1271656338664542,
+    "sorted_rank": 25,
+    "nation": "PER"
+  },
+  "TOBAR PRADO Bernardo": {
+    "rank": 22.3549,
+    "gap": 0.04756279922328588,
+    "sorted_rank": 26,
+    "nation": "COL"
+  }
+}
